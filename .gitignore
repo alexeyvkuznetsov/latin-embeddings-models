@@ -1,0 +1,13 @@
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+data/new_lemmatized_texts/
+data/_latinise_upstream/
+data/corpus_prepared/
+data/source_manifest.json
+data/benchmark/*.tsv
+data/reference_models/*.vec
+results/*
+!results/README.md
+*.model
+*.model.*

@@ -1,0 +1,388 @@
+id,file,title,creator,type,date_range_start,date_range_end,date_avg,date_note,author_religion,label,label_source,label_note,label_manual_authors,label_classifier_authors,composition,data_issue,tokens,slice
+MQDQ-108,lat_+0017_MQDQ-108.txt,Aratea,Germanicus Caesar,poetry,4.0,14.0,9,,non_christian,non_christian,date,,non_christian,non_christian,translation,,4731.0,pre180
+MQDQ-109,lat_+0017_MQDQ-109.txt,Arateorum fragmenta,Germanicus Caesar,poetry,4.0,14.0,9,,non_christian,non_christian,date,,non_christian,non_christian,original,,1662.0,pre180
+MQDQ-245,lat_+0030_MQDQ-245.txt,amores 1,"Ovidius Naso, Publius",poetry,-25.0,-16.0,-25,,non_christian,non_christian,date,,,non_christian,original,,4989.0,pre180
+MQDQ-246,lat_+0030_MQDQ-246.txt,amores 2,"Ovidius Naso, Publius",poetry,-25.0,-16.0,-25,,non_christian,non_christian,date,,non_christian,non_christian,original,,5302.0,pre180
+MQDQ-247,lat_+0030_MQDQ-247.txt,medicamina faciei,"Ovidius Naso, Publius",poetry,-1.0,1.0,1,,non_christian,non_christian,date,,non_christian,non_christian,original,,622.0,pre180
+MQDQ-248,lat_+0030_MQDQ-248.txt,ars,"Ovidius Naso, Publius",poetry,-1.0,1.0,-1,,non_christian,non_christian,date,,non_christian,non_christian,original,,15154.0,pre180
+MQDQ-249,lat_+0030_MQDQ-249.txt,remedia amoris,"Ovidius Naso, Publius",poetry,1.0,2.0,1,,non_christian,non_christian,date,,non_christian,non_christian,original,,5310.0,pre180
+MQDQ-250,lat_+0030_MQDQ-250.txt,epistulae heroides,"Ovidius Naso, Publius",poetry,-25.0,8.0,-12,,non_christian,non_christian,date,,,non_christian,original,,26172.0,pre180
+MQDQ-251,lat_+0030_MQDQ-251.txt,metamorphoses,"Ovidius Naso, Publius",poetry,1.0,8.0,6,,non_christian,non_christian,date,,,christian,original,,82124.0,pre180
+MQDQ-252,lat_+0030_MQDQ-252.txt,fasti,"Ovidius Naso, Publius",poetry,1.0,8.0,-8,,non_christian,non_christian,date,,,christian,original,,32032.0,pre180
+MQDQ-253,lat_+0030_MQDQ-253.txt,tristia 1,"Ovidius Naso, Publius",poetry,9.0,12.0,10,,non_christian,non_christian,date,,,non_christian,original,,4847.0,pre180
+MQDQ-254,lat_+0030_MQDQ-254.txt,tristia 2,"Ovidius Naso, Publius",poetry,9.0,12.0,10,,non_christian,non_christian,date,,,non_christian,original,,3760.0,pre180
+MQDQ-255,lat_+0030_MQDQ-255.txt,tristia 3,"Ovidius Naso, Publius",poetry,9.0,12.0,10,,non_christian,non_christian,date,,,non_christian,original,,5233.0,pre180
+MQDQ-256,lat_+0030_MQDQ-256.txt,tristia 4,"Ovidius Naso, Publius",poetry,9.0,12.0,10,,non_christian,non_christian,date,,,non_christian,original,,4520.0,pre180
+MQDQ-257,lat_+0030_MQDQ-257.txt,tristia 5,"Ovidius Naso, Publius",poetry,9.0,12.0,10,,non_christian,non_christian,date,,non_christian,non_christian,original,,5025.0,pre180
+MQDQ-258,lat_+0030_MQDQ-258.txt,ex Ponto 1,"Ovidius Naso, Publius",poetry,13.0,13.0,13,,non_christian,non_christian,date,,non_christian,non_christian,original,,5079.0,pre180
+MQDQ-259,lat_+0030_MQDQ-259.txt,ex Ponto 2,"Ovidius Naso, Publius",poetry,13.0,13.0,13,,non_christian,non_christian,date,,,non_christian,original,,5044.0,pre180
+MQDQ-260,lat_+0030_MQDQ-260.txt,ex Ponto 3,"Ovidius Naso, Publius",poetry,13.0,13.0,13,,non_christian,non_christian,date,,,non_christian,original,,4886.0,pre180
+MQDQ-261,lat_+0030_MQDQ-261.txt,ex Ponto 4,"Ovidius Naso, Publius",poetry,16.0,16.0,16,,non_christian,non_christian,date,,,non_christian,original,,6135.0,pre180
+MQDQ-262,lat_+0030_MQDQ-262.txt,Ibis,"Ovidius Naso, Publius",poetry,10.0,11.0,11,,non_christian,non_christian,date,,non_christian,non_christian,original,,4151.0,pre180
+MQDQ-263,lat_+0030_MQDQ-263.txt,*halieutica,Pseudo-Ovid,poetry,17.0,79.0,17,,non_christian,non_christian,date,,non_christian,non_christian,original,,787.0,pre180
+MQDQ-264,lat_+0030_MQDQ-264.txt,phaenomenon fragmenta,"Ovidius Naso, Publius",poetry,-25.0,18.0,-3,,non_christian,non_christian,date,,non_christian,non_christian,original,,40.0,pre180
+MQDQ-265,lat_+0030_MQDQ-265.txt,"Medea, fragmentum","Ovidius Naso, Publius",poetry,-25.0,-1.0,-20,,non_christian,non_christian,date,,non_christian,non_christian,original,,11.0,pre180
+MQDQ-267,lat_+0030_MQDQ-267.txt,*consolatio ad Liuiam,Pseudo-Ovid,poetry,12.0,37.0,24,,non_christian,non_christian,date,,non_christian,non_christian,original,,3135.0,pre180
+MQDQ-425,lat_+0034_MQDQ-425.txt,Hercules furens,"Seneca, Lucius Annaeus",poetry,41.0,54.0,53,,non_christian,non_christian,date,,,non_christian,original,,5126.0,pre180
+MQDQ-426,lat_+0034_MQDQ-426.txt,Troades,"Seneca, Lucius Annaeus",poetry,41.0,65.0,60,,non_christian,non_christian,date,,,non_christian,original,,4495.0,pre180
+MQDQ-427,lat_+0034_MQDQ-427.txt,Phoenissae,"Seneca, Lucius Annaeus",poetry,41.0,65.0,60,,non_christian,non_christian,date,,,non_christian,original,,4080.0,pre180
+MQDQ-428,lat_+0034_MQDQ-428.txt,Medea,"Seneca, Lucius Annaeus",poetry,41.0,65.0,53,,non_christian,non_christian,date,,,non_christian,original,,3679.0,pre180
+MQDQ-429,lat_+0034_MQDQ-429.txt,Phaedra,"Seneca, Lucius Annaeus",poetry,41.0,65.0,50,,non_christian,non_christian,date,,,non_christian,original,,4878.0,pre180
+MQDQ-430,lat_+0034_MQDQ-430.txt,Oedipus,"Seneca, Lucius Annaeus",poetry,41.0,65.0,50,,non_christian,non_christian,date,,non_christian,non_christian,original,,3633.0,pre180
+MQDQ-432,lat_+0034_MQDQ-432.txt,Thyestes,"Seneca, Lucius Annaeus",poetry,41.0,65.0,62,,non_christian,non_christian,date,,,non_christian,original,,3953.0,pre180
+MQDQ-433,lat_+0034_MQDQ-433.txt,Hercules Oetaeus,"Seneca, Lucius Annaeus",poetry,41.0,125.0,82,,non_christian,non_christian,date,,non_christian,non_christian,original,,7473.0,pre180
+MQDQ-434,lat_+0034_MQDQ-434.txt,*Octauia,"Seneca, Lucius Annaeus",poetry,68.0,100.0,84,,non_christian,non_christian,date,,,non_christian,original,,3216.0,pre180
+MQDQ-435,lat_+0034_MQDQ-435.txt,carminum fragmenta,"Seneca, Lucius Annaeus",poetry,63.0,65.0,64,,non_christian,non_christian,date,,,non_christian,original,,118.0,pre180
+MQDQ-331,lat_+0040_MQDQ-331.txt,carminis fragmentum,Asinius Pollio,poetry,-76.0,4.0,-31,,non_christian,non_christian,date,,non_christian,non_christian,original,,3.0,pre180
+MQDQ-187,lat_+0050.0_MQDQ-187.txt,astronomica,Marcus Manilius,poetry,10.0,20.0,15,,non_christian,non_christian,date,,,christian,original,,28450.0,pre180
+MQDQ-269,lat_+0050.0_MQDQ-269.txt,carminis fragmentum,Sextus Paconianus,poetry,1.0,32.0,16,,non_christian,non_christian,date,,,non_christian,original,,22.0,pre180
+MQDQ-517,lat_-0011_MQDQ-517.txt,carminum fragmenta,Valgius Rufus,poetry,-50.0,-1.0,-25,,non_christian,non_christian,date,,non_christian,non_christian,original,,73.0,pre180
+MQDQ-184,lat_-0015_MQDQ-184.txt,carminum fragmenta,Aemilius Macer,poetry,-100.0,-16.0,-20,,non_christian,non_christian,date,,non_christian,non_christian,original,,13.0,pre180
+IT-LAT0142,lat_-001_IT-LAT0142.txt,Ab Urbe condita,"Livius, Titus",prose,-31.0,17.0,-7,,non_christian,non_christian,date,,,non_christian,original,,510574.0,pre180
+MQDQ-45,lat_-0025_MQDQ-45.txt,carminum fragmenta,Cornelius Gallus,poetry,-45.0,-26.0,-35,,non_christian,non_christian,date,,,non_christian,original,,57.0,pre180
+IT-LAT0119,lat_-002_IT-LAT0119.txt,De re publica,"Cicero, Marcus Tullius",prose,-54.0,-52.0,-53,,non_christian,non_christian,date,,non_christian,non_christian,original,,19681.0,pre180
+MQDQ-356,lat_-0031_MQDQ-356.txt,elegiae 1,Propertius,poetry,-30.0,-15.0,-28,,non_christian,non_christian,date,,non_christian,non_christian,original,,4383.0,pre180
+MQDQ-357,lat_-0031_MQDQ-357.txt,elegiae 2,Propertius,poetry,-30.0,-15.0,-26,,non_christian,non_christian,date,,,non_christian,original,,8834.0,pre180
+MQDQ-358,lat_-0031_MQDQ-358.txt,elegiae 3,Propertius,poetry,-30.0,-15.0,-23,,non_christian,non_christian,date,,non_christian,non_christian,original,,6348.0,pre180
+MQDQ-359,lat_-0031_MQDQ-359.txt,elegiae 4,Propertius,poetry,-30.0,-15.0,-16,,non_christian,non_christian,date,,non_christian,non_christian,original,,6080.0,pre180
+MQDQ-495,lat_-0033_MQDQ-495.txt,elegiae 1,Tibullus,poetry,-27.0,-19.0,-23,,non_christian,non_christian,date,,non_christian,non_christian,original,,5304.0,pre180
+MQDQ-496,lat_-0033_MQDQ-496.txt,elegiae 2,Tibullus,poetry,-27.0,-19.0,-23,,non_christian,non_christian,date,,,non_christian,original,,2801.0,pre180
+MQDQ-497,lat_-0033_MQDQ-497.txt,*elegiae 3,Tibullus,poetry,-27.0,-19.0,-23,,non_christian,non_christian,date,,non_christian,non_christian,original,,1206.0,pre180
+MQDQ-126,lat_-0035_MQDQ-126.txt,epodi,Horatius,poetry,-30.0,-29.0,-30,,non_christian,non_christian,date,,non_christian,non_christian,original,,2593.0,pre180
+MQDQ-127,lat_-0035_MQDQ-127.txt,carmina 1,Horatius,poetry,-23.0,-23.0,-23,,non_christian,non_christian,date,,,non_christian,original,,3601.0,pre180
+MQDQ-128,lat_-0035_MQDQ-128.txt,carmina 2,Horatius,poetry,-23.0,-23.0,-23,,non_christian,non_christian,date,,,non_christian,original,,2379.0,pre180
+MQDQ-129,lat_-0035_MQDQ-129.txt,carmina 3,Horatius,poetry,-23.0,-23.0,-23,,non_christian,non_christian,date,,non_christian,non_christian,original,,4121.0,pre180
+MQDQ-130,lat_-0035_MQDQ-130.txt,carmina 4,Horatius,poetry,-14.0,-13.0,-13,,non_christian,non_christian,date,,,non_christian,original,,2459.0,pre180
+MQDQ-131,lat_-0035_MQDQ-131.txt,carmen saeculare,Horatius,poetry,-17.0,-17.0,-17,,non_christian,non_christian,date,,non_christian,non_christian,original,,337.0,pre180
+MQDQ-132,lat_-0035_MQDQ-132.txt,saturae 1,Horatius,poetry,-36.0,-34.0,-35,,non_christian,non_christian,date,,,non_christian,original,,7063.0,pre180
+MQDQ-133,lat_-0035_MQDQ-133.txt,saturae 2,Horatius,poetry,-30.0,-29.0,-30,,non_christian,non_christian,date,,non_christian,christian,original,,7329.0,pre180
+MQDQ-134,lat_-0035_MQDQ-134.txt,epistulae 1,Horatius,poetry,-20.0,-19.0,-20,,non_christian,non_christian,date,,,non_christian,original,,6784.0,pre180
+MQDQ-135,lat_-0035_MQDQ-135.txt,epistulae 2,Horatius,poetry,-12.0,-8.0,-12,,non_christian,non_christian,date,,non_christian,christian,original,,3224.0,pre180
+MQDQ-136,lat_-0035_MQDQ-136.txt,ars poetica,Horatius,poetry,-12.0,-8.0,-10,,non_christian,non_christian,date,,,non_christian,original,,3177.0,pre180
+MQDQ-137,lat_-0035_MQDQ-137.txt,"*ignoti uersus Hor. sat. 1, 10 praemissi",Pseudo-Horace,poetry,-36.0,-34.0,-35,,non_christian,non_christian,date,,non_christian,non_christian,original,,49.0,pre180
+IT-LAT0996,lat_-0037_IT-LAT0996.txt,Res romanae,Cornelius Severus,poetry,-40.0,14.0,-13,,non_christian,non_christian,date,,,non_christian,original,,55.0,pre180
+MQDQ-47,lat_-0040_MQDQ-47.txt,carminum fragmenta,Quintus Cornificius,poetry,-75.0,-41.0,-45,,non_christian,non_christian,date,,non_christian,non_christian,original,,7.0,pre180
+IT-LAT0097,lat_-0043_IT-LAT0097.txt,Laelius de amicitia,"Cicero, Marcus Tullius",prose,-44.0,-44.0,-44,,non_christian,non_christian,date,,,non_christian,original,,9389.0,pre180
+IT-LAT0098,lat_-0043_IT-LAT0098.txt,Cato Maior de senectute,"Cicero, Marcus Tullius",prose,-45.0,-44.0,-44,,non_christian,non_christian,date,,,non_christian,original,,8296.0,pre180
+IT-LAT0101,lat_-0043_IT-LAT0101.txt,De divinatione,"Cicero, Marcus Tullius",prose,-44.0,-44.0,-44,,non_christian,non_christian,date,,,non_christian,original,,27709.0,pre180
+IT-LAT0155,lat_-0043_IT-LAT0155.txt,De fato,"Cicero, Marcus Tullius",prose,-44.0,-44.0,-44,,non_christian,non_christian,date,,non_christian,non_christian,original,,4908.0,pre180
+MQDQ-538,lat_-0043_MQDQ-538.txt,eclogae,Vergilius,poetry,-42.0,-39.0,-39,,non_christian,non_christian,date,,,non_christian,original,,5664.0,pre180
+MQDQ-539,lat_-0043_MQDQ-539.txt,georgicon,Vergilius,poetry,-29.0,-29.0,-29,,non_christian,non_christian,date,,,non_christian,original,,14736.0,pre180
+MQDQ-541,lat_-0043_MQDQ-541.txt,Aeneis,Vergilius,poetry,-29.0,-19.0,-24,,non_christian,non_christian,date,,,christian,original,,66634.0,pre180
+MQDQ-542,lat_-0043_MQDQ-542.txt,*epitaphium,Vergilius,poetry,-19.0,-19.0,-19,,non_christian,non_christian,date,,non_christian,non_christian,original,,12.0,pre180
+IT-LAT0140,lat_-0044_IT-LAT0140.txt,Pro Deiotaro,"Cicero, Marcus Tullius",prose,-45.0,-45.0,-45,,non_christian,non_christian,date,,non_christian,non_christian,original,,3951.0,pre180
+IT-LAT0255,lat_-0044_IT-LAT0255.txt,De finibus bonorum et malorum,"Cicero, Marcus Tullius",prose,-45.0,-45.0,-45,,non_christian,non_christian,date,,non_christian,non_christian,original,,47621.0,pre180
+IT-LAT0320,lat_-0044_IT-LAT0320.txt,Timaeus,"Cicero, Marcus Tullius",prose,-45.0,-45.0,-45,,non_christian,non_christian,date,,non_christian,non_christian,translation,,4335.0,pre180
+IT-LAT0955,lat_-0044_IT-LAT0955.txt,Prognostica Aratea,"Cicero, Marcus Tullius",poetry,-89.0,-60.0,-89,,non_christian,non_christian,date,,non_christian,non_christian,translation,,190.0,pre180
+IT-LAT0956,lat_-0044_IT-LAT0956.txt,Phaenomena Aratea,"Cicero, Marcus Tullius",poetry,-89.0,-60.0,-89,,non_christian,non_christian,date,,,non_christian,translation,,5060.0,pre180
+IT-LAT0047,lat_-0045_IT-LAT0047.txt,Brutus,"Cicero, Marcus Tullius",prose,-46.0,-46.0,-46,,non_christian,non_christian,date,,non_christian,non_christian,original,,21715.0,pre180
+IT-LAT0138,lat_-0045_IT-LAT0138.txt,Pro Marcello,"Cicero, Marcus Tullius",prose,-46.0,-46.0,-46,,non_christian,non_christian,date,,,non_christian,original,,2813.0,pre180
+IT-LAT0139,lat_-0045_IT-LAT0139.txt,Pro Ligario,"Cicero, Marcus Tullius",prose,-46.0,-46.0,-46,,non_christian,non_christian,date,,,non_christian,original,,3297.0,pre180
+IT-LAT0217,lat_-0045_IT-LAT0217.txt,De partitione oratoria,"Cicero, Marcus Tullius",prose,-54.0,-52.0,-53,,non_christian,non_christian,date,,,non_christian,original,,9987.0,pre180
+IT-LAT0922,lat_-0045_IT-LAT0922.txt,Commentariolum petitionis,"Cicero, Quintus Tullius",prose,-64.0,-64.0,-64,,non_christian,non_christian,date,,,non_christian,original,,4383.0,pre180
+IT-LAT0922_1,lat_-0045_IT-LAT0922_1.txt,De haruspicum responso,"Cicero, Marcus Tullius",prose,-56.0,-56.0,-56,,non_christian,non_christian,date,,non_christian,non_christian,original,,7602.0,pre180
+IT-LAT0922_10,lat_-0045_IT-LAT0922_10.txt,Pro Murena,"Cicero, Marcus Tullius",prose,-63.0,-63.0,-63,,non_christian,non_christian,date,,,non_christian,original,,10579.0,pre180
+IT-LAT0922_11,lat_-0045_IT-LAT0922_11.txt,Pro Fonteio,"Cicero, Marcus Tullius",prose,-69.0,-69.0,-69,,non_christian,non_christian,date,,non_christian,non_christian,original,,4612.0,pre180
+IT-LAT0922_12,lat_-0045_IT-LAT0922_12.txt,Pro Scauro,"Cicero, Marcus Tullius",prose,-54.0,-54.0,-54,,non_christian,non_christian,date,,non_christian,non_christian,original,,3034.0,pre180
+IT-LAT0922_13,lat_-0045_IT-LAT0922_13.txt,Pro Sestio,"Cicero, Marcus Tullius",prose,-56.0,-56.0,-56,,non_christian,non_christian,date,,,non_christian,original,,16891.0,pre180
+IT-LAT0922_14,lat_-0045_IT-LAT0922_14.txt,Topica,"Cicero, Marcus Tullius",prose,-44.0,-44.0,-44,,non_christian,non_christian,date,,non_christian,non_christian,original,,6842.0,pre180
+IT-LAT0922_15,lat_-0045_IT-LAT0922_15.txt,Tusculanae,"Cicero, Marcus Tullius",prose,-45.0,-45.0,-45,,non_christian,non_christian,date,,,non_christian,original,,47551.0,pre180
+IT-LAT0922_16,lat_-0045_IT-LAT0922_16.txt,Academica,"Cicero, Marcus Tullius",prose,-45.0,-45.0,-45,,non_christian,non_christian,date,,,non_christian,original,,4512.0,pre180
+IT-LAT0922_2,lat_-0045_IT-LAT0922_2.txt,De imperio Cn. Pompei ad Quirites oratio,"Cicero, Marcus Tullius",prose,-66.0,-66.0,-66,,non_christian,non_christian,date,,non_christian,non_christian,original,,6722.0,pre180
+IT-LAT0922_3,lat_-0045_IT-LAT0922_3.txt,De optimo genere oratorum,"Cicero, Marcus Tullius",prose,-46.0,-46.0,-46,,non_christian,non_christian,date,,non_christian,non_christian,original,,1352.0,pre180
+IT-LAT0922_4,lat_-0045_IT-LAT0922_4.txt,De oratore,"Cicero, Marcus Tullius",prose,-55.0,-55.0,-55,,non_christian,non_christian,date,,non_christian,non_christian,original,,62496.0,pre180
+IT-LAT0922_5,lat_-0045_IT-LAT0922_5.txt,In Catilinam,"Cicero, Marcus Tullius",prose,-63.0,-63.0,-63,,non_christian,non_christian,date,,,non_christian,original,,12711.0,pre180
+IT-LAT0922_6,lat_-0045_IT-LAT0922_6.txt,Orator,"Cicero, Marcus Tullius",prose,-46.0,-46.0,-46,,non_christian,non_christian,date,,,non_christian,original,,17947.0,pre180
+IT-LAT0922_7,lat_-0045_IT-LAT0922_7.txt,Post  reditum ad Quirites oratio,"Cicero, Marcus Tullius",prose,-57.0,-57.0,-57,,non_christian,non_christian,date,,,non_christian,original,,2681.0,pre180
+IT-LAT0922_8,lat_-0045_IT-LAT0922_8.txt,Post reditum in senatu,"Cicero, Marcus Tullius",prose,-57.0,-57.0,-57,,non_christian,non_christian,date,,,non_christian,original,,4390.0,pre180
+IT-LAT0922_9,lat_-0045_IT-LAT0922_9.txt,Pro Archia,"Cicero, Marcus Tullius",prose,-62.0,-62.0,-62,,non_christian,non_christian,date,,,non_christian,original,,3131.0,pre180
+MQDQ-501,lat_-0045_MQDQ-501.txt,carminum fragmenta,Lucius Ticidas,poetry,-100.0,-46.0,-50,,non_christian,non_christian,date,,non_christian,non_christian,original,,5.0,pre180
+IT-LAT0254,lat_-0047_IT-LAT0254.txt,Paradoxa Stoicorum,"Cicero, Marcus Tullius",prose,-46.0,-46.0,-46,,non_christian,non_christian,date,,non_christian,non_christian,original,,4364.0,pre180
+MQDQ-106,lat_-0049.0_MQDQ-106.txt,carminum fragmenta,Gannius,poetry,-100.0,-1.0,-49,,non_christian,non_christian,date,,non_christian,non_christian,original,,6.0,pre180
+MQDQ-12,lat_-0049.0_MQDQ-12.txt,carminum fragmenta,Helvius Cinna,poetry,-90.0,-44.0,-49,,non_christian,non_christian,date,,,non_christian,original,,47.0,pre180
+MQDQ-160,lat_-0049.0_MQDQ-160.txt,carminum fragmenta,Laeuius,poetry,-100.0,-75.0,-90,,non_christian,non_christian,date,,,non_christian,original,,61.0,pre180
+MQDQ-162,lat_-0049.0_MQDQ-162.txt,epigramma,Tullius Laurea,poetry,-43.0,-40.0,-42,,non_christian,non_christian,date,,,non_christian,original,,62.0,pre180
+MQDQ-214,lat_-0049.0_MQDQ-214.txt,carminum fragmenta,Matius,poetry,-100.0,-75.0,-87,,non_christian,non_christian,date,,non_christian,non_christian,original,,49.0,pre180
+MQDQ-225,lat_-0049.0_MQDQ-225.txt,Atellanarum fragmenta,Mummius,poetry,-100.0,-1.0,-49,,non_christian,non_christian,date,,non_christian,non_christian,original,,23.0,pre180
+MQDQ-231,lat_-0049.0_MQDQ-231.txt,Cypriae Iliadis fragmenta,Naeuius iunior,poetry,-100.0,-1.0,-49,,non_christian,non_christian,date,,non_christian,non_christian,original,,5.0,pre180
+MQDQ-238,lat_-0049.0_MQDQ-238.txt,Atellanarum fragmenta,Nouius,poetry,-100.0,-75.0,-85,,non_christian,non_christian,date,,non_christian,non_christian,original,,654.0,pre180
+MQDQ-339,lat_-0049.0_MQDQ-339.txt,Atellanarum fragmenta,Lucius Pomponius,poetry,-89.0,-89.0,-89,,non_christian,non_christian,date,,,non_christian,original,,1199.0,pre180
+MQDQ-386,lat_-0049.0_MQDQ-386.txt,mimorum fragmenta,Publilius Syrus,poetry,-80.0,-40.0,-60,,non_christian,non_christian,date,,non_christian,non_christian,original,,103.0,pre180
+MQDQ-387,lat_-0049.0_MQDQ-387.txt,sententiae,Publilius Syrus,poetry,-80.0,-40.0,-60,,non_christian,non_christian,date,,,non_christian,original,,4662.0,pre180
+MQDQ-390,lat_-0049.0_MQDQ-390.txt,epigramma,Pupius,poetry,-50.0,-1.0,-25,,non_christian,non_christian,date,,,non_christian,original,,14.0,pre180
+MQDQ-419,lat_-0049.0_MQDQ-419.txt,tragoediarum fragmenta,Santra,poetry,-75.0,-25.0,-49,,non_christian,non_christian,date,,non_christian,non_christian,original,,20.0,pre180
+MQDQ-459,lat_-0049.0_MQDQ-459.txt,carminum fragmenta,Sueius,poetry,-100.0,-1.0,-49,,non_christian,non_christian,date,,non_christian,non_christian,original,,54.0,pre180
+MQDQ-46,lat_-0049.0_MQDQ-46.txt,carminum fragmenta,Cornelius Seuerus,poetry,-40.0,14.0,-13,,non_christian,non_christian,date,,non_christian,non_christian,original,,194.0,pre180
+MQDQ-509,lat_-0049.0_MQDQ-509.txt,comoediae fragmentum,Valerius,poetry,-100.0,-1.0,-49,,non_christian,non_christian,date,,non_christian,non_christian,original,,8.0,pre180
+MQDQ-518,lat_-0049.0_MQDQ-518.txt,tragoediarum fragmenta,Varius,poetry,-29.0,-29.0,-29,,non_christian,non_christian,date,,non_christian,non_christian,original,,33.0,pre180
+MQDQ-519,lat_-0049.0_MQDQ-519.txt,carminum fragmenta,Varius,poetry,-43.0,-15.0,-35,,non_christian,non_christian,date,,non_christian,non_christian,original,,51.0,pre180
+MQDQ-520,lat_-0049.0_MQDQ-520.txt,carminum fragmenta,Varro Atacinus,poetry,-58.0,-35.0,-49,,non_christian,non_christian,date,,,non_christian,original,,196.0,pre180
+MQDQ-568,lat_-0049.0_MQDQ-568.txt,carminis fragmentum,Volumnius,poetry,-75.0,-25.0,-49,,non_christian,non_christian,date,,,non_christian,original,,4.0,pre180
+MQDQ-626,lat_-0049.0_MQDQ-626.txt,carminum fragmenta,Furius Bibaculus,poetry,-100.0,-1.0,-49,,non_christian,non_christian,date,,non_christian,non_christian,original,,115.0,pre180
+MQDQ-633,lat_-0049.0_MQDQ-633.txt,carminum fragmenta,Licinius Caluus,poetry,-82.0,-47.0,-49,,non_christian,non_christian,date,,non_christian,non_christian,original,,19.0,pre180
+MQDQ-64,lat_-0049.0_MQDQ-64.txt,de rerum natura fragmenta,Egnatius,poetry,-100.0,-50.0,-75,,non_christian,non_christian,date,,,non_christian,original,,10.0,pre180
+MQDQ-88,lat_-0049.0_MQDQ-88.txt,epigramma de Crassitio,epigramma de Crassitio,poetry,-39.0,-30.0,-25,,non_christian,non_christian,date,,,non_christian,original,,22.0,pre180
+MQDQ-99,lat_-0049.0_MQDQ-99.txt,carminis fragmentum,Albinouanus Pedo,poetry,-25.0,25.0,-1,,non_christian,non_christian,date,,,non_christian,original,,146.0,pre180
+IT-LAT0029,lat_-0049_IT-LAT0029.txt,Bellum Catilinae,"Sallustius Crispus, Caius",prose,-42.0,-41.0,-42,,non_christian,non_christian,date,,non_christian,non_christian,original,,10744.0,pre180
+IT-LAT0029_2,lat_-0049_IT-LAT0029_2.txt,Bellum Iugurthinum,"Sallustius Crispus, Caius",prose,-40.0,-40.0,-40,,non_christian,non_christian,date,,,non_christian,original,,21285.0,pre180
+IT-LAT0029_3,lat_-0049_IT-LAT0029_3.txt,Historiae,"Sallustius Crispus, Caius",prose,-39.0,-34.0,-37,,non_christian,non_christian,date,,non_christian,non_christian,original,,4127.0,pre180
+IT-LAT0029_4,lat_-0049_IT-LAT0029_4.txt,Invectiva in Ciceronem,Pseudo-Sallust,prose,-40.0,14.0,-13,,non_christian,non_christian,date,,,non_christian,original,,715.0,pre180
+IT-LAT0056,lat_-0049_IT-LAT0056.txt,De re rustica,"Varro, Marcus Terentius",prose,-37.0,-37.0,-37,,non_christian,non_christian,date,,,non_christian,original,,35212.0,pre180
+IT-LAT0241,lat_-0049_IT-LAT0241.txt,De bello Africo,[Auctor incertus],prose,-44.0,-40.0,-42,,non_christian,non_christian,date,,,non_christian,original,,13413.0,pre180
+IT-LAT0242,lat_-0049_IT-LAT0242.txt,De bello Hispaniensi,[Auctor incertus],prose,-44.0,-40.0,-42,,non_christian,non_christian,date,,,non_christian,original,,6124.0,pre180
+IT-LAT0284,lat_-0049_IT-LAT0284.txt,Appendix Vergiliana,[Auctor incertus],poetry,1.0,100.0,50,,non_christian,non_christian,date,,,non_christian,original,,16348.0,pre180
+IT-LAT0377,lat_-0049_IT-LAT0377.txt,De ratione dicendi ad C. Herennium,[Auctor incertus],prose,-86.0,-82.0,-84,,non_christian,non_christian,date,,,non_christian,original,,29820.0,pre180
+IT-LAT0393,lat_-0049_IT-LAT0393.txt,Fragmenta varia,Cornelius Nepos,prose,-65.0,-24.0,-45,,non_christian,non_christian,date,,,non_christian,original,,219.0,pre180
+IT-LAT0849,lat_-0049_IT-LAT0849.txt,Historica fragmenta,"Actorius Naso, Marcus",prose,-100.0,-1.0,-49,,non_christian,non_christian,date,,,non_christian,original,,72.0,pre180
+LC-19,lat_-0049_LC-19.txt,Ad Caesarem Senem de Re Publica Epistula,Pseudo-Sallust,prose,-34.0,100.0,-1,,non_christian,non_christian,date,,,non_christian,original,,2570.0,pre180
+IT-LAT0096,lat_-0051_IT-LAT0096.txt,Pro Milone,"Cicero, Marcus Tullius",prose,-52.0,-51.0,-52,,non_christian,non_christian,date,,non_christian,non_christian,original,,10563.0,pre180
+IT-LAT0257,lat_-0051_IT-LAT0257.txt,De legibus,"Cicero, Marcus Tullius",prose,-52.0,-51.0,-51,,non_christian,non_christian,date,,,non_christian,original,,18831.0,pre180
+IT-LAT0535,lat_-0051_IT-LAT0535.txt,De bello civili,"Caesar, Caius Iulius",prose,-45.0,-45.0,-45,,non_christian,non_christian,date,,non_christian,non_christian,original,,24706.0,pre180
+IT-LAT0136,lat_-0053_IT-LAT0136.txt,Pro Rabirio Postumo,"Cicero, Marcus Tullius",prose,-54.0,-53.0,-53,,non_christian,non_christian,date,,,non_christian,original,,4088.0,pre180
+IT-LAT0137,lat_-0054_IT-LAT0137.txt,In L. Calpurnium Pisonem,"Cicero, Marcus Tullius",prose,-55.0,-55.0,-55,,non_christian,non_christian,date,,non_christian,non_christian,original,,11043.0,pre180
+IT-LAT0133,lat_-0055_IT-LAT0133.txt,In Vatinium,"Cicero, Marcus Tullius",prose,-56.0,-56.0,-56,,non_christian,non_christian,date,,non_christian,non_christian,original,,4439.0,pre180
+IT-LAT0134,lat_-0055_IT-LAT0134.txt,De provinciis consularibus,"Cicero, Marcus Tullius",prose,-56.0,-56.0,-56,,non_christian,non_christian,date,,non_christian,non_christian,original,,5101.0,pre180
+IT-LAT0135,lat_-0055_IT-LAT0135.txt,Pro Balbo,"Cicero, Marcus Tullius",prose,-56.0,-56.0,-56,,non_christian,non_christian,date,,,non_christian,original,,6815.0,pre180
+IT-LAT0220,lat_-0055_IT-LAT0220.txt,Pro Caelio,"Cicero, Marcus Tullius",prose,-56.0,-56.0,-56,,non_christian,non_christian,date,,,non_christian,original,,8489.0,pre180
+IT-LAT0128,lat_-0058_IT-LAT0128.txt,Pro Flacco,"Cicero, Marcus Tullius",prose,-59.0,-59.0,-59,,non_christian,non_christian,date,,non_christian,non_christian,original,,10962.0,pre180
+IT-LAT0218,lat_-0059_IT-LAT0218.txt,De consulatu suo,"Cicero, Marcus Tullius",poetry,-60.0,-60.0,-60,,non_christian,non_christian,date,,,non_christian,original,,520.0,pre180
+IT-LAT0095,lat_-0061_IT-LAT0095.txt,Pro Sulla,"Cicero, Marcus Tullius",prose,-62.0,-62.0,-62,,non_christian,non_christian,date,,,non_christian,original,,9320.0,pre180
+IT-LAT0125,lat_-0062_IT-LAT0125.txt,Pro Rabirio,"Cicero, Marcus Tullius",prose,-63.0,-63.0,-63,,non_christian,non_christian,date,,,non_christian,original,,3167.0,pre180
+IT-LAT0126,lat_-0062_IT-LAT0126.txt,De lege agraria,"Cicero, Marcus Tullius",prose,-63.0,-63.0,-63,,non_christian,non_christian,date,,,non_christian,original,,13842.0,pre180
+IT-LAT0124,lat_-0065_IT-LAT0124.txt,Pro Cluentio,"Cicero, Marcus Tullius",prose,-66.0,-66.0,-66,,non_christian,non_christian,date,,,non_christian,original,,19992.0,pre180
+MQDQ-6,lat_-0069_MQDQ-6.txt,carmina,Catullus,poetry,-61.0,-54.0,-69,,non_christian,non_christian,date,,,christian,original,,12919.0,pre180
+MQDQ-7,lat_-0069_MQDQ-7.txt,carminum fragmenta,Catullus,poetry,-61.0,-54.0,-69,,non_christian,non_christian,date,,non_christian,non_christian,original,,37.0,pre180
+MQDQ-521,lat_-0070_MQDQ-521.txt,"saturae Menippeae, fragmenta","Varro, Marcus Terentius",poetry,-81.0,-67.0,-74,,non_christian,non_christian,date,,non_christian,non_christian,original,,194.0,pre180
+MQDQ-522,lat_-0070_MQDQ-522.txt,carminum fragmenta,"Varro, Marcus Terentius",poetry,-81.0,-27.0,-70,,non_christian,non_christian,date,,non_christian,non_christian,original,,26.0,pre180
+MQDQ-631,lat_-0071_MQDQ-631.txt,carminum fragmenta,"Caesar, Caius Iulius",poetry,-100.0,-44.0,-71,,non_christian,non_christian,date,,,non_christian,original,,42.0,pre180
+MQDQ-11,lat_-0073_MQDQ-11.txt,fragmenta poetica,"Cicero, Marcus Tullius",poetry,-89.0,-43.0,-73,,non_christian,non_christian,date,,,non_christian,original,,5491.0,pre180
+MQDQ-156,lat_-0073_MQDQ-156.txt,mimorum fragmenta,Decimus Laberius,poetry,-106.0,-43.0,-73,,non_christian,non_christian,date,,non_christian,non_christian,original,,729.0,pre180
+IT-LAT0122,lat_-0075_IT-LAT0122.txt,Pro Roscio Comoedo,"Cicero, Marcus Tullius",prose,-76.0,-76.0,-76,,non_christian,non_christian,date,,,non_christian,original,,4770.0,pre180
+MQDQ-174,lat_-0075_MQDQ-174.txt,de rerum natura,Lucretius,poetry,-97.0,-55.0,-75,,non_christian,non_christian,date,,,christian,original,,49429.0,pre180
+MQDQ-493,lat_-0076_MQDQ-493.txt,togatarum fragmenta,Atta,poetry,-125.0,-77.0,-101,,non_christian,non_christian,date,,non_christian,non_christian,original,,110.0,pre180
+MQDQ-494,lat_-0076_MQDQ-494.txt,carminis fragmentum,Atta,poetry,-125.0,-77.0,-101,,non_christian,non_christian,date,,non_christian,non_christian,original,,5.0,pre180
+IT-LAT0094,lat_-0079_IT-LAT0094.txt,Pro Roscio Amerino,"Cicero, Marcus Tullius",prose,-80.0,-80.0,-80,,non_christian,non_christian,date,,,non_christian,original,,13372.0,pre180
+IT-LAT0384,lat_-0079_IT-LAT0384.txt,L. Aurelii Hermiae elogium sepulcrale,[Auctor incertus],poetry,-80.0,-50.0,-65,,non_christian,non_christian,date,,non_christian,non_christian,original,,63.0,pre180
+MQDQ-105,lat_-007_MQDQ-105.txt,epigramma,Asinius Gallus,poetry,-10.0,30.0,-7,,non_christian,non_christian,date,,,non_christian,original,,13.0,pre180
+MQDQ-186,lat_-007_MQDQ-186.txt,carminum fragmenta,Maecenas,poetry,-40.0,-8.0,-10,,non_christian,non_christian,date,,non_christian,non_christian,original,,40.0,pre180
+IT-LAT0093,lat_-0080_IT-LAT0093.txt,Pro Quinctio,"Cicero, Marcus Tullius",prose,-81.0,-81.0,-81,,non_christian,non_christian,date,,non_christian,non_christian,original,,8652.0,pre180
+IT-LAT0221,lat_-0084_IT-LAT0221.txt,De inventione,"Cicero, Marcus Tullius",prose,-87.0,-83.0,-84,,non_christian,non_christian,date,,,non_christian,original,,33339.0,pre180
+MQDQ-176,lat_-0086_MQDQ-176.txt,epigrammata,Lutatius Catulus,poetry,-130.0,-87.0,-100,,non_christian,non_christian,date,,,non_christian,original,,62.0,pre180
+MQDQ-458,lat_-0086_MQDQ-458.txt,tragoediarum fragmenta,Iulius Caesar Strabo,poetry,-131.0,-87.0,-100,,non_christian,non_christian,date,,,christian,original,,24.0,pre180
+IT-LAT0240,lat_-0089_IT-LAT0240.txt,Commentarius de bello Alexandrino,"Hirtius, Aulus",prose,-47.0,-43.0,-45,,non_christian,non_christian,date,,non_christian,non_christian,original,,10407.0,pre180
+IT-LAT0370,lat_-0091_IT-LAT0370.txt,Edictum adversus Latinos rhetores,[Auctor incertus],prose,-92.0,-92.0,-92,,non_christian,non_christian,date,,,non_christian,law,,85.0,pre180
+MQDQ-222,lat_-0099.0_MQDQ-222.txt,mimographi incerti,mimographi incerti,poetry,-200.0,-1.0,-99,,non_christian,non_christian,date,,,christian,original,,43.0,pre180
+MQDQ-275,lat_-0099.0_MQDQ-275.txt,epigrammation apud Varronem,Papinius,poetry,-100.0,-75.0,-99,,non_christian,non_christian,date,,,non_christian,original,,26.0,pre180
+MQDQ-337,lat_-0099.0_MQDQ-337.txt,tragoediae fragmentum,Pompilius,poetry,-125.0,-75.0,-100,"по Lunardi 2026, прил. A; в CSV проекта -200–-100 (средняя -99.0)",non_christian,non_christian,date,,non_christian,non_christian,original,,6.0,pre180
+MQDQ-338,lat_-0099.0_MQDQ-338.txt,epigramma,Pompilius,poetry,-125.0,-75.0,-99,,non_christian,non_christian,date,,non_christian,non_christian,original,,11.0,pre180
+MQDQ-36,lat_-0099.0_MQDQ-36.txt,palliatae fragmenta,comoediae incertorum,poetry,-200.0,-1.0,-99,,non_christian,non_christian,date,,non_christian,non_christian,original,,613.0,pre180
+MQDQ-37,lat_-0099.0_MQDQ-37.txt,togatae fragmentum,comoediae incertorum,poetry,-200.0,-1.0,-99,,non_christian,non_christian,date,,non_christian,non_christian,original,,6.0,pre180
+MQDQ-38,lat_-0099.0_MQDQ-38.txt,Atellanae fragmentum,comoediae incertorum,poetry,-200.0,-1.0,-99,,non_christian,non_christian,date,,,non_christian,original,,34.0,pre180
+MQDQ-442,lat_-0099.0_MQDQ-442.txt,saturae fragmentum,Sevius Nicanus,poetry,-125.0,-75.0,-99,,non_christian,non_christian,date,,,non_christian,original,,12.0,pre180
+MQDQ-504,lat_-0099.0_MQDQ-504.txt,fabulae,tragici incerti,poetry,-200.0,-1.0,-99,,non_christian,non_christian,date,,non_christian,non_christian,original,,28.0,pre180
+MQDQ-505,lat_-0099.0_MQDQ-505.txt,fabulae incertae,tragici incerti,poetry,-200.0,-1.0,-99,,non_christian,non_christian,date,,non_christian,non_christian,original,,1449.0,pre180
+MQDQ-635,lat_-0099.0_MQDQ-635.txt,epigrammata,Valerius Aeditus,poetry,-125.0,-75.0,-99,,non_christian,non_christian,date,,non_christian,non_christian,original,,72.0,pre180
+MQDQ-511,lat_-0105_MQDQ-511.txt,carminum fragmenta,Valerius Soranus,poetry,-130.0,-82.0,-105,,non_christian,non_christian,date,,non_christian,non_christian,original,,15.0,pre180
+IT-LAT0992,lat_-0107_IT-LAT0992.txt,Epistula ad Quintum Catulum,"Catilina, Lucius Sergius",prose,-63.0,-63.0,-63,,non_christian,non_christian,date,,non_christian,non_christian,original,,138.0,pre180
+MQDQ-332,lat_-0127_MQDQ-332.txt,tragoediarum fragmenta,Accius,poetry,-140.0,-86.0,-127,,non_christian,non_christian,date,,non_christian,non_christian,original,,4046.0,pre180
+MQDQ-333,lat_-0127_MQDQ-333.txt,praetextarum fragmenta,Accius,poetry,-140.0,-86.0,-127,,non_christian,non_christian,date,,non_christian,non_christian,original,,274.0,pre180
+MQDQ-334,lat_-0127_MQDQ-334.txt,carminum fragmenta,Accius,poetry,-140.0,-86.0,-127,,non_christian,non_christian,date,,,non_christian,original,,79.0,pre180
+MQDQ-172,lat_-0140_MQDQ-172.txt,saturarum reliquiae,Gaius Lucilius,poetry,-130.0,-103.0,-115,,non_christian,non_christian,date,,,non_christian,original,,7722.0,pre180
+MQDQ-13,lat_-0149.0_MQDQ-13.txt,comoediarum fragmenta,Lucius Afranius,poetry,-150.0,-100.0,-125,,non_christian,non_christian,date,,,non_christian,original,,2314.0,pre180
+MQDQ-139,lat_-0149.0_MQDQ-139.txt,belli Histrici fragmenta,Hostius,poetry,-125.0,-100.0,-112,,non_christian,non_christian,date,,non_christian,non_christian,original,,13.0,pre180
+MQDQ-153,lat_-0149.0_MQDQ-153.txt,comoediarum fragmenta,Iuuentius,poetry,-150.0,-50.0,-100,,non_christian,non_christian,date,,non_christian,non_christian,original,,36.0,pre180
+MQDQ-164,lat_-0149.0_MQDQ-164.txt,comoediae fragmentum,Licinius Imbrex,poetry,-250.0,-150.0,-200,,non_christian,non_christian,date,,,non_christian,original,,14.0,pre180
+MQDQ-175,lat_-0149.0_MQDQ-175.txt,palliatae fragmentum,Luscius Lanuuinus,poetry,-200.0,-150.0,-165,,non_christian,non_christian,date,,non_christian,non_christian,original,,10.0,pre180
+MQDQ-329,lat_-0149.0_MQDQ-329.txt,Ardeatis templi inscriptio,Marcus Plautius,poetry,-200.0,-150.0,-175,,non_christian,non_christian,date,,non_christian,non_christian,original,,27.0,pre180
+MQDQ-342,lat_-0149.0_MQDQ-342.txt,epigrammata,Porcius Licinus,poetry,-125.0,-100.0,-110,,non_christian,non_christian,date,,,non_christian,original,,136.0,pre180
+MQDQ-474,lat_-0149.0_MQDQ-474.txt,comoediarum fragmenta,Atilius,poetry,-200.0,-150.0,-175,,non_christian,non_christian,date,,non_christian,non_christian,original,,15.0,pre180
+MQDQ-502,lat_-0149.0_MQDQ-502.txt,togatarum fragmenta,Titinius,poetry,-200.0,-150.0,-175,,non_christian,non_christian,date,,non_christian,non_christian,original,,975.0,pre180
+MQDQ-503,lat_-0149.0_MQDQ-503.txt,palliatarum fragmenta,Trabea,poetry,-200.0,-150.0,-175,,non_christian,non_christian,date,,non_christian,non_christian,original,,43.0,pre180
+MQDQ-507,lat_-0149.0_MQDQ-507.txt,palliatarum fragmenta,Sextus Turpilius,poetry,-150.0,-103.0,-125,,non_christian,non_christian,date,,,non_christian,original,,1274.0,pre180
+MQDQ-567,lat_-0149.0_MQDQ-567.txt,carminum fragmenta,Volcacius Sedigitus,poetry,-125.0,-75.0,-100,,non_christian,non_christian,date,,non_christian,non_christian,original,,117.0,pre180
+IT-LAT0372,lat_-0149_IT-LAT0372.txt,Ad Gaium filium,Cornelia,prose,-124.0,-124.0,-124,,non_christian,non_christian,date,,non_christian,non_christian,original,,249.0,pre180
+IT-LAT0988,lat_-0149_IT-LAT0988.txt,Boeotia,Aquilius,poetry,-174.0,-154.0,-164,,non_christian,non_christian,date,,,non_christian,original,,67.0,pre180
+MQDQ-270,lat_-0174_MQDQ-270.txt,tragoediarum fragmenta,Pacuuius,poetry,-190.0,-140.0,-174,,non_christian,non_christian,date,,,non_christian,original,,2406.0,pre180
+MQDQ-271,lat_-0174_MQDQ-271.txt,praetextarum fragmenta,Pacuuius,poetry,-190.0,-140.0,-174,,non_christian,non_christian,date,,,non_christian,original,,24.0,pre180
+MQDQ-272,lat_-0174_MQDQ-272.txt,*epigramma,Pacuuius,poetry,-130.0,-47.0,-90,,non_christian,non_christian,date,,,non_christian,original,,29.0,pre180
+MQDQ-483,lat_-0176_MQDQ-483.txt,Adelphoe,Terentius,poetry,-160.0,-160.0,-160,,non_christian,non_christian,date,,,non_christian,original,,7879.0,pre180
+MQDQ-484,lat_-0176_MQDQ-484.txt,Andria,Terentius,poetry,-166.0,-166.0,-166,,non_christian,non_christian,date,,,non_christian,original,,7893.0,pre180
+MQDQ-485,lat_-0176_MQDQ-485.txt,"Andria, alter exitus",Terentius,poetry,-166.0,-166.0,-166,,non_christian,non_christian,date,,,non_christian,original,,175.0,pre180
+MQDQ-486,lat_-0176_MQDQ-486.txt,Eunuchus,Terentius,poetry,-161.0,-161.0,-161,,non_christian,non_christian,date,,,non_christian,original,,8716.0,pre180
+MQDQ-487,lat_-0176_MQDQ-487.txt,Hautontimorumenos,Terentius,poetry,-163.0,-163.0,-163,,non_christian,non_christian,date,,non_christian,non_christian,original,,8607.0,pre180
+MQDQ-488,lat_-0176_MQDQ-488.txt,Hecyra,Terentius,poetry,-165.0,-165.0,-165,,non_christian,non_christian,date,,non_christian,non_christian,original,,7216.0,pre180
+MQDQ-489,lat_-0176_MQDQ-489.txt,Phormio,Terentius,poetry,-161.0,-161.0,-161,,non_christian,non_christian,date,,non_christian,non_christian,original,,8216.0,pre180
+IT-LAT0952,lat_-0185_IT-LAT0952.txt,Senatus consultum de Bacchanalibus,[Auctor incertus],prose,-186.0,-186.0,-186,,non_christian,non_christian,date,,,non_christian,law,,682.0,pre180
+MQDQ-629,lat_-0193_MQDQ-629.txt,comoediarum fragmenta,Caecilius Statius,poetry,-200.0,-165.0,-179,,non_christian,non_christian,date,,,non_christian,original,,1674.0,pre180
+MQDQ-294,lat_-0199.0_MQDQ-294.txt,Atellanae fragmentum,Aprissius,poetry,-200.0,-1.0,-100,,non_christian,non_christian,date,,non_christian,non_christian,original,,8.0,pre180
+IT-LAT0236,lat_-0199_IT-LAT0236.txt,Orationes,"Cato Porcius, Marcus",prose,-204.0,-149.0,-175,,non_christian,non_christian,date,,,non_christian,original,,715.0,pre180
+IT-LAT0380,lat_-0199_IT-LAT0380.txt,Decretum Hastense,"Aemilius Paulus, Lucius",poetry,-189.0,-189.0,-189,,non_christian,non_christian,date,,,non_christian,original,,41.0,pre180
+IT-LAT0405,lat_-0199_IT-LAT0405.txt,De agricultura,"Cato Porcius, Marcus",prose,-160.0,-160.0,-160,,non_christian,non_christian,date,,non_christian,non_christian,original,,15054.0,pre180
+MQDQ-67,lat_-0203_MQDQ-67.txt,annalium fragmenta,Ennius,poetry,-184.0,-169.0,-180,,non_christian,non_christian,date,,,christian,original,,2864.0,pre180
+MQDQ-68,lat_-0203_MQDQ-68.txt,annalium fragmenta dubia,Ennius,poetry,-184.0,-169.0,-180,,non_christian,non_christian,date,,non_christian,non_christian,original,,71.0,pre180
+MQDQ-69,lat_-0203_MQDQ-69.txt,annalium fragmenta spuria,Ennius,poetry,-184.0,-169.0,-180,,non_christian,non_christian,date,,,non_christian,original,,171.0,pre180
+MQDQ-70,lat_-0203_MQDQ-70.txt,saturarum fragmenta,Ennius,poetry,-204.0,-169.0,-200,,non_christian,non_christian,date,,non_christian,non_christian,original,,164.0,pre180
+MQDQ-71,lat_-0203_MQDQ-71.txt,fragmenta uaria,Ennius,poetry,-204.0,-169.0,-200,,non_christian,non_christian,date,,,non_christian,original,,357.0,pre180
+MQDQ-72,lat_-0203_MQDQ-72.txt,tragoediarum fragmenta,Ennius,poetry,-204.0,-169.0,-200,,non_christian,non_christian,date,,non_christian,non_christian,original,,2432.0,pre180
+MQDQ-73,lat_-0203_MQDQ-73.txt,praetextarum fragmenta,Ennius,poetry,-204.0,-169.0,-200,,non_christian,non_christian,date,,non_christian,non_christian,original,,36.0,pre180
+MQDQ-74,lat_-0203_MQDQ-74.txt,comoediarum fragmenta,Ennius,poetry,-204.0,-169.0,-200,,non_christian,non_christian,date,,non_christian,non_christian,original,,30.0,pre180
+MQDQ-306,lat_-0218_MQDQ-306.txt,Amphitruo,"Plautus, Titus Maccius",poetry,-205.0,-184.0,-195,,non_christian,non_christian,date,,,non_christian,original,,9279.0,pre180
+MQDQ-307,lat_-0218_MQDQ-307.txt,Asinaria,"Plautus, Titus Maccius",poetry,-205.0,-184.0,-195,,non_christian,non_christian,date,,,non_christian,original,,7574.0,pre180
+MQDQ-308,lat_-0218_MQDQ-308.txt,Aulularia,"Plautus, Titus Maccius",poetry,-205.0,-184.0,-195,,non_christian,non_christian,date,,,non_christian,original,,6525.0,pre180
+MQDQ-309,lat_-0218_MQDQ-309.txt,Bacchides,"Plautus, Titus Maccius",poetry,-205.0,-184.0,-195,,non_christian,non_christian,date,,non_christian,non_christian,original,,9316.0,pre180
+MQDQ-310,lat_-0218_MQDQ-310.txt,Captiui,"Plautus, Titus Maccius",poetry,-205.0,-184.0,-195,,non_christian,non_christian,date,,non_christian,christian,original,,8205.0,pre180
+MQDQ-311,lat_-0218_MQDQ-311.txt,Casina,"Plautus, Titus Maccius",poetry,-205.0,-184.0,-195,,non_christian,non_christian,date,,non_christian,non_christian,original,,7045.0,pre180
+MQDQ-312,lat_-0218_MQDQ-312.txt,Cistellaria,"Plautus, Titus Maccius",poetry,-205.0,-201.0,-203,"по Lunardi 2026, прил. A; в CSV проекта -205–-184 (средняя -195.0)",non_christian,non_christian,date,,non_christian,non_christian,original,,4957.0,pre180
+MQDQ-313,lat_-0218_MQDQ-313.txt,Curculio,"Plautus, Titus Maccius",poetry,-205.0,-184.0,-195,,non_christian,non_christian,date,,,non_christian,original,,5619.0,pre180
+MQDQ-314,lat_-0218_MQDQ-314.txt,Epidicus,"Plautus, Titus Maccius",poetry,-205.0,-184.0,-195,,non_christian,non_christian,date,,,non_christian,original,,5867.0,pre180
+MQDQ-315,lat_-0218_MQDQ-315.txt,Menaechmi,"Plautus, Titus Maccius",poetry,-205.0,-184.0,-195,,non_christian,non_christian,date,,non_christian,non_christian,original,,8812.0,pre180
+MQDQ-316,lat_-0218_MQDQ-316.txt,Mercator,"Plautus, Titus Maccius",poetry,-205.0,-184.0,-195,,non_christian,non_christian,date,,non_christian,non_christian,original,,7903.0,pre180
+MQDQ-317,lat_-0218_MQDQ-317.txt,Miles gloriosus,"Plautus, Titus Maccius",poetry,-205.0,-205.0,-205,"по Lunardi 2026, прил. A; в CSV проекта -205–-184 (средняя -195.0)",non_christian,non_christian,date,,non_christian,non_christian,original,,11673.0,pre180
+MQDQ-318,lat_-0218_MQDQ-318.txt,Mostellaria,"Plautus, Titus Maccius",poetry,-205.0,-184.0,-195,,non_christian,non_christian,date,,non_christian,non_christian,original,,8719.0,pre180
+MQDQ-319,lat_-0218_MQDQ-319.txt,Persa,"Plautus, Titus Maccius",poetry,-205.0,-184.0,-195,,non_christian,non_christian,date,,non_christian,non_christian,original,,7073.0,pre180
+MQDQ-321,lat_-0218_MQDQ-321.txt,Pseudolus,"Plautus, Titus Maccius",poetry,-191.0,-191.0,-191,,non_christian,non_christian,date,,,non_christian,original,,10185.0,pre180
+MQDQ-322,lat_-0218_MQDQ-322.txt,Rudens,"Plautus, Titus Maccius",poetry,-205.0,-184.0,-195,,non_christian,non_christian,date,,,non_christian,original,,10911.0,pre180
+MQDQ-323,lat_-0218_MQDQ-323.txt,Stichus,"Plautus, Titus Maccius",poetry,-200.0,-200.0,-200,,non_christian,non_christian,date,,non_christian,non_christian,original,,5849.0,pre180
+MQDQ-324,lat_-0218_MQDQ-324.txt,Trinummus,"Plautus, Titus Maccius",poetry,-205.0,-184.0,-195,,non_christian,non_christian,date,,,non_christian,original,,9113.0,pre180
+MQDQ-325,lat_-0218_MQDQ-325.txt,Truculentus,"Plautus, Titus Maccius",poetry,-205.0,-184.0,-195,,non_christian,non_christian,date,,,non_christian,original,,7699.0,pre180
+MQDQ-326,lat_-0218_MQDQ-326.txt,Vidularia,"Plautus, Titus Maccius",poetry,-205.0,-184.0,-195,,non_christian,non_christian,date,,,non_christian,original,,582.0,pre180
+MQDQ-327,lat_-0218_MQDQ-327.txt,fragmenta,"Plautus, Titus Maccius",poetry,-205.0,-184.0,-195,,non_christian,non_christian,date,,non_christian,non_christian,original,,1041.0,pre180
+MQDQ-328,lat_-0218_MQDQ-328.txt,epigramma,"Plautus, Titus Maccius",poetry,-184.0,-47.0,-180,,non_christian,non_christian,date,,,non_christian,original,,20.0,pre180
+IT-LAT1006,lat_-0229_IT-LAT1006.txt,Praecepta,"Marcius Vates, Gnaeus",prose,-250.0,-218.0,-229,,non_christian,non_christian,date,,,non_christian,original,,28.0,pre180
+MQDQ-226,lat_-0234_MQDQ-226.txt,tragoediarum fragmenta,Naeuius,poetry,-235.0,-201.0,-220,,non_christian,non_christian,date,,,non_christian,original,,347.0,pre180
+MQDQ-227,lat_-0234_MQDQ-227.txt,praetextarum fragmenta,Naeuius,poetry,-235.0,-201.0,-220,,non_christian,non_christian,date,,,non_christian,original,,36.0,pre180
+MQDQ-228,lat_-0234_MQDQ-228.txt,comoediarum fragmenta,Naeuius,poetry,-235.0,-201.0,-220,,non_christian,non_christian,date,,,non_christian,original,,797.0,pre180
+MQDQ-229,lat_-0234_MQDQ-229.txt,carminum fragmenta,Naeuius,poetry,-235.0,-201.0,-220,,non_christian,non_christian,date,,non_christian,non_christian,original,,37.0,pre180
+MQDQ-230,lat_-0234_MQDQ-230.txt,epitaphium,Naeuius,poetry,-201.0,-47.0,-220,,non_christian,non_christian,date,,,non_christian,original,,22.0,pre180
+MQDQ-167,lat_-0243_MQDQ-167.txt,tragoediarum fragmenta,Liuius Andronicus,poetry,-240.0,-207.0,-225,,non_christian,non_christian,date,,,non_christian,original,,218.0,pre180
+MQDQ-168,lat_-0243_MQDQ-168.txt,comoediarum fragmenta,Liuius Andronicus,poetry,-240.0,-207.0,-225,,non_christian,non_christian,date,,,non_christian,original,,14.0,pre180
+MQDQ-169,lat_-0243_MQDQ-169.txt,*carminum fragmenta,Liuius Andronicus,poetry,-240.0,-207.0,-225,,non_christian,non_christian,date,,,non_christian,original,,31.0,pre180
+MQDQ-237,lat_-0255_MQDQ-237.txt,elogium,[Auctor incertus],poetry,-247.0,-200.0,-225,,non_christian,non_christian,date,,non_christian,non_christian,original,,9.0,pre180
+MQDQ-288,lat_-0300_MQDQ-288.txt,carminum fragmenta,"Caecus, Appius Claudius",poetry,-312.0,-279.0,-290,,non_christian,non_christian,date,,non_christian,non_christian,original,,12.0,pre180
+IT-LAT0285,lat_-0450_IT-LAT0285.txt,XII Tabularum Leges,[Auctor incertus],prose,-450.0,-450.0,-450,,non_christian,non_christian,date,,,non_christian,law,,535.0,pre180
+IT-LAT0075,lat_0000_IT-LAT0075.txt,Philippicae,"Cicero, Marcus Tullius",prose,-44.0,-43.0,-43,,non_christian,non_christian,date,,,non_christian,original,,52913.0,pre180
+IT-LAT0102,lat_0000_IT-LAT0102.txt,De officiis,"Cicero, Marcus Tullius",prose,-44.0,-44.0,-44,,non_christian,non_christian,date,,,non_christian,original,,34522.0,pre180
+IT-LAT0127,lat_0000_IT-LAT0127.txt,Pro Caecina,"Cicero, Marcus Tullius",prose,-69.0,-69.0,-69,,non_christian,non_christian,date,,non_christian,non_christian,original,,10435.0,pre180
+IT-LAT0181,lat_0000_IT-LAT0181.txt,Poenulus,"Plautus, Titus Maccius",poetry,-205.0,-184.0,-195,,non_christian,non_christian,date,,,non_christian,original,,11439.0,pre180
+IT-LAT0278,lat_0013_IT-LAT0278.txt,Res gestae,"Augustus, Gaius Iulius Caesar Octavianus",prose,14.0,14.0,14,,non_christian,non_christian,date,,non_christian,non_christian,original,,5884.0,pre180
+IT-LAT0378,lat_001_IT-LAT0378.txt,Epistula ad Gaium,"Augustus, Gaius Iulius Caesar Octavianus",prose,1.0,1.0,1,,non_christian,non_christian,date,,,non_christian,original,,77.0,pre180
+MQDQ-104,lat_0026_MQDQ-104.txt,carminis fragmentum,Gaetulicus,poetry,1.0,39.0,26,,non_christian,non_christian,date,,non_christian,non_christian,original,,18.0,pre180
+IT-LAT0148,lat_0029_IT-LAT0148.txt,Historia Romana,"Velleius Paterculus, Caius",prose,30.0,30.0,30,,non_christian,non_christian,date,,,non_christian,original,,26625.0,pre180
+IT-LAT0382,lat_0030_IT-LAT0382.txt,De medicina,"Celsus, Cornelius Aulus",prose,14.0,37.0,25,,non_christian,non_christian,date,,,non_christian,original,,105153.0,pre180
+IT-LAT0883,lat_0030_IT-LAT0883.txt,Factorum et dictorum memorabilium libri novem,Valerius Maximus,prose,31.0,31.0,31,,non_christian,non_christian,date,,,non_christian,original,,80747.0,pre180
+IT-LAT0083,lat_0040_IT-LAT0083.txt,Consolatio ad Marciam,"Seneca, Lucius Annaeus",prose,39.0,40.0,40,,non_christian,non_christian,date,,non_christian,non_christian,original,,8352.0,pre180
+IT-LAT0116,lat_0041_IT-LAT0116.txt,Consolatio ad Helviam matrem,"Seneca, Lucius Annaeus",prose,42.0,42.0,42,,non_christian,non_christian,date,,,non_christian,original,,6760.0,pre180
+IT-LAT0112,lat_0043_IT-LAT0112.txt,Consolatio ad Polybium,"Seneca, Lucius Annaeus",prose,41.0,44.0,43,,non_christian,non_christian,date,,,non_christian,original,,5689.0,pre180
+MQDQ-340,lat_0044_MQDQ-340.txt,tragoediarum fragmenta,Pomponius Secundus,poetry,31.0,51.0,41,,non_christian,non_christian,date,,,non_christian,original,,25.0,pre180
+MQDQ-341,lat_0044_MQDQ-341.txt,praetextae fragmentum,Pomponius Secundus,poetry,31.0,51.0,41,,non_christian,non_christian,date,,non_christian,non_christian,original,,3.0,pre180
+MQDQ-291,lat_0048_MQDQ-291.txt,choliambi,Persius,poetry,50.0,62.0,56,,non_christian,non_christian,date,,,non_christian,original,,71.0,pre180
+MQDQ-292,lat_0048_MQDQ-292.txt,saturae,Persius,poetry,50.0,62.0,56,,non_christian,non_christian,date,,,non_christian,original,,4514.0,pre180
+IT-LAT0045,lat_0049_IT-LAT0045.txt,De brevitate vitae,"Seneca, Lucius Annaeus",prose,48.0,55.0,51,,non_christian,non_christian,date,,non_christian,non_christian,original,,6142.0,pre180
+IT-LAT0072,lat_0049_IT-LAT0072.txt,De constantia sapientis,"Seneca, Lucius Annaeus",prose,47.0,64.0,54,,non_christian,non_christian,date,,non_christian,non_christian,original,,5313.0,pre180
+MQDQ-112,lat_0050.0_MQDQ-112.txt,tragoediarum fragmenta,Gracchus,poetry,-27.0,14.0,-7,,non_christian,non_christian,date,,,non_christian,original,,15.0,pre180
+MQDQ-113,lat_0050.0_MQDQ-113.txt,cynegeticon,Grattius,poetry,-27.0,14.0,-7,,non_christian,non_christian,date,,,non_christian,original,,3612.0,pre180
+MQDQ-155,lat_0050.0_MQDQ-155.txt,carminis fragmentum,Attius Labeo,poetry,25.0,62.0,43,,non_christian,non_christian,date,,,non_christian,original,,6.0,pre180
+MQDQ-163,lat_0050.0_MQDQ-163.txt,laus Pisonis,[Auctor incertus],poetry,1.0,100.0,50,,non_christian,non_christian,date,,non_christian,non_christian,original,,1712.0,pre180
+MQDQ-173,lat_0050.0_MQDQ-173.txt,carminum fragmenta,Lucilius iunior,poetry,15.0,65.0,40,,non_christian,non_christian,date,,,non_christian,original,,6.0,pre180
+MQDQ-178,lat_0050.0_MQDQ-178.txt,"corpus Tibullianum 3, 1-6",Lygdamus,poetry,-25.0,25.0,1,,non_christian,non_christian,date,,non_christian,non_christian,original,,1819.0,pre180
+MQDQ-224,lat_0050.0_MQDQ-224.txt,carminum fragmenta,Iulius Montanus,poetry,-25.0,50.0,12,,non_christian,non_christian,date,,,non_christian,original,,23.0,pre180
+MQDQ-239,lat_0050.0_MQDQ-239.txt,obtrectatores Vergilii,Numitorius,poetry,-39.0,14.0,-13,,non_christian,non_christian,date,,non_christian,non_christian,original,,14.0,pre180
+MQDQ-274,lat_0050.0_MQDQ-274.txt,"corpus Tibullianum 3, 7",panegyricus in Messallam,poetry,-31.0,-27.0,-29,,non_christian,non_christian,date,,,non_christian,original,,1428.0,pre180
+MQDQ-29,lat_0050.0_MQDQ-29.txt,"de re rustica, liber X","Columella, Lucius Iunius Moderatus",poetry,60.0,65.0,62,,non_christian,non_christian,date,,non_christian,non_christian,original,,2776.0,pre180
+MQDQ-298,lat_0050.0_MQDQ-298.txt,fabulae 1,Phaedrus,poetry,1.0,50.0,25,,non_christian,non_christian,date,,,non_christian,original,,2069.0,pre180
+MQDQ-299,lat_0050.0_MQDQ-299.txt,fabulae 2,Phaedrus,poetry,1.0,50.0,25,,non_christian,non_christian,date,,,non_christian,original,,958.0,pre180
+MQDQ-300,lat_0050.0_MQDQ-300.txt,fabulae 3,Phaedrus,poetry,1.0,50.0,25,,non_christian,non_christian,date,,,non_christian,original,,2348.0,pre180
+MQDQ-301,lat_0050.0_MQDQ-301.txt,fabulae 4,Phaedrus,poetry,1.0,50.0,25,,non_christian,non_christian,date,,,non_christian,original,,2423.0,pre180
+MQDQ-302,lat_0050.0_MQDQ-302.txt,fabulae 5,Phaedrus,poetry,1.0,50.0,25,,non_christian,non_christian,date,,non_christian,non_christian,original,,961.0,pre180
+MQDQ-303,lat_0050.0_MQDQ-303.txt,"fabulae, appendix",Phaedrus,poetry,1.0,50.0,25,,non_christian,non_christian,date,,,non_christian,original,,2297.0,pre180
+MQDQ-385,lat_0050.0_MQDQ-385.txt,carminis fragmentum,Arbonius Silo,poetry,-27.0,14.0,-7,,non_christian,non_christian,date,,non_christian,non_christian,original,,14.0,pre180
+MQDQ-391,lat_0050.0_MQDQ-391.txt,de bello Aegiptiaco,Rabirius,poetry,-27.0,14.0,-7,,non_christian,non_christian,date,,non_christian,non_christian,original,,478.0,pre180
+MQDQ-392,lat_0050.0_MQDQ-392.txt,carminum fragmenta,Rabirius,poetry,-27.0,14.0,-7,,non_christian,non_christian,date,,,non_christian,original,,5.0,pre180
+MQDQ-421,lat_0050.0_MQDQ-421.txt,tragoediae fragmentum,Scaeuus Memor,poetry,81.0,96.0,89,,non_christian,non_christian,date,,,non_christian,original,,6.0,pre180
+MQDQ-473,lat_0050.0_MQDQ-473.txt,carminis fragmentum,Sulpicia,poetry,78.0,98.0,88,,non_christian,non_christian,date,,non_christian,non_christian,original,,9.0,pre180
+MQDQ-506,lat_0050.0_MQDQ-506.txt,saturarum fragmenta,Turnus,poetry,81.0,96.0,89,,non_christian,non_christian,date,,,non_christian,original,,12.0,pre180
+MQDQ-508,lat_0050.0_MQDQ-508.txt,carminum fragmenta,Vagellius,poetry,25.0,75.0,50,,non_christian,non_christian,date,,non_christian,non_christian,original,,8.0,pre180
+MQDQ-510,lat_0050.0_MQDQ-510.txt,Argonautica,Valerius Flaccus,poetry,75.0,100.0,87,,non_christian,non_christian,date,,,non_christian,original,,38892.0,pre180
+MQDQ-57,lat_0050.0_MQDQ-57.txt,carminum fragmenta,Domitius Marsus,poetry,-34.0,4.0,-15,,non_christian,non_christian,date,,non_christian,non_christian,original,,100.0,pre180
+MQDQ-58,lat_0050.0_MQDQ-58.txt,carminis fragmentum,Dorcatius,poetry,-27.0,14.0,-7,,non_christian,non_christian,date,,,non_christian,original,,14.0,pre180
+MQDQ-620,lat_0050.0_MQDQ-620.txt,uersus metrici,Caesius Bassus,poetry,1.0,79.0,40,,non_christian,non_christian,date,,,non_christian,original,,24.0,pre180
+MQDQ-632,lat_0050.0_MQDQ-632.txt,eclogae,Calpurnius Siculus,poetry,54.0,68.0,61,,non_christian,non_christian,date,,,non_christian,original,,5129.0,pre180
+IT-LAT0239,lat_0050_IT-LAT0239.txt,De arboribus,"Columella, Lucius Iunius Moderatus",prose,30.0,60.0,45,,non_christian,non_christian,date,,non_christian,non_christian,original,,7144.0,pre180
+IT-LAT0266,lat_0050_IT-LAT0266.txt,De chorographia,"Mela, Pomponius",prose,44.0,44.0,44,,non_christian,non_christian,date,,non_christian,non_christian,original,,16240.0,pre180
+IT-LAT0325,lat_0050_IT-LAT0325.txt,Historiarum Alexandri Magni libri X,"Curtius Rufus, Quintus",prose,1.0,125.0,62,,non_christian,non_christian,date,,,non_christian,original,,71668.0,pre180
+IT-LAT0425,lat_0050_IT-LAT0425.txt,Commentarii,"Pedianus, Asconius",prose,54.0,57.0,55,,non_christian,non_christian,date,,,non_christian,original,,13023.0,pre180
+IT-LAT0563,lat_0050_IT-LAT0563.txt,Silvae,"Statius, Publius Papinius",poetry,89.0,96.0,92,,non_christian,non_christian,date,,,christian,original,,26035.0,pre180
+IT-LAT0563_1,lat_0050_IT-LAT0563_1.txt,Achilleida,"Statius, Publius Papinius",poetry,95.0,96.0,95,,non_christian,non_christian,date,,,non_christian,original,,7625.0,pre180
+IT-LAT0588,lat_0050_IT-LAT0588.txt,Opuscula rerum rusticarum,"Frontinus, Sextus Iulius",prose,64.0,84.0,74,,non_christian,non_christian,date,,non_christian,non_christian,original,,2555.0,pre180
+IT-LAT0588_1,lat_0050_IT-LAT0588_1.txt,Strategemata,"Frontinus, Sextus Iulius",prose,84.0,96.0,89,,non_christian,non_christian,date,,,non_christian,original,,19179.0,pre180
+IT-LAT0588_2,lat_0050_IT-LAT0588_2.txt,De aquaeductu urbis Romae,"Frontinus, Sextus Iulius",prose,98.0,98.0,98,,non_christian,non_christian,date,,non_christian,non_christian,original,,10809.0,pre180
+IT-LAT0632,lat_0050_IT-LAT0632.txt,De figuris sententiarum et elocutionis,"Lupus, Publius Rutilius",prose,1.0,25.0,12,,non_christian,non_christian,date,,non_christian,non_christian,original,,4300.0,pre180
+LC-10,lat_0050_LC-10.txt,Einsiedeln Eclogues,[Auctor incertus],poetry,54.0,68.0,61,,non_christian,non_christian,date,,non_christian,non_christian,original,,576.0,pre180
+MQDQ-170,lat_0052_MQDQ-170.txt,Pharsalia,Lucanus,poetry,60.0,65.0,62,,non_christian,non_christian,date,,non_christian,non_christian,original,,53031.0,pre180
+MQDQ-171,lat_0052_MQDQ-171.txt,carminum fragmenta,Lucanus,poetry,55.0,65.0,58,,non_christian,non_christian,date,,non_christian,non_christian,original,,83.0,pre180
+MQDQ-235,lat_0052_MQDQ-235.txt,carminum fragmenta,Nero imperator,poetry,54.0,68.0,61,,non_christian,non_christian,date,,non_christian,non_christian,original,,35.0,pre180
+IT-LAT0228,lat_0054_IT-LAT0228.txt,Apocolocyntosis Divi Claudii,"Seneca, Lucius Annaeus",prose,54.0,54.0,54,,non_christian,non_christian,date,,,non_christian,original,,2891.0,pre180
+IT-LAT0079,lat_0058_IT-LAT0079.txt,De vita beata,"Seneca, Lucius Annaeus",prose,54.0,59.0,58,,non_christian,non_christian,date,,non_christian,non_christian,original,,7293.0,pre180
+IT-LAT0071,lat_0062_IT-LAT0071.txt,De tranquillitate animi,"Seneca, Lucius Annaeus",prose,47.0,62.0,56,,non_christian,non_christian,date,,non_christian,non_christian,original,,7571.0,pre180
+IT-LAT0078,lat_0062_IT-LAT0078.txt,De otio,"Seneca, Lucius Annaeus",prose,47.0,62.0,58,,non_christian,non_christian,date,,non_christian,non_christian,original,,1951.0,pre180
+IT-LAT0230,lat_0062_IT-LAT0230.txt,Epistulae morales ad Lucilium,"Seneca, Lucius Annaeus",prose,63.0,65.0,64,,non_christian,non_christian,date,,non_christian,non_christian,original,,119420.0,pre180
+IT-LAT0073,lat_0063_IT-LAT0073.txt,De providentia,"Seneca, Lucius Annaeus",prose,41.0,65.0,53,,non_christian,non_christian,date,,,non_christian,original,,4090.0,pre180
+IT-LAT0109,lat_0065_IT-LAT0109.txt,Agamemnon,"Seneca, Lucius Annaeus",poetry,41.0,65.0,53,,non_christian,non_christian,date,,,christian,original,,4679.0,pre180
+IT-LAT0237,lat_0065_IT-LAT0237.txt,Ilias Latina,Baebius Italicus,poetry,54.0,65.0,60,,non_christian,non_christian,date,,non_christian,non_christian,original,,6949.0,pre180
+MQDQ-295,lat_0066_MQDQ-295.txt,satyricon,Petronius,poetry,64.0,65.0,64,,non_christian,non_christian,date,,non_christian,non_christian,original,,1418.0,pre180
+MQDQ-296,lat_0066_MQDQ-296.txt,bellum ciuile,Petronius,poetry,65.0,65.0,65,,non_christian,non_christian,date,,non_christian,non_christian,original,,1929.0,pre180
+MQDQ-297,lat_0066_MQDQ-297.txt,fragmenta,Petronius,poetry,64.0,65.0,64,,non_christian,non_christian,date,,non_christian,non_christian,original,,1874.0,pre180
+MQDQ-446,lat_0068_MQDQ-446.txt,Punica,Silius Italicus,poetry,80.0,97.0,88,,non_christian,non_christian,date,,non_christian,christian,original,,78921.0,pre180
+MQDQ-448,lat_0070_MQDQ-448.txt,Thebais,"Statius, Publius Papinius",poetry,80.0,92.0,86,,non_christian,non_christian,date,,non_christian,christian,original,,65563.0,pre180
+MQDQ-450,lat_0070_MQDQ-450.txt,belli Germanici fragmentum,"Statius, Publius Papinius",poetry,83.0,90.0,86,,non_christian,non_christian,date,,non_christian,non_christian,original,,46.0,pre180
+MQDQ-194,lat_0071_MQDQ-194.txt,de spectaculis,Martialis,poetry,80.0,80.0,80,,non_christian,non_christian,date,,,non_christian,original,,1334.0,pre180
+MQDQ-195,lat_0071_MQDQ-195.txt,epigrammata 1,Martialis,poetry,84.0,86.0,85,,non_christian,non_christian,date,,non_christian,non_christian,original,,4966.0,pre180
+MQDQ-196,lat_0071_MQDQ-196.txt,epigrammata 2,Martialis,poetry,86.0,87.0,86,,non_christian,non_christian,date,,,non_christian,original,,3381.0,pre180
+MQDQ-197,lat_0071_MQDQ-197.txt,epigrammata 3,Martialis,poetry,87.0,87.0,87,,non_christian,non_christian,date,,,non_christian,original,,3938.0,pre180
+MQDQ-198,lat_0071_MQDQ-198.txt,epigrammata 4,Martialis,poetry,88.0,88.0,88,,non_christian,non_christian,date,,non_christian,non_christian,original,,3915.0,pre180
+MQDQ-199,lat_0071_MQDQ-199.txt,epigrammata 5,Martialis,poetry,89.0,89.0,89,,non_christian,non_christian,date,,non_christian,non_christian,original,,3739.0,pre180
+MQDQ-200,lat_0071_MQDQ-200.txt,epigrammata 6,Martialis,poetry,90.0,91.0,90,,non_christian,non_christian,date,,,non_christian,original,,3732.0,pre180
+MQDQ-201,lat_0071_MQDQ-201.txt,epigrammata 7,Martialis,poetry,92.0,92.0,92,,non_christian,non_christian,date,,non_christian,non_christian,original,,4436.0,pre180
+MQDQ-202,lat_0071_MQDQ-202.txt,epigrammata 8,Martialis,poetry,94.0,94.0,94,,non_christian,non_christian,date,,,non_christian,original,,8021.0,pre180
+MQDQ-203,lat_0071_MQDQ-203.txt,epigrammata 9,Martialis,poetry,94.0,94.0,94,,non_christian,non_christian,date,,non_christian,non_christian,original,,10488.0,pre180
+MQDQ-204,lat_0071_MQDQ-204.txt,epigrammata 10,Martialis,poetry,95.0,95.0,95,,non_christian,non_christian,date,,non_christian,non_christian,original,,5265.0,pre180
+MQDQ-205,lat_0071_MQDQ-205.txt,epigrammata 11,Martialis,poetry,96.0,96.0,96,,non_christian,non_christian,date,,non_christian,non_christian,original,,4924.0,pre180
+MQDQ-206,lat_0071_MQDQ-206.txt,epigrammata 12,Martialis,poetry,101.0,102.0,101,,non_christian,non_christian,date,,,non_christian,original,,4217.0,pre180
+MQDQ-207,lat_0071_MQDQ-207.txt,epigrammata 13,Martialis,poetry,83.0,85.0,84,,non_christian,non_christian,date,,non_christian,non_christian,original,,1709.0,pre180
+MQDQ-208,lat_0071_MQDQ-208.txt,epigrammata 14,Martialis,poetry,83.0,85.0,84,,non_christian,non_christian,date,,,non_christian,original,,2824.0,pre180
+MQDQ-330,lat_0086_MQDQ-330.txt,carmina epistulis inserta,"Plinius Gaius, Cecilius Secundus",poetry,96.0,112.0,104,,non_christian,non_christian,date,,,non_christian,original,,140.0,pre180
+IT-LAT0332,lat_0091_IT-LAT0332.txt,Institutio oratoria,"Quintilianus, Marcus Fabius",prose,81.0,96.0,89,,non_christian,non_christian,date,,,non_christian,original,,161017.0,pre180
+MQDQ-150,lat_0095_MQDQ-150.txt,saturae,Iunius Iuuenalis,poetry,100.0,130.0,115,,non_christian,non_christian,date,,,non_christian,original,,25105.0,pre180
+MQDQ-554,lat_0097_MQDQ-554.txt,epigramma,Verginius Rufus,poetry,97.0,109.0,103,,non_christian,non_christian,date,,non_christian,non_christian,original,,13.0,pre180
+MQDQ-556,lat_0100.0_MQDQ-556.txt,carmen,Sentius Augurinus,poetry,105.0,105.0,105,,non_christian,non_christian,date,,non_christian,non_christian,original,,45.0,pre180
+MQDQ-96,lat_0100.0_MQDQ-96.txt,carmina (anth. Riese),Florus,poetry,117.0,138.0,127,,non_christian,non_christian,date,,,non_christian,original,,225.0,pre180
+IT-LAT0111,lat_0100_IT-LAT0111.txt,Panegyricus Traiano,"Plinius Gaius, Cecilius Secundus",prose,100.0,100.0,100,,non_christian,non_christian,date,,non_christian,non_christian,original,,19566.0,pre180
+IT-LAT0339,lat_0100_IT-LAT0339.txt,De condicionibus agrorum,"Flaccus, Siculus",prose,98.0,138.0,118,,non_christian,non_christian,date,,,non_christian,original,,3367.0,pre180
+IT-LAT0340,lat_0100_IT-LAT0340.txt,De divisis et assignatis,"Flaccus, Siculus",prose,98.0,138.0,118,,non_christian,non_christian,date,,,non_christian,original,,2409.0,pre180
+IT-LAT0341,lat_0100_IT-LAT0341.txt,De quaestoriis agris,"Flaccus, Siculus",prose,98.0,138.0,118,,non_christian,non_christian,date,,non_christian,non_christian,original,,311.0,pre180
+IT-LAT0342,lat_0100_IT-LAT0342.txt,Expositio et ratio omnium formarum,Balbus,prose,86.0,106.0,96,,non_christian,non_christian,date,,,non_christian,original,,2158.0,pre180
+IT-LAT0345,lat_0100_IT-LAT0345.txt,De limitibus,Hyginus the Elder,prose,100.0,117.0,108,,non_christian,non_christian,date,,,non_christian,original,,518.0,pre180
+IT-LAT0346,lat_0100_IT-LAT0346.txt,De generibus controversiarum,Hyginus the Elder,prose,100.0,117.0,108,,non_christian,non_christian,date,,non_christian,non_christian,original,,1760.0,pre180
+IT-LAT0349,lat_0100_IT-LAT0349.txt,De condicionibus agrorum,Hyginus the Elder,prose,100.0,117.0,108,,non_christian,non_christian,date,,non_christian,non_christian,original,,2118.0,pre180
+MQDQ-115,lat_0107_MQDQ-115.txt,carminum fragmenta,Hadrianus imperator,poetry,110.0,138.0,124,,non_christian,non_christian,date,,non_christian,non_christian,original,,33.0,pre180
+IT-LAT0120,lat_0113_IT-LAT0120.txt,De grammaticis et rhetoribus,"Svetonius Tranquillus, Caius",prose,105.0,117.0,111,,non_christian,non_christian,date,,non_christian,non_christian,original,,3080.0,pre180
+IT-LAT0720,lat_0113_IT-LAT0720.txt,De poetis,"Svetonius Tranquillus, Caius",prose,105.0,117.0,111,,non_christian,non_christian,date,,,non_christian,original,,3792.0,pre180
+IT-LAT0534,lat_0116_IT-LAT0534.txt,Annales,"Tacitus, Publius (Gaius) Cornelius",prose,110.0,125.0,120,,non_christian,non_christian,date,,,christian,original,,89910.0,pre180
+IT-LAT0534_1,lat_0116_IT-LAT0534_1.txt,De origine et situ Germanorum,"Tacitus, Publius (Gaius) Cornelius",prose,98.0,98.0,98,,non_christian,non_christian,date,,,non_christian,original,,5634.0,pre180
+IT-LAT0534_2,lat_0116_IT-LAT0534_2.txt,De vita Iulii Agricolae,"Tacitus, Publius (Gaius) Cornelius",prose,98.0,98.0,98,,non_christian,non_christian,date,,non_christian,non_christian,original,,6795.0,pre180
+IT-LAT0534_3,lat_0116_IT-LAT0534_3.txt,Dialogus de oratoribus,"Tacitus, Publius (Gaius) Cornelius",prose,102.0,107.0,104,,non_christian,non_christian,date,,non_christian,non_christian,original,,9332.0,pre180
+IT-LAT0534_4,lat_0116_IT-LAT0534_4.txt,Historiae,"Tacitus, Publius (Gaius) Cornelius",prose,100.0,109.0,104,,non_christian,non_christian,date,,,non_christian,original,,52041.0,pre180
+IT-LAT0054,lat_0121_IT-LAT0054.txt,Vitae Caesarum,"Svetonius Tranquillus, Caius",prose,111.0,125.0,118,,non_christian,non_christian,date,,non_christian,christian,original,,70665.0,pre180
+MQDQ-336,lat_0147_MQDQ-336.txt,*fragmentum poeticum flor. c. 7 insertum,"Apuleius, Lucius",poetry,160.0,170.0,165,,non_christian,non_christian,date,,,non_christian,original,,19.0,pre180
+MQDQ-223,lat_0150.0_MQDQ-223.txt,carminum fragmenta,Annianus,poetry,110.0,160.0,130,,non_christian,non_christian,date,,non_christian,non_christian,original,,40.0,pre180
+MQDQ-465,lat_0150.0_MQDQ-465.txt,"Andria, periocha",Sulpicius Apollinaris,poetry,100.0,150.0,125,,non_christian,non_christian,date,,non_christian,non_christian,original,,66.0,pre180
+MQDQ-466,lat_0150.0_MQDQ-466.txt,"Hautontimorumenos, periocha",Sulpicius Apollinaris,poetry,100.0,150.0,125,,non_christian,non_christian,date,,,non_christian,original,,68.0,pre180
+MQDQ-467,lat_0150.0_MQDQ-467.txt,"Eunuchus, periocha",Sulpicius Apollinaris,poetry,100.0,150.0,125,,non_christian,non_christian,date,,non_christian,non_christian,original,,63.0,pre180
+MQDQ-468,lat_0150.0_MQDQ-468.txt,"Phormio, periocha",Sulpicius Apollinaris,poetry,100.0,150.0,125,,non_christian,non_christian,date,,,non_christian,original,,71.0,pre180
+MQDQ-469,lat_0150.0_MQDQ-469.txt,"Hecyra, periocha",Sulpicius Apollinaris,poetry,100.0,150.0,125,,non_christian,non_christian,date,,,non_christian,original,,70.0,pre180
+MQDQ-470,lat_0150.0_MQDQ-470.txt,"Adelphoe, periocha",Sulpicius Apollinaris,poetry,100.0,150.0,125,,non_christian,non_christian,date,,,non_christian,original,,62.0,pre180
+MQDQ-471,lat_0150.0_MQDQ-471.txt,*epigramma ap. Don. u. Verg.,Sulpicius Apollinaris,poetry,100.0,150.0,125,,non_christian,non_christian,date,,non_christian,non_christian,original,,38.0,pre180
+MQDQ-472,lat_0150.0_MQDQ-472.txt,hexasticha in Aeneidos libris,Sulpicius Apollinaris,poetry,100.0,150.0,125,,non_christian,non_christian,date,,non_christian,non_christian,original,,506.0,pre180
+IT-LAT0407,lat_0150_IT-LAT0407.txt,Quaestiones,"Caecilius Africanus, Sextus",prose,125.0,175.0,150,,non_christian,non_christian,date,,,non_christian,law,,14563.0,pre180
+IT-LAT0261,lat_0350_IT-LAT0261.txt,Carmen Saliare,[Auctor incertus],poetry,-750.0,-650.0,-700,,non_christian,non_christian,date,,,non_christian,original,,24.0,pre180
+IT-LAT0262,lat_0350_IT-LAT0262.txt,Carmen Arvale,[Auctor incertus],poetry,-400.0,-300.0,-350,,non_christian,non_christian,date,,,non_christian,original,,78.0,pre180
