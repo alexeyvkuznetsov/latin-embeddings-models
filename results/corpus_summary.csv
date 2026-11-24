@@ -1,0 +1,3 @@
+period,texts,sentences,tokens,lemmas,min_count_5,min_count_50
+pre180,387,194612,3569242,61409,18806,5548
+post180,391,222276,3342290,67409,19056,5584

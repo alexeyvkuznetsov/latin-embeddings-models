@@ -7,5 +7,3 @@ data/corpus_prepared/
 data/source_manifest.json
 data/benchmark/*.tsv
 data/reference_models/*.vec
-results/*
-!results/README.md

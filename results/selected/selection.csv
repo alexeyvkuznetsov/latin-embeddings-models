@@ -1,0 +1,5 @@
+slice,min_count,selected_seed,neighbor_medoid_score,margin_to_second,model
+pre180,5,1,0.5015018203586847,0.00019465281500674614,results\selected\pre180_mc5.model
+pre180,50,7,0.5672368909260638,0.0003280087235910667,results\selected\pre180_mc50.model
+post180,5,9,0.5209352935111864,0.0015958789687752217,results\selected\post180_mc5.model
+post180,50,3,0.5809364750188036,0.0005321604137891178,results\selected\post180_mc50.model
