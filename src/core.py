@@ -1,6 +1,6 @@
 """Обучение и выбор статических моделей LatinISE.
 
-Входные тексты считаются уже подготовленными. Контрольные суммы не используются.
+Входные тексты считаются уже подготовленными; происхождение проверяет download_corpus.py.
 """
 from collections import Counter
 from itertools import combinations
@@ -87,7 +87,7 @@ class Sentences:
 def prepare():
     """Только список файлов и статистика готового корпуса; никаких правок и хешей."""
     if not CORPUS.is_dir():
-        raise FileNotFoundError(f'Поместите готовые тексты в {CORPUS}')
+        raise FileNotFoundError(f'Поместите готовые тексты в {CORPUS} или выполните python download_corpus.py')
     RESULTS.mkdir(parents=True, exist_ok=True)
     df = metadata()
     stats = []
@@ -213,7 +213,7 @@ def selection():
                                 'selected_seed': winner,
                                 'neighbor_medoid_score': float(ranking.iloc[0].score_top15),
                                 'margin_to_second': float(ranking.iloc[0].score_top15 - ranking.iloc[1].score_top15),
-                                'model': str(target.relative_to(ROOT))})
+                                'model': target.relative_to(ROOT).as_posix()})
             print(f'{period}, min_count={min_count}: выбран запуск {winner}')
     df = pd.DataFrame(all_results)
     df.to_csv(destination / 'selection.csv', index=False)
@@ -225,5 +225,5 @@ def load_selected():
     path = RESULTS / 'selected' / 'selection.json'
     records = json.loads(path.read_text(encoding='utf-8'))
     models = {(record['slice'], record['min_count']):
-              FastText.load(str(ROOT / record['model'])) for record in records}
+              FastText.load(str(ROOT / record['model'].replace('\\', '/'))) for record in records}
     return records, models

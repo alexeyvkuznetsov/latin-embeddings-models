@@ -1,5 +1,6 @@
 """Небольшие проверки без скачивания корпуса LatinISE."""
 import json
+from pathlib import Path
 import numpy as np
 import pandas as pd
 from gensim.models import KeyedVectors
@@ -65,3 +66,19 @@ def test_training_and_selection(tmp_path, monkeypatch):
     assert len(result) == 4
     _, models = core.load_selected()
     assert len(models) == 4
+
+
+def test_load_selected_legacy_windows_path(tmp_path, monkeypatch):
+    monkeypatch.setattr(core, 'ROOT', tmp_path)
+    monkeypatch.setattr(core, 'RESULTS', tmp_path / 'results')
+    folder = core.RESULTS / 'selected'
+    folder.mkdir(parents=True)
+    records = [{'slice': 'pre180', 'min_count': 5,
+                'model': r'results\selected\pre180_mc5.model'}]
+    (folder / 'selection.json').write_text(json.dumps(records))
+    expected = folder / 'pre180_mc5.model'
+    seen = []
+    monkeypatch.setattr(core.FastText, 'load', lambda path: seen.append(Path(path)) or 'loaded')
+    _, models = core.load_selected()
+    assert seen == [expected]
+    assert models[('pre180', 5)] == 'loaded'

@@ -208,7 +208,6 @@ def neighbor_reproducibility(folder):
 
 
 def verification(download=True):
-    core.verify_audit()
     _,selected=core.load_selected()
     folder=core.RESULTS/'validation'
     folder.mkdir(parents=True,exist_ok=True)
