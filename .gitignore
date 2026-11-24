@@ -9,5 +9,3 @@ data/benchmark/*.tsv
 data/reference_models/*.vec
 results/*
 !results/README.md
-*.model
-*.model.*
