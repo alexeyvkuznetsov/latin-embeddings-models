@@ -1,0 +1,7 @@
+period,id,file,title,tokens
+post180_no_vulgate,IT-LAT0001,lat_0382_IT-LAT0001.txt,Vulgata,598085
+post180_no_justinian,IT-LAT0867,lat_0531_IT-LAT0867.txt,Codex,394637
+post180_no_justinian,IT-LAT0202,lat_0533_IT-LAT0202.txt,Institutiones,52783
+post180_no_vulgate_no_justinian,IT-LAT0001,lat_0382_IT-LAT0001.txt,Vulgata,598085
+post180_no_vulgate_no_justinian,IT-LAT0867,lat_0531_IT-LAT0867.txt,Codex,394637
+post180_no_vulgate_no_justinian,IT-LAT0202,lat_0533_IT-LAT0202.txt,Institutiones,52783

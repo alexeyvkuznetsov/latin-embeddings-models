@@ -1,0 +1,32 @@
+[
+  {
+    "slice": "post180_no_justinian",
+    "min_count": 5,
+    "selected_seed": 10,
+    "neighbor_medoid_score": 0.5154084509359034,
+    "margin_to_second": 0.001524084796715952,
+    "model": "results/selected/post180_no_justinian_mc5.model",
+    "git_blob_sha": "62ced15754e6137ebea2ccb8d8ea6b6fbc45bda7",
+    "sha256": "75a4b38ec4b0ca9527a6c970085835b66ef60dd23101f176163497e7ba838e0c"
+  },
+  {
+    "slice": "post180_no_vulgate",
+    "min_count": 5,
+    "selected_seed": 5,
+    "neighbor_medoid_score": 0.5236790136050518,
+    "margin_to_second": 0.003449819918514785,
+    "model": "results/selected/post180_no_vulgate_mc5.model",
+    "git_blob_sha": "5a1280d4aac7d1174e088f0f2503d8eb2c0c9ca0",
+    "sha256": "d2164bf7125d0d1cca04edc54aadfc15527b48936386d40d7e7d2f43438b20a9"
+  },
+  {
+    "slice": "post180_no_vulgate_no_justinian",
+    "min_count": 5,
+    "selected_seed": 6,
+    "neighbor_medoid_score": 0.5093286758354608,
+    "margin_to_second": 0.0025716310192306358,
+    "model": "results/selected/post180_no_vulgate_no_justinian_mc5.model",
+    "git_blob_sha": "2020a459855e331592bfaa83a8a7cd74818f54d9",
+    "sha256": "8178b8b03fd63c13bed70e4621e61a54ed53fa537f974941dedef9cbc6de8637"
+  }
+]

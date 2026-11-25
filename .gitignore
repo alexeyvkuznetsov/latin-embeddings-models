@@ -1,3 +1,17 @@
 __pycache__/
 .pytest_cache/
 .ipynb_checkpoints/
+# LatinISE
+data/new_lemmatized_texts/
+data/non_lemmatized_texts/
+data/bible_separate/
+data/_latinise_upstream/
+
+# External resources
+data/benchmark/*.tsv
+data/reference_models/*.vec
+data/reference_models/*.bin
+data/reference_models/*.model
+
+# Temporary downloads
+*.part

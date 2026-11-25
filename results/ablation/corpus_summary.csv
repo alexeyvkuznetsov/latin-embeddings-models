@@ -1,0 +1,4 @@
+period,texts,sentences,tokens,lemmas,min_count_5,min_count_50
+post180_no_vulgate,390,183406,2744205,62660,17591,5126
+post180_no_justinian,389,157176,2894870,64376,17960,5120
+post180_no_vulgate_no_justinian,388,118306,2296785,59571,16486,4644

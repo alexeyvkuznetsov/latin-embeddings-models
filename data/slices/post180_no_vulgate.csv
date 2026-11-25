@@ -1,0 +1,391 @@
+id,file,title,creator,type,date_range_start,date_range_end,date_avg,date_note,author_religion,label,label_source,label_note,label_manual_authors,label_classifier_authors,composition,data_issue,tokens,slice
+MQDQ-268,lat_+0030_MQDQ-268.txt,*argumenta Aeneidos,Pseudo-Ovid,poetry,18.0,500.0,30,,non_christian,non_christian,author,,,non_christian,original,,818.0,post180_no_vulgate
+MQDQ-436,lat_+0034_MQDQ-436.txt,*epigrammata,Pseudo-Seneca,poetry,100.0,200.0,150,,non_christian,non_christian,author,,,non_christian,original,,4898.0,post180_no_vulgate
+MQDQ-540,lat_-0043_MQDQ-540.txt,*uersus Aeneidos libro primo praemissi,Pseudo-Virgil,poetry,-19.0,350.0,166,"по Lunardi 2026, прил. A; в CSV проекта 19–350 (средняя 174.0)",non_christian,non_christian,author,,non_christian,non_christian,original,,26.0,post180_no_vulgate
+LC-3,lat_-0049_LC-3.txt,Invectiva in Sallustium,Pseudo-Cicero,prose,-43.0,400.0,-1,,non_christian,non_christian,author,,,non_christian,original,,1858.0,post180_no_vulgate
+MQDQ-213,lat_0050.0_MQDQ-213.txt,fragmentum,Marullus,poetry,161.0,180.0,170,,uncertain,uncertain,author,,non_christian,non_christian,original,,7.0,post180_no_vulgate
+MQDQ-394,lat_0050.0_MQDQ-394.txt,Amphitruo,argumenta Plautina,poetry,100.0,200.0,150,,non_christian,non_christian,author,,non_christian,non_christian,original,,108.0,post180_no_vulgate
+MQDQ-395,lat_0050.0_MQDQ-395.txt,Asinaria,argumenta Plautina,poetry,100.0,200.0,150,,non_christian,non_christian,author,,non_christian,non_christian,original,,46.0,post180_no_vulgate
+MQDQ-396,lat_0050.0_MQDQ-396.txt,Aulularia,argumenta Plautina,poetry,100.0,200.0,150,,non_christian,non_christian,author,,,non_christian,original,,131.0,post180_no_vulgate
+MQDQ-397,lat_0050.0_MQDQ-397.txt,Captiui,argumenta Plautina,poetry,100.0,200.0,150,,non_christian,non_christian,author,,non_christian,non_christian,original,,49.0,post180_no_vulgate
+MQDQ-398,lat_0050.0_MQDQ-398.txt,Casina,argumenta Plautina,poetry,100.0,200.0,150,,non_christian,non_christian,author,,,non_christian,original,,33.0,post180_no_vulgate
+MQDQ-399,lat_0050.0_MQDQ-399.txt,Cistellaria,argumenta Plautina,poetry,100.0,200.0,150,,non_christian,non_christian,author,,non_christian,non_christian,original,,61.0,post180_no_vulgate
+MQDQ-400,lat_0050.0_MQDQ-400.txt,Curculio,argumenta Plautina,poetry,100.0,200.0,150,,non_christian,non_christian,author,,,non_christian,original,,45.0,post180_no_vulgate
+MQDQ-401,lat_0050.0_MQDQ-401.txt,Epidicus,argumenta Plautina,poetry,100.0,200.0,150,,non_christian,non_christian,author,,,non_christian,original,,44.0,post180_no_vulgate
+MQDQ-402,lat_0050.0_MQDQ-402.txt,Menaechmi,argumenta Plautina,poetry,100.0,200.0,150,,non_christian,non_christian,author,,,non_christian,original,,58.0,post180_no_vulgate
+MQDQ-403,lat_0050.0_MQDQ-403.txt,Mercator,argumenta Plautina,poetry,100.0,200.0,150,,non_christian,non_christian,author,,non_christian,non_christian,original,,131.0,post180_no_vulgate
+MQDQ-404,lat_0050.0_MQDQ-404.txt,Miles gloriosus,argumenta Plautina,poetry,100.0,200.0,150,,non_christian,non_christian,author,,non_christian,non_christian,original,,158.0,post180_no_vulgate
+MQDQ-405,lat_0050.0_MQDQ-405.txt,Mostellaria,argumenta Plautina,poetry,100.0,200.0,150,,non_christian,non_christian,author,,non_christian,non_christian,original,,63.0,post180_no_vulgate
+MQDQ-408,lat_0050.0_MQDQ-408.txt,Pseudolus,argumenta Plautina,poetry,100.0,200.0,150,,non_christian,non_christian,author,,non_christian,non_christian,original,,128.0,post180_no_vulgate
+MQDQ-409,lat_0050.0_MQDQ-409.txt,Rudens,argumenta Plautina,poetry,100.0,200.0,150,,non_christian,non_christian,author,,,non_christian,original,,32.0,post180_no_vulgate
+MQDQ-410,lat_0050.0_MQDQ-410.txt,Stichus,argumenta Plautina,poetry,100.0,200.0,150,,non_christian,non_christian,author,,,non_christian,original,,38.0,post180_no_vulgate
+MQDQ-411,lat_0050.0_MQDQ-411.txt,Trinummus,argumenta Plautina,poetry,100.0,200.0,150,,non_christian,non_christian,author,,non_christian,non_christian,original,,57.0,post180_no_vulgate
+MQDQ-412,lat_0050.0_MQDQ-412.txt,Truculentus,argumenta Plautina,poetry,100.0,200.0,150,,non_christian,non_christian,author,,,non_christian,original,,66.0,post180_no_vulgate
+IT-LAT0051,lat_0050_IT-LAT0051.txt,Fabulae,"Hyginus, Gaius Iulius",prose,-25.0,200.0,88,,non_christian,non_christian,author,,non_christian,non_christian,original,,10234.0,post180_no_vulgate
+IT-LAT0355,lat_0050_IT-LAT0355.txt,De astronomia,"Hyginus, Gaius Iulius",prose,-25.0,200.0,88,,non_christian,non_christian,author,,,non_christian,original,,21964.0,post180_no_vulgate
+IT-LAT0934,lat_0067_IT-LAT0934.txt,Declamationes maiores,Pseudo-Quintilian,prose,100.0,200.0,150,,non_christian,non_christian,author,,non_christian,christian,original,,67256.0,post180_no_vulgate
+MQDQ-449,lat_0070_MQDQ-449.txt,*argumenta Thebaidos,Pseudo-Statius,poetry,300.0,400.0,350,,non_christian,non_christian,author,,non_christian,non_christian,original,,814.0,post180_no_vulgate
+MQDQ-152,lat_0100.0_MQDQ-152.txt,carminum fragmenta,Alfius Auitus,poetry,150.0,250.0,200,,non_christian,non_christian,author,,,non_christian,original,,21.0,post180_no_vulgate
+MQDQ-439,lat_0100.0_MQDQ-439.txt,carminum fragmenta,Septimius Serenus,poetry,175.0,275.0,225,,non_christian,non_christian,author,,non_christian,non_christian,original,,71.0,post180_no_vulgate
+IT-LAT0347,lat_0100_IT-LAT0347.txt,De munitionibus castrorum,Pseudo-Hyginus,prose,98.0,225.0,165,,non_christian,non_christian,author,,non_christian,non_christian,original,,3005.0,post180_no_vulgate
+IT-LAT0348,lat_0100_IT-LAT0348.txt,Constitutio limitum,Hyginus: Gromaticus,prose,75.0,200.0,145,,non_christian,non_christian,author,,,non_christian,original,,5478.0,post180_no_vulgate
+IT-LAT0784,lat_0100_IT-LAT0784.txt,Declamationes,Calpurnius Flaccus,prose,75.0,200.0,137,,non_christian,non_christian,author,,,non_christian,original,,6847.0,post180_no_vulgate
+MQDQ-335,lat_0147_MQDQ-335.txt,carminum fragmenta,"Apuleius, Lucius",poetry,150.0,190.0,170,,non_christian,non_christian,author,,non_christian,non_christian,original,,226.0,post180_no_vulgate
+MQDQ-240,lat_0150.0_MQDQ-240.txt,incerti odarium,[Auctor incertus],poetry,150.0,200.0,175,,non_christian,non_christian,attribution,,non_christian,non_christian,original,,69.0,post180_no_vulgate
+MQDQ-293,lat_0150.0_MQDQ-293.txt,peruigilium Veneris,[Auctor incertus],poetry,300.0,400.0,350,,non_christian,non_christian,attribution,,,non_christian,original,,655.0,post180_no_vulgate
+MQDQ-345,lat_0150.0_MQDQ-345.txt,carmina Priapea,[Auctor incertus],poetry,-27.0,200.0,87,,non_christian,non_christian,attribution,,,non_christian,collection,,3097.0,post180_no_vulgate
+MQDQ-490,lat_0150.0_MQDQ-490.txt,"*de orthographia, uersus inserti","Caper, Flavius",poetry,100.0,200.0,150,,non_christian,non_christian,author,,non_christian,non_christian,original,,103.0,post180_no_vulgate
+IT-LAT0267,lat_0150_IT-LAT0267.txt,Octavius,"Minucius Felix, Marcus",prose,160.0,250.0,205,,christian,christian,author,,,christian,original,,10547.0,post180_no_vulgate
+IT-LAT0360,lat_0150_IT-LAT0360.txt,Noctes Atticae,"Gellius, Aulus",prose,160.0,190.0,175,,non_christian,non_christian,author,,non_christian,christian,original,,110388.0,post180_no_vulgate
+IT-LAT0916,lat_0150_IT-LAT0916.txt,De verbis dubiis,"Caper, Flavius",prose,100.0,200.0,150,,non_christian,non_christian,author,,,non_christian,original,,775.0,post180_no_vulgate
+IT-LAT0043,lat_0158_IT-LAT0043.txt,Metamorphoses,"Apuleius, Lucius",prose,150.0,190.0,170,,non_christian,non_christian,author,,,christian,original,,52933.0,post180_no_vulgate
+IT-LAT0044,lat_0180_IT-LAT0044.txt,Acta martyrum scillitanorum,[Auctor incertus],prose,180.0,180.0,180,,christian,christian,attribution,,,christian,original,,373.0,post180_no_vulgate
+MQDQ-491,lat_0190_MQDQ-491.txt,"*ignoti uersus ap. Tert. apol. 25, 8","Tertullianus, Quintus Septimius Florens",poetry,198.0,213.0,198,,christian,christian,author,,,non_christian,original,,4.0,post180_no_vulgate
+MQDQ-492,lat_0190_MQDQ-492.txt,*carmen aduersus Marcionem,Pseudo-Tertullian,poetry,300.0,400.0,350,,christian,christian,author,,,christian,original,,8425.0,post180_no_vulgate
+IT-LAT0062,lat_0197_IT-LAT0062.txt,Ad martyres,"Tertullianus, Quintus Septimius Florens",prose,196.0,197.0,197,,christian,christian,author,,christian,christian,original,,1481.0,post180_no_vulgate
+IT-LAT0246,lat_0197_IT-LAT0246.txt,Apologeticum,"Tertullianus, Quintus Septimius Florens",prose,196.0,197.0,197,,christian,christian,author,,christian,christian,original,,20059.0,post180_no_vulgate
+IT-LAT0448,lat_0197_IT-LAT0448.txt,Ad nationes,"Tertullianus, Quintus Septimius Florens",prose,196.0,197.0,197,,christian,christian,author,,,christian,original,,14788.0,post180_no_vulgate
+IT-LAT0248,lat_0198_IT-LAT0248.txt,De testimonio animae,"Tertullianus, Quintus Septimius Florens",prose,197.0,198.0,198,,christian,christian,author,,,christian,original,,2239.0,post180_no_vulgate
+IT-LAT0256,lat_0198_IT-LAT0256.txt,De Baptismo,"Tertullianus, Quintus Septimius Florens",prose,198.0,203.0,200,,christian,christian,author,,christian,christian,original,,4304.0,post180_no_vulgate
+IT-LAT0737,lat_0198_IT-LAT0737.txt,Adversus Iudaeos,"Tertullianus, Quintus Septimius Florens",prose,197.0,197.0,197,,christian,christian,author,,,christian,original,,9819.0,post180_no_vulgate
+IT-LAT0749,lat_0198_IT-LAT0749.txt,Ad uxorem libri duo,"Tertullianus, Quintus Septimius Florens",prose,198.0,203.0,198,,christian,christian,author,,,christian,original,,3908.0,post180_no_vulgate
+IT-LAT0750,lat_0198_IT-LAT0750.txt,De cultu feminarum libri duo,"Tertullianus, Quintus Septimius Florens",prose,196.0,206.0,201,,christian,christian,author,,christian,christian,original,,5115.0,post180_no_vulgate
+IT-LAT0058,lat_0199_IT-LAT0058.txt,De spectaculis,"Tertullianus, Quintus Septimius Florens",prose,196.0,197.0,197,,christian,christian,author,,christian,christian,original,,6323.0,post180_no_vulgate
+IT-LAT0471,lat_0200_IT-LAT0471.txt,Passio Sanctarum Perpetuae et Felicitatis,[Auctor incertus],prose,203.0,213.0,207,,christian,christian,attribution,,christian,christian,original,,3404.0,post180_no_vulgate
+IT-LAT0350,lat_0205_IT-LAT0350.txt,De oratione,"Tertullianus, Quintus Septimius Florens",prose,198.0,203.0,201,,christian,christian,author,,,christian,original,,4506.0,post180_no_vulgate
+IT-LAT0744,lat_0205_IT-LAT0744.txt,De exhortatione castitatis,"Tertullianus, Quintus Septimius Florens",prose,208.0,209.0,208,,christian,christian,author,,,christian,original,,3719.0,post180_no_vulgate
+IT-LAT0606,lat_0210_IT-LAT0606.txt,De resurrectione carnis liber,"Tertullianus, Quintus Septimius Florens",prose,206.0,207.0,206,,christian,christian,author,,,christian,original,,22656.0,post180_no_vulgate
+IT-LAT0733,lat_0210_IT-LAT0733.txt,Liber de corona militis,"Tertullianus, Quintus Septimius Florens",prose,208.0,208.0,208,,christian,christian,author,,,christian,original,,179.0,post180_no_vulgate
+IT-LAT0746,lat_0210_IT-LAT0746.txt,De anima liber,"Tertullianus, Quintus Septimius Florens",prose,210.0,213.0,211,,christian,christian,author,,christian,christian,original,,23867.0,post180_no_vulgate
+IT-LAT0736,lat_0213_IT-LAT0736.txt,De virginibus velandis,"Tertullianus, Quintus Septimius Florens",prose,208.0,209.0,208,,christian,christian,author,,,christian,original,,5396.0,post180_no_vulgate
+IT-LAT0747,lat_0213_IT-LAT0747.txt,Liber de fuga in persecutione,"Tertullianus, Quintus Septimius Florens",prose,208.0,209.0,208,,christian,christian,author,,christian,christian,original,,4829.0,post180_no_vulgate
+IT-LAT0755,lat_0213_IT-LAT0755.txt,Liber de monogamia,"Tertullianus, Quintus Septimius Florens",prose,210.0,211.0,210,,christian,christian,author,,,christian,original,,6302.0,post180_no_vulgate
+IT-LAT0788,lat_0213_IT-LAT0788.txt,Adversus Praxean,"Tertullianus, Quintus Septimius Florens",prose,210.0,211.0,210,,christian,christian,author,,,christian,original,,14350.0,post180_no_vulgate
+MQDQ-123,lat_0250.0_MQDQ-123.txt,in Caesares,uersus ex Historia Augusta,poetry,390.0,500.0,445,,non_christian,non_christian,author,,non_christian,non_christian,original,,369.0,post180_no_vulgate
+MQDQ-138,lat_0250.0_MQDQ-138.txt,Medea tragoedia,Hosidius Gaetae,poetry,173.0,203.0,188,,non_christian,non_christian,author,,non_christian,non_christian,original,,2905.0,post180_no_vulgate
+MQDQ-232,lat_0250.0_MQDQ-232.txt,eclogae,Nemesianus,poetry,275.0,283.0,279,,non_christian,non_christian,author,,non_christian,non_christian,original,,2167.0,post180_no_vulgate
+MQDQ-233,lat_0250.0_MQDQ-233.txt,cynegetica,Nemesianus,poetry,283.0,284.0,283,,non_christian,non_christian,author,,non_christian,non_christian,original,,2114.0,post180_no_vulgate
+MQDQ-234,lat_0250.0_MQDQ-234.txt,de aucupio,Nemesianus,poetry,275.0,300.0,287,,non_christian,non_christian,author,,non_christian,non_christian,original,,182.0,post180_no_vulgate
+MQDQ-343,lat_0250.0_MQDQ-343.txt,precatio omnium herbarum,precatio omnium herbarum,poetry,15.0,500.0,257,,non_christian,non_christian,author,,,non_christian,original,,115.0,post180_no_vulgate
+MQDQ-344,lat_0250.0_MQDQ-344.txt,precatio Terrae matris,precatio Terrae matris,poetry,15.0,500.0,257,,non_christian,non_christian,author,,,non_christian,original,,219.0,post180_no_vulgate
+MQDQ-39,lat_0250.0_MQDQ-39.txt,instructiones 1,Commodianus,poetry,225.0,275.0,250,,christian,christian,author,,christian,christian,original,,5046.0,post180_no_vulgate
+MQDQ-40,lat_0250.0_MQDQ-40.txt,instructiones 2,Commodianus,poetry,225.0,275.0,250,,christian,christian,author,,christian,christian,original,,2546.0,post180_no_vulgate
+MQDQ-41,lat_0250.0_MQDQ-41.txt,carmen de duobus populis,Commodianus,poetry,225.0,275.0,250,,christian,christian,author,,christian,christian,original,,7298.0,post180_no_vulgate
+MQDQ-558,lat_0250.0_MQDQ-558.txt,"de litteris, de syllabis, de metris",Terentianus Maurus,poetry,175.0,300.0,237,,non_christian,non_christian,author,,,non_christian,original,,12839.0,post180_no_vulgate
+IT-LAT0201,lat_0250_IT-LAT0201.txt,Epitome Historiarum Philippicarum Pompei Trogi,"Iustinus Iunianus, Marcus",prose,150.0,250.0,200,,non_christian,non_christian,author,,non_christian,non_christian,original,,61371.0,post180_no_vulgate
+IT-LAT0204,lat_0250_IT-LAT0204.txt,Disticha Catonis,[Auctor incertus],poetry,200.0,300.0,250,,non_christian,non_christian,attribution,,non_christian,non_christian,original,,2094.0,post180_no_vulgate
+IT-LAT0621,lat_0250_IT-LAT0621.txt,Sententiarum receptarum libri quinque,"Paulus, Julius",prose,250.0,300.0,275,,non_christian,non_christian,author,,,non_christian,law,,20763.0,post180_no_vulgate
+IT-LAT0665,lat_0250_IT-LAT0665.txt,De mirabilibus mundi,"Solinus, Caius Iulius",prose,275.0,325.0,300,,non_christian,non_christian,author,,non_christian,christian,original,,33892.0,post180_no_vulgate
+IT-LAT0846,lat_0250_IT-LAT0846.txt,Acta,Acholius,prose,220.0,280.0,250,,non_christian,non_christian,author,,,non_christian,original,,656.0,post180_no_vulgate
+IT-LAT0865,lat_0250_IT-LAT0865.txt,De Trinitate,Novatianus,prose,230.0,250.0,240,,christian,christian,author,,christian,christian,original,,17301.0,post180_no_vulgate
+IT-LAT0913,lat_0250_IT-LAT0913.txt,Fragmentum de metriis,Censorinus,prose,200.0,300.0,250,,non_christian,non_christian,author,,,non_christian,original,,632.0,post180_no_vulgate
+IT-LAT0914,lat_0250_IT-LAT0914.txt,De musica fragmentum,Censorinus,prose,200.0,300.0,250,,non_christian,non_christian,author,,non_christian,non_christian,original,,459.0,post180_no_vulgate
+IT-LAT0059,lat_0251_IT-LAT0059.txt,De unitate ecclesiae,Cyprianus Carthaginensis,prose,251.0,251.0,251,,christian,christian,author,,christian,christian,original,,5359.0,post180_no_vulgate
+IT-LAT0893,lat_0260_IT-LAT0893.txt,Curae boum,"Gargilius Martialis, Quintus",prose,200.0,260.0,230,,non_christian,non_christian,author,,non_christian,non_christian,original,,880.0,post180_no_vulgate
+IT-LAT0895,lat_0260_IT-LAT0895.txt,Medicina ex oleribus et pomis,"Gargilius Martialis, Quintus",prose,200.0,260.0,230,,non_christian,non_christian,author,,non_christian,non_christian,original,,1205.0,post180_no_vulgate
+IT-LAT0896,lat_0260_IT-LAT0896.txt,Vita Alexandri Severi,"Gargilius Martialis, Quintus",prose,200.0,260.0,230,,non_christian,non_christian,author,,non_christian,non_christian,original,,192.0,post180_no_vulgate
+MQDQ-107,lat_0300.0_MQDQ-107.txt,carminum fragmenta,Albinus,poetry,200.0,300.0,250,,uncertain,uncertain,author,,non_christian,non_christian,original,,31.0,post180_no_vulgate
+MQDQ-157,lat_0300.0_MQDQ-157.txt,de aue Phoenice,"Lactantius, Lucius Caecilius Firmianus",poetry,303.0,304.0,303,,christian,christian,author,,,non_christian,original,,1090.0,post180_no_vulgate
+MQDQ-158,lat_0300.0_MQDQ-158.txt,e Graecis conuersa,"Lactantius, Lucius Caecilius Firmianus",poetry,303.0,313.0,308,,christian,christian,author,,non_christian,non_christian,translation,,9.0,post180_no_vulgate
+MQDQ-159,lat_0300.0_MQDQ-159.txt,*de passione domini,Pseudo-Lactantius,poetry,500.0,600.0,550,,christian,christian,author,,,christian,original,,540.0,post180_no_vulgate
+MQDQ-241,lat_0300.0_MQDQ-241.txt,carmina,Publilius Optatianus Porfyrius,poetry,306.0,337.0,321,,christian,christian,author,,non_christian,christian,original,,5132.0,post180_no_vulgate
+MQDQ-290,lat_0300.0_MQDQ-290.txt,carmina (anth. Riese),Pentadius,poetry,200.0,400.0,300,,uncertain,uncertain,author,,,non_christian,original,,511.0,post180_no_vulgate
+MQDQ-377,lat_0300.0_MQDQ-377.txt,distichorum appendix,pseudo Cato,poetry,150.0,300.0,225,,non_christian,non_christian,author,,,non_christian,original,,113.0,post180_no_vulgate
+MQDQ-393,lat_0300.0_MQDQ-393.txt,de concubitu Martis et Veneris,Reposianus,poetry,100.0,525.0,312,,uncertain,uncertain,author,,,non_christian,original,,1220.0,post180_no_vulgate
+MQDQ-499,lat_0300.0_MQDQ-499.txt,carmina,Tiberianus,poetry,275.0,325.0,300,,non_christian,non_christian,author,,non_christian,non_christian,original,,605.0,post180_no_vulgate
+MQDQ-500,lat_0300.0_MQDQ-500.txt,carminum fragmenta,Tiberianus,poetry,275.0,325.0,300,,non_christian,non_christian,author,,non_christian,non_christian,original,,26.0,post180_no_vulgate
+MQDQ-563,lat_0300.0_MQDQ-563.txt,iudicium coci et pistoris,Vespa,poetry,275.0,400.0,337,,uncertain,uncertain,author,,,non_christian,original,,677.0,post180_no_vulgate
+MQDQ-87,lat_0300.0_MQDQ-87.txt,epigrammata Bobiensia,epigrammata Bobiensia,poetry,375.0,425.0,400,,non_christian,non_christian,author,,,non_christian,collection,,2910.0,post180_no_vulgate
+IT-LAT0264,lat_0300_IT-LAT0264.txt,Adversus nationes,Arnobius,prose,295.0,300.0,297,,christian,christian,author,,christian,christian,original,,66047.0,post180_no_vulgate
+IT-LAT0351,lat_0300_IT-LAT0351.txt,Liber memorialis,"Ampelius, Lucius",prose,120.0,400.0,260,,non_christian,non_christian,author,,,non_christian,original,,7185.0,post180_no_vulgate
+IT-LAT0268,lat_0318_IT-LAT0268.txt,De mortibus persecutorum,"Lactantius, Lucius Caecilius Firmianus",prose,317.0,318.0,317,,christian,christian,author,,christian,christian,original,,10970.0,post180_no_vulgate
+MQDQ-1,lat_0321_MQDQ-1.txt,laudes Domini,laudes Domini,poetry,317.0,324.0,321,,christian,christian,author,,christian,christian,original,,943.0,post180_no_vulgate
+IT-LAT0886,lat_0330_IT-LAT0886.txt,Epistulae de iure civitatis Orcistenorum,Ablabius,prose,326.0,337.0,331,,christian,christian,author,"префект претория Константина, христианин; рескрипт об Оркисте",,non_christian,law,,568.0,post180_no_vulgate
+MQDQ-166,lat_0331_MQDQ-166.txt,epigramma,Ablabius,poetry,326.0,338.0,332,,christian,christian,author,"префект претория Константина, христианин; рескрипт об Оркисте",non_christian,non_christian,original,,10.0,post180_no_vulgate
+MQDQ-149,lat_0338_MQDQ-149.txt,e Graecis conuersa,Iulius Valerius,poetry,337.0,375.0,356,,uncertain,uncertain,author,,,non_christian,translation,,502.0,post180_no_vulgate
+MQDQ-10,lat_0350.0_MQDQ-10.txt,e Graecis conuersa,Chalcidius,poetry,370.0,400.0,385,,uncertain,uncertain,author,вера переводчика спорна,non_christian,non_christian,translation,,192.0,post180_no_vulgate
+MQDQ-151,lat_0350.0_MQDQ-151.txt,euangeliorum libri,Vettius Aquilinus Iuuencus,poetry,330.0,330.0,330,,christian,christian,author,,christian,christian,original,,20358.0,post180_no_vulgate
+MQDQ-192,lat_0350.0_MQDQ-192.txt,de medicamentis,Marcellus,poetry,408.0,408.0,408,,christian,christian,author,,,non_christian,original,,512.0,post180_no_vulgate
+MQDQ-289,lat_0350.0_MQDQ-289.txt,carminum fragmenta,Paulus Quaestor,poetry,312.0,312.0,312,,uncertain,uncertain,author,,non_christian,non_christian,original,,6.0,post180_no_vulgate
+MQDQ-350,lat_0350.0_MQDQ-350.txt,cento Vergilianus,Faltonia Betitia Proba,poetry,360.0,360.0,360,,christian,christian,author,,,christian,original,,4825.0,post180_no_vulgate
+MQDQ-440,lat_0350.0_MQDQ-440.txt,liber medicinalis,Quintus Serenus,poetry,175.0,400.0,287,,non_christian,non_christian,author,,,non_christian,original,,7010.0,post180_no_vulgate
+MQDQ-569,lat_0350.0_MQDQ-569.txt,Aratea,"Avienus, Rufius Festus",poetry,340.0,360.0,350,,non_christian,non_christian,author,,non_christian,non_christian,translation,,12202.0,post180_no_vulgate
+MQDQ-570,lat_0350.0_MQDQ-570.txt,carmen ad Flauianum,"Avienus, Rufius Festus",poetry,340.0,360.0,350,,non_christian,non_christian,author,,,non_christian,original,,213.0,post180_no_vulgate
+MQDQ-571,lat_0350.0_MQDQ-571.txt,carmen ad Nortiam,"Avienus, Rufius Festus",poetry,340.0,360.0,350,,non_christian,non_christian,author,,,non_christian,original,,46.0,post180_no_vulgate
+MQDQ-573,lat_0350.0_MQDQ-573.txt,ora maritima,"Avienus, Rufius Festus",poetry,340.0,360.0,350,,non_christian,non_christian,author,,non_christian,non_christian,original,,3934.0,post180_no_vulgate
+MQDQ-609,lat_0350.0_MQDQ-609.txt,de mortibus boum,Severus Endelechius,poetry,387.0,395.0,391,,christian,christian,author,,,non_christian,original,,648.0,post180_no_vulgate
+IT-LAT0115,lat_0350_IT-LAT0115.txt,Breviarium ab Urbe condita,Eutropius,prose,369.0,370.0,369,,non_christian,non_christian,author,,,non_christian,original,,18581.0,post180_no_vulgate
+IT-LAT0233,lat_0350_IT-LAT0233.txt,Periegesis seu descriptio orbis terrarum,"Avienus, Rufius Festus",poetry,340.0,360.0,350,,non_christian,non_christian,author,,non_christian,non_christian,translation,,8936.0,post180_no_vulgate
+IT-LAT0238,lat_0350_IT-LAT0238.txt,Prodigiorum Liber,"Obsequens, Iulius",prose,350.0,400.0,375,,non_christian,non_christian,author,,non_christian,non_christian,original,,4679.0,post180_no_vulgate
+IT-LAT0263,lat_0350_IT-LAT0263.txt,Epistula ad Marcellinam sororem,Ambrosius Mediolanensis,prose,385.0,386.0,385,,christian,christian,author,,,christian,original,,2074.0,post180_no_vulgate
+IT-LAT0286,lat_0350_IT-LAT0286.txt,Testamentum porcelli,[Auctor incertus],prose,325.0,375.0,350,,uncertain,uncertain,attribution,,non_christian,non_christian,original,,288.0,post180_no_vulgate
+IT-LAT0353,lat_0350_IT-LAT0353.txt,Epistula ad Theodosium,"Avianus, Flavius",prose,375.0,425.0,400,,uncertain,uncertain,author,,non_christian,non_christian,original,,168.0,post180_no_vulgate
+IT-LAT0361,lat_0350_IT-LAT0361.txt,De barbarismo,"Donatus, Aelius",prose,300.0,400.0,350,,uncertain,uncertain,author,,,non_christian,original,,225.0,post180_no_vulgate
+IT-LAT0362,lat_0350_IT-LAT0362.txt,De schematibus,"Donatus, Aelius",prose,300.0,400.0,350,,uncertain,uncertain,author,,,non_christian,original,,411.0,post180_no_vulgate
+IT-LAT0364,lat_0350_IT-LAT0364.txt,De solecismo,"Donatus, Aelius",prose,300.0,400.0,350,,uncertain,uncertain,author,,non_christian,non_christian,original,,430.0,post180_no_vulgate
+IT-LAT0365,lat_0350_IT-LAT0365.txt,De tropis,"Donatus, Aelius",prose,300.0,400.0,350,,uncertain,uncertain,author,,,non_christian,original,,878.0,post180_no_vulgate
+IT-LAT0366,lat_0350_IT-LAT0366.txt,De ceteriis vitiis,"Donatus, Aelius",prose,300.0,400.0,350,,uncertain,uncertain,author,,,non_christian,original,,511.0,post180_no_vulgate
+IT-LAT0367,lat_0350_IT-LAT0367.txt,Commentarii Vergiliani,"Donatus, Aelius",prose,300.0,400.0,350,,uncertain,uncertain,author,,,non_christian,original,,2770.0,post180_no_vulgate
+IT-LAT0612,lat_0350_IT-LAT0612.txt,Chronica,"Severus, Sulpicius",prose,404.0,404.0,404,,christian,christian,author,,christian,christian,original,,24762.0,post180_no_vulgate
+IT-LAT0719,lat_0350_IT-LAT0719.txt,Itinerarium peregrinatio,Egeria,prose,381.0,384.0,384,,christian,christian,author,,,christian,original,,17499.0,post180_no_vulgate
+IT-LAT0776,lat_0350_IT-LAT0776.txt,Chronicon,Hydatius Lemicensis,prose,408.0,468.0,438,,christian,christian,author,,christian,christian,original,,5233.0,post180_no_vulgate
+IT-LAT0850,lat_0350_IT-LAT0850.txt,De viris illustribus urbis Romae,Auctor incertus (Aurelius Victor?),prose,300.0,400.0,350,,non_christian,non_christian,author,,,non_christian,original,,9284.0,post180_no_vulgate
+IT-LAT0919,lat_0350_IT-LAT0919.txt,Opus agriculturae,"Palladius, Rutilius Taurus Aemilianus",prose,425.0,475.0,450,,uncertain,uncertain,author,,non_christian,non_christian,original,,39763.0,post180_no_vulgate
+IT-LAT0978,lat_0350_IT-LAT0978.txt,Apophthegmata,Macarius Magnus: Sanctus,prose,500.0,600.0,550,,christian,christian,author,,christian,christian,original,,4797.0,post180_no_vulgate
+LC-11,lat_0350_LC-11.txt,Matheseos libri VIII,Iulius Firmicus Maternus,prose,334.0,337.0,335,,christian,non_christian,author,"«Математика» написана ок. 335 г., до обращения: метка текста — non_christian",non_christian,christian,original,,55924.0,post180_no_vulgate
+LC-4,lat_0350_LC-4.txt,De bello Gildonico,"Claudianus, Claudius",poetry,398.0,398.0,398,,non_christian,non_christian,author,Августин и Орозий называют его чуждым имени Христа,non_christian,non_christian,original,,3299.0,post180_no_vulgate
+LC-5,lat_0350_LC-5.txt,De bello Gothico,"Claudianus, Claudius",poetry,402.0,402.0,402,,non_christian,non_christian,author,Августин и Орозий называют его чуждым имени Христа,non_christian,non_christian,original,,4170.0,post180_no_vulgate
+LC-8,lat_0350_LC-8.txt,Epithalamium de nuptiis Honorii et Mariae,"Claudianus, Claudius",poetry,397.0,398.0,397,,non_christian,non_christian,author,Августин и Орозий называют его чуждым имени Христа,,non_christian,original,,2259.0,post180_no_vulgate
+LC-9,lat_0350_LC-9.txt,Panegyricus Probino et Olybrio Consulibus,"Claudianus, Claudius",poetry,394.0,395.0,394,,non_christian,non_christian,author,Августин и Орозий называют его чуждым имени Христа,,non_christian,original,,1750.0,post180_no_vulgate
+MQDQ-578,lat_0352_MQDQ-578.txt,praefationes,"Ausonius, Decimus Magnus",poetry,379.0,394.0,386,,christian,christian,author,,non_christian,non_christian,original,,615.0,post180_no_vulgate
+MQDQ-579,lat_0352_MQDQ-579.txt,ephemeris,"Ausonius, Decimus Magnus",poetry,368.0,380.0,374,,christian,christian,author,,,christian,original,,1283.0,post180_no_vulgate
+MQDQ-580,lat_0352_MQDQ-580.txt,filius ad patrem,"Ausonius, Decimus Magnus",poetry,334.0,350.0,342,,christian,christian,author,,,non_christian,original,,261.0,post180_no_vulgate
+MQDQ-581,lat_0352_MQDQ-581.txt,uersus Paschales,"Ausonius, Decimus Magnus",poetry,368.0,368.0,368,,christian,christian,author,,,christian,original,,199.0,post180_no_vulgate
+MQDQ-583,lat_0352_MQDQ-583.txt,de herediolo,"Ausonius, Decimus Magnus",poetry,379.0,380.0,379,,christian,christian,author,,,non_christian,original,,224.0,post180_no_vulgate
+MQDQ-584,lat_0352_MQDQ-584.txt,pater ad filium,"Ausonius, Decimus Magnus",poetry,383.0,388.0,385,,christian,christian,author,,,non_christian,original,,147.0,post180_no_vulgate
+MQDQ-588,lat_0352_MQDQ-588.txt,commemoratio professorum,"Ausonius, Decimus Magnus",poetry,385.0,385.0,385,,christian,christian,author,,non_christian,non_christian,original,,2658.0,post180_no_vulgate
+MQDQ-589,lat_0352_MQDQ-589.txt,epitaphia heroum,"Ausonius, Decimus Magnus",poetry,385.0,385.0,385,,christian,christian,author,,,non_christian,original,,729.0,post180_no_vulgate
+MQDQ-590,lat_0352_MQDQ-590.txt,epigrammata,"Ausonius, Decimus Magnus",poetry,334.0,394.0,364,,christian,christian,author,,,non_christian,original,,3804.0,post180_no_vulgate
+MQDQ-591,lat_0352_MQDQ-591.txt,eclogae,"Ausonius, Decimus Magnus",poetry,340.0,390.0,365,,christian,christian,author,,non_christian,non_christian,original,,2480.0,post180_no_vulgate
+MQDQ-592,lat_0352_MQDQ-592.txt,griphus ternarii numeri,"Ausonius, Decimus Magnus",poetry,368.0,368.0,368,,christian,christian,author,,,non_christian,original,,603.0,post180_no_vulgate
+MQDQ-593,lat_0352_MQDQ-593.txt,Mosella,"Ausonius, Decimus Magnus",poetry,371.0,371.0,371,,christian,christian,author,,,non_christian,original,,3035.0,post180_no_vulgate
+MQDQ-595,lat_0352_MQDQ-595.txt,cento nuptialis,"Ausonius, Decimus Magnus",poetry,368.0,369.0,368,,christian,christian,author,,,non_christian,original,,900.0,post180_no_vulgate
+MQDQ-596,lat_0352_MQDQ-596.txt,Cupido cruciatus,"Ausonius, Decimus Magnus",poetry,380.0,383.0,381,,christian,christian,author,,,non_christian,original,,628.0,post180_no_vulgate
+MQDQ-597,lat_0352_MQDQ-597.txt,precationes variae,"Ausonius, Decimus Magnus",poetry,379.0,379.0,379,,christian,christian,author,,non_christian,non_christian,original,,573.0,post180_no_vulgate
+MQDQ-598,lat_0352_MQDQ-598.txt,fasti,"Ausonius, Decimus Magnus",poetry,379.0,383.0,381,,christian,christian,author,,,non_christian,original,,145.0,post180_no_vulgate
+MQDQ-599,lat_0352_MQDQ-599.txt,Caesares,"Ausonius, Decimus Magnus",poetry,379.0,383.0,381,,christian,christian,author,,,non_christian,original,,837.0,post180_no_vulgate
+MQDQ-601,lat_0352_MQDQ-601.txt,technopaegnion,"Ausonius, Decimus Magnus",poetry,388.0,390.0,389,,christian,christian,author,,non_christian,non_christian,original,,1116.0,post180_no_vulgate
+MQDQ-602,lat_0352_MQDQ-602.txt,ludus septem sapientium,"Ausonius, Decimus Magnus",poetry,390.0,390.0,390,,christian,christian,author,,,non_christian,original,,1320.0,post180_no_vulgate
+MQDQ-603,lat_0352_MQDQ-603.txt,epistulae,"Ausonius, Decimus Magnus",poetry,334.0,394.0,364,,christian,christian,author,,non_christian,christian,original,,5492.0,post180_no_vulgate
+IT-LAT0121,lat_0362_IT-LAT0121.txt,Rerum gestarum Libri,Ammianus Marcellinus,prose,390.0,390.0,390,,non_christian,non_christian,author,,,christian,original,,122962.0,post180_no_vulgate
+MQDQ-617,lat_0362_MQDQ-617.txt,hymni,Marius Victorinus,poetry,356.0,362.0,360,,christian,christian,author,,,christian,original,,984.0,post180_no_vulgate
+MQDQ-118,lat_0367_MQDQ-118.txt,*in genesin,Pseudo-Hilary,poetry,440.0,496.0,468,,christian,christian,author,,,christian,original,,1345.0,post180_no_vulgate
+MQDQ-119,lat_0367_MQDQ-119.txt,*de martyrio Maccabaeorum,Pseudo-Hilary,poetry,375.0,600.0,487,,christian,christian,author,,,christian,original,,2768.0,post180_no_vulgate
+MQDQ-120,lat_0367_MQDQ-120.txt,*de euangelio,Pseudo-Hilary,poetry,440.0,496.0,468,,christian,christian,author,,christian,christian,original,,765.0,post180_no_vulgate
+MQDQ-179,lat_0368_MQDQ-179.txt,e Graecis conuersa,Ambrosius Mediolanensis,poetry,374.0,397.0,385,,christian,christian,author,,,non_christian,translation,,12.0,post180_no_vulgate
+MQDQ-180,lat_0368_MQDQ-180.txt,hymni,Ambrosius Mediolanensis,poetry,374.0,397.0,385,,christian,christian,author,,christian,christian,original,,1696.0,post180_no_vulgate
+MQDQ-182,lat_0368_MQDQ-182.txt,*carmen de ternarii numeri excellentia,Pseudo-Ambrose,poetry,500.0,600.0,550,,christian,christian,author,,christian,christian,original,,24924.0,post180_no_vulgate
+MQDQ-183,lat_0368_MQDQ-183.txt,disticha de uetere nouoque Testamento,Ambrosius Mediolanensis,poetry,374.0,550.0,462,,christian,christian,author,,christian,christian,original,,246.0,post180_no_vulgate
+MQDQ-476,lat_0371_MQDQ-476.txt,carmina epistulis inserta,Quintus Aurelius Symmachus,poetry,370.0,375.0,372,,non_christian,non_christian,author,,,non_christian,original,,149.0,post180_no_vulgate
+MQDQ-366,lat_0376_MQDQ-366.txt,praefationes,"Prudentius, Aurelius Clemens",poetry,395.0,405.0,400,,christian,christian,author,,christian,christian,original,,319.0,post180_no_vulgate
+MQDQ-367,lat_0376_MQDQ-367.txt,cathemerinon,"Prudentius, Aurelius Clemens",poetry,395.0,405.0,400,,christian,christian,author,,,christian,original,,7442.0,post180_no_vulgate
+MQDQ-368,lat_0376_MQDQ-368.txt,apotheosis,"Prudentius, Aurelius Clemens",poetry,395.0,405.0,400,,christian,christian,author,,,christian,original,,7407.0,post180_no_vulgate
+MQDQ-369,lat_0376_MQDQ-369.txt,hamartigenia,"Prudentius, Aurelius Clemens",poetry,395.0,405.0,400,,christian,christian,author,,,christian,original,,6486.0,post180_no_vulgate
+MQDQ-371,lat_0376_MQDQ-371.txt,"contra Symmachum, praefationes","Prudentius, Aurelius Clemens",poetry,395.0,405.0,400,,christian,christian,author,,,christian,original,,660.0,post180_no_vulgate
+MQDQ-372,lat_0376_MQDQ-372.txt,contra Symmachum,"Prudentius, Aurelius Clemens",poetry,395.0,405.0,400,,christian,christian,author,,christian,christian,original,,11560.0,post180_no_vulgate
+MQDQ-373,lat_0376_MQDQ-373.txt,peristephanon,"Prudentius, Aurelius Clemens",poetry,395.0,405.0,400,,christian,christian,author,,,christian,original,,17493.0,post180_no_vulgate
+MQDQ-374,lat_0376_MQDQ-374.txt,dittochaeon,"Prudentius, Aurelius Clemens",poetry,395.0,405.0,400,,christian,christian,author,,,christian,original,,1249.0,post180_no_vulgate
+MQDQ-375,lat_0376_MQDQ-375.txt,epilogus,"Prudentius, Aurelius Clemens",poetry,395.0,405.0,400,,christian,christian,author,,christian,christian,original,,90.0,post180_no_vulgate
+MQDQ-477,lat_0376_MQDQ-477.txt,Aradius Rufinus,Symmachus pater,poetry,375.0,375.0,375,,non_christian,non_christian,author,,,non_christian,original,,34.0,post180_no_vulgate
+MQDQ-478,lat_0376_MQDQ-478.txt,Valerius Proculus,Symmachus pater,poetry,375.0,375.0,375,,non_christian,non_christian,author,,,non_christian,original,,37.0,post180_no_vulgate
+MQDQ-479,lat_0376_MQDQ-479.txt,Anicius Iulianus,Symmachus pater,poetry,375.0,375.0,375,,non_christian,non_christian,author,,non_christian,non_christian,original,,40.0,post180_no_vulgate
+MQDQ-480,lat_0376_MQDQ-480.txt,Petronius Probianus,Symmachus pater,poetry,375.0,375.0,375,,non_christian,non_christian,author,,non_christian,non_christian,original,,39.0,post180_no_vulgate
+MQDQ-481,lat_0376_MQDQ-481.txt,Verinus,Symmachus pater,poetry,375.0,375.0,375,,non_christian,non_christian,author,,non_christian,non_christian,original,,44.0,post180_no_vulgate
+MQDQ-116,lat_0383_MQDQ-116.txt,carminum fragmenta,Hieronymus,poetry,380.0,404.0,383,,christian,christian,author,,non_christian,christian,original,,94.0,post180_no_vulgate
+MQDQ-56,lat_0384_MQDQ-56.txt,epigrammata,Damasus,poetry,366.0,384.0,373,,christian,christian,author,,,christian,original,,4628.0,post180_no_vulgate
+IT-LAT0574,lat_0385_IT-LAT0574.txt,De Bissula,"Ausonius, Decimus Magnus",poetry,371.0,372.0,371,,christian,christian,author,,,non_christian,original,,358.0,post180_no_vulgate
+IT-LAT0574_1,lat_0385_IT-LAT0574_1.txt,Epicedion in patrem,"Ausonius, Decimus Magnus",poetry,378.0,378.0,378,,christian,christian,author,,non_christian,non_christian,original,,499.0,post180_no_vulgate
+IT-LAT0574_2,lat_0385_IT-LAT0574_2.txt,Genethliacum ad Ausonium nepotem,"Ausonius, Decimus Magnus",poetry,387.0,387.0,387,,christian,christian,author,,non_christian,non_christian,original,,183.0,post180_no_vulgate
+IT-LAT0574_3,lat_0385_IT-LAT0574_3.txt,Gratiarum actio dicta Domino Gratiano Augusto,"Ausonius, Decimus Magnus",poetry,379.0,379.0,379,,christian,christian,author,,non_christian,non_christian,original,,4023.0,post180_no_vulgate
+IT-LAT0574_4,lat_0385_IT-LAT0574_4.txt,Liber protrepticus ad nepotem,"Ausonius, Decimus Magnus",poetry,379.0,383.0,381,,christian,christian,author,,,non_christian,original,,829.0,post180_no_vulgate
+IT-LAT0574_5,lat_0385_IT-LAT0574_5.txt,Ordo urbium nobilium,"Ausonius, Decimus Magnus",poetry,388.0,389.0,388,,christian,christian,author,,,non_christian,original,,1082.0,post180_no_vulgate
+IT-LAT0574_6,lat_0385_IT-LAT0574_6.txt,Parentalia,"Ausonius, Decimus Magnus",poetry,379.0,382.0,380,,christian,christian,author,,non_christian,non_christian,original,,2550.0,post180_no_vulgate
+IT-LAT0574_7,lat_0385_IT-LAT0574_7.txt,Periocha Iliadis,Pseudo-Ausonius,poetry,330.0,380.0,355,,uncertain,uncertain,author,,non_christian,non_christian,original,,1844.0,post180_no_vulgate
+IT-LAT0574_8,lat_0385_IT-LAT0574_8.txt,Periocha Odyssiae,Pseudo-Ausonius,poetry,330.0,380.0,355,,uncertain,uncertain,author,,,non_christian,original,,130.0,post180_no_vulgate
+IT-LAT0061,lat_0387_IT-LAT0061.txt,De dialectica,Augustinus Hipponensis,prose,387.0,387.0,387,,christian,christian,author,,,non_christian,original,,5677.0,post180_no_vulgate
+IT-LAT0793,lat_0389_IT-LAT0793.txt,De magistro,Augustinus Hipponensis,prose,388.0,390.0,389,,christian,christian,author,,christian,christian,original,,11401.0,post180_no_vulgate
+IT-LAT0189,lat_0390_IT-LAT0189.txt,Epitoma rei militaris,"Vegetius Renatus, Flavius",prose,408.0,450.0,429,,christian,christian,author,,non_christian,non_christian,original,,24797.0,post180_no_vulgate
+IT-LAT0726,lat_0390_IT-LAT0726.txt,Vita Malchi monachi captivi,Hieronymus,prose,392.0,398.0,395,,christian,christian,author,,,christian,original,,2040.0,post180_no_vulgate
+IT-LAT0016,lat_0391_IT-LAT0016.txt,Regula,Augustinus Hipponensis,prose,397.0,427.0,412,,christian,christian,author,,,christian,original,,2125.0,post180_no_vulgate
+IT-LAT0847,lat_0391_IT-LAT0847.txt,De Mysteriis,Ambrosius Mediolanensis,prose,374.0,397.0,385,,christian,christian,author,,,christian,original,,4891.0,post180_no_vulgate
+MQDQ-279,lat_0392_MQDQ-279.txt,carmina,Paulinus Nolanus,poetry,383.0,408.0,395,,christian,christian,author,,,christian,original,,54727.0,post180_no_vulgate
+MQDQ-280,lat_0392_MQDQ-280.txt,carminum appendix,Paulinus Nolanus,poetry,383.0,408.0,395,,christian,christian,author,,christian,christian,original,,2558.0,post180_no_vulgate
+MQDQ-281,lat_0392_MQDQ-281.txt,carmen epist. 8 insertum,Paulinus Nolanus,poetry,396.0,396.0,396,,christian,christian,author,,,christian,original,,1441.0,post180_no_vulgate
+MQDQ-282,lat_0392_MQDQ-282.txt,carmina epist. 32 inserta,Paulinus Nolanus,poetry,404.0,404.0,404,,christian,christian,author,,,christian,original,,1262.0,post180_no_vulgate
+MQDQ-512,lat_0392_MQDQ-512.txt,psalmus contra partem Donati,Augustinus Hipponensis,poetry,393.0,394.0,393,,christian,christian,author,,,christian,original,,2364.0,post180_no_vulgate
+MQDQ-514,lat_0392_MQDQ-514.txt,"*ignoti uersus ap. Aug. mus. 5, 13, 27",Augustinus Hipponensis,poetry,388.0,427.0,407,,christian,christian,author,,,non_christian,original,,53.0,post180_no_vulgate
+MQDQ-516,lat_0392_MQDQ-516.txt,uersus Sibyllae,Augustinus Hipponensis,poetry,412.0,427.0,419,,christian,christian,author,,,christian,original,,178.0,post180_no_vulgate
+IT-LAT0397,lat_0393_IT-LAT0397.txt,De fide et symbolo,Augustinus Hipponensis,prose,393.0,393.0,393,,christian,christian,author,,,christian,original,,5644.0,post180_no_vulgate
+IT-LAT1004,lat_0395_IT-LAT1004.txt,Regula ad monachos,"Macarius Alexandrinus Abbas Nitriensis, Sanctus",prose,375.0,400.0,387,,christian,christian,author,,,christian,original,,1412.0,post180_no_vulgate
+IT-LAT0373,lat_0398_IT-LAT0373.txt,Fescennina dicta Honorio Augusto et Mariae,"Claudianus, Claudius",poetry,397.0,398.0,397,,non_christian,non_christian,author,Августин и Орозий называют его чуждым имени Христа,,non_christian,original,,558.0,post180_no_vulgate
+IT-LAT0015,lat_0399_IT-LAT0015.txt,Confessiones,Augustinus Hipponensis,prose,400.0,400.0,400,,christian,christian,author,,,christian,original,,5159.0,post180_no_vulgate
+IT-LAT0403,lat_0399_IT-LAT0403.txt,De cathechizandis rudibus,Augustinus Hipponensis,prose,399.0,399.0,399,,christian,christian,author,,christian,christian,original,,14402.0,post180_no_vulgate
+MQDQ-15,lat_0400.0_MQDQ-15.txt,in Rufinum,"Claudianus, Claudius",poetry,396.0,397.0,396,,non_christian,non_christian,author,Августин и Орозий называют его чуждым имени Христа,,non_christian,original,,5950.0,post180_no_vulgate
+MQDQ-16,lat_0400.0_MQDQ-16.txt,panegyricus dictus Honorio tertium consuli,"Claudianus, Claudius",poetry,395.0,395.0,395,,non_christian,non_christian,author,Августин и Орозий называют его чуждым имени Христа,non_christian,non_christian,original,,1432.0,post180_no_vulgate
+MQDQ-165,lat_0400.0_MQDQ-165.txt,carmen ad Augustinum,Licentius,poetry,395.0,395.0,395,,christian,christian,author,,non_christian,christian,original,,1036.0,post180_no_vulgate
+MQDQ-17,lat_0400.0_MQDQ-17.txt,panegyricus dictus Honorio quartum consuli,"Claudianus, Claudius",poetry,397.0,397.0,397,,non_christian,non_christian,author,Августин и Орозий называют его чуждым имени Христа,,non_christian,original,,4090.0,post180_no_vulgate
+MQDQ-21,lat_0400.0_MQDQ-21.txt,panegyricus dictus Mallio Theodoro consuli,"Claudianus, Claudius",poetry,398.0,398.0,398,,non_christian,non_christian,author,Августин и Орозий называют его чуждым имени Христа,,non_christian,original,,2230.0,post180_no_vulgate
+MQDQ-22,lat_0400.0_MQDQ-22.txt,in Eutropium,"Claudianus, Claudius",poetry,399.0,399.0,399,,non_christian,non_christian,author,Августин и Орозий называют его чуждым имени Христа,non_christian,non_christian,original,,7428.0,post180_no_vulgate
+MQDQ-23,lat_0400.0_MQDQ-23.txt,de consulatu Stilichonis,"Claudianus, Claudius",poetry,399.0,400.0,400,,non_christian,non_christian,author,Августин и Орозий называют его чуждым имени Христа,,non_christian,original,,7824.0,post180_no_vulgate
+MQDQ-25,lat_0400.0_MQDQ-25.txt,panegyricus dictus Honorio sextum consuli,"Claudianus, Claudius",poetry,403.0,403.0,403,,non_christian,non_christian,author,Августин и Орозий называют его чуждым имени Христа,,non_christian,original,,4315.0,post180_no_vulgate
+MQDQ-26,lat_0400.0_MQDQ-26.txt,carmina minora,"Claudianus, Claudius",poetry,400.0,400.0,400,,non_christian,non_christian,author,Августин и Орозий называют его чуждым имени Христа,,christian,original,,8752.0,post180_no_vulgate
+MQDQ-27,lat_0400.0_MQDQ-27.txt,de raptu Proserpinae,"Claudianus, Claudius",poetry,395.0,397.0,396,,non_christian,non_christian,author,Августин и Орозий называют его чуждым имени Христа,,non_christian,original,,7190.0,post180_no_vulgate
+MQDQ-28,lat_0400.0_MQDQ-28.txt,epigramma,"Claudianus, Claudius",poetry,394.0,404.0,399,,non_christian,non_christian,author,Августин и Орозий называют его чуждым имени Христа,,non_christian,original,,26.0,post180_no_vulgate
+MQDQ-379,lat_0400.0_MQDQ-379.txt,carmen ad quendam senatorem,pseudo Cyprianus,poetry,375.0,400.0,387,,christian,christian,author,,,non_christian,original,,588.0,post180_no_vulgate
+MQDQ-380,lat_0400.0_MQDQ-380.txt,de Sodoma,pseudo Cyprianus,poetry,400.0,425.0,413,,christian,christian,author,,,christian,original,,1108.0,post180_no_vulgate
+MQDQ-381,lat_0400.0_MQDQ-381.txt,de Iona,pseudo Cyprianus,poetry,400.0,425.0,413,,christian,christian,author,,christian,christian,original,,714.0,post180_no_vulgate
+MQDQ-382,lat_0400.0_MQDQ-382.txt,de pascha,pseudo Cyprianus,poetry,400.0,500.0,450,,christian,christian,author,,christian,christian,original,,438.0,post180_no_vulgate
+MQDQ-383,lat_0400.0_MQDQ-383.txt,de resurrectione mortuorum,pseudo Cyprianus,poetry,500.0,500.0,500,,christian,christian,author,,,christian,original,,2587.0,post180_no_vulgate
+MQDQ-441,lat_0400.0_MQDQ-441.txt,"de ultimis syllabis, praefatio",pseudo Probus,poetry,400.0,500.0,450,,uncertain,uncertain,author,,non_christian,non_christian,original,,74.0,post180_no_vulgate
+IT-LAT0270,lat_0400_IT-LAT0270.txt,Psychomachia,"Prudentius, Aurelius Clemens",poetry,395.0,405.0,400,,christian,christian,author,,,christian,original,,6101.0,post180_no_vulgate
+IT-LAT0329,lat_0400_IT-LAT0329.txt,De nominibus Epitome,"Paris, Iulius",prose,300.0,400.0,350,,uncertain,uncertain,author,,non_christian,non_christian,original,,666.0,post180_no_vulgate
+IT-LAT0843,lat_0400_IT-LAT0843.txt,Contra Ioannem Hierosolymitanum Episcopum ad Pammachium,Hieronymus,prose,396.0,397.0,396,,christian,christian,author,,christian,christian,original,,12744.0,post180_no_vulgate
+IT-LAT0878,lat_0400_IT-LAT0878.txt,Vita Pauli,Hieronymus,prose,372.0,381.0,376,,christian,christian,author,,,christian,original,,2382.0,post180_no_vulgate
+IT-LAT0880,lat_0400_IT-LAT0880.txt,Epistulae,Hieronymus,prose,374.0,420.0,397,,christian,christian,author,,christian,christian,original,,5178.0,post180_no_vulgate
+LC-12,lat_0400_LC-12.txt,Helius (Historia Augusta),[Auctor incertus],prose,390.0,500.0,445,,non_christian,non_christian,attribution,,non_christian,non_christian,original,,1427.0,post180_no_vulgate
+LC-12_1,lat_0400_LC-12_1.txt,Carus et Carinus et Numerianus (Historia Augusta),[Auctor incertus],prose,390.0,500.0,445,,non_christian,non_christian,attribution,,,non_christian,original,,2727.0,post180_no_vulgate
+LC-16_1,lat_0400_LC-16_1.txt,Eucharisticon Deo sub ephemeridis meae textu,Paulinus Pellaeus,poetry,459.0,459.0,459,,christian,christian,author,,,christian,original,,4287.0,post180_no_vulgate
+IT-LAT0410,lat_0403_IT-LAT0410.txt,Vita Sancti Martini episcopi et confessoris,"Severus, Sulpicius",prose,396.0,396.0,396,,christian,christian,author,,christian,christian,original,,6713.0,post180_no_vulgate
+MQDQ-284,lat_0418_MQDQ-284.txt,oratio,Paulinus Pellaeus,poetry,399.0,407.0,403,,christian,christian,author,,,non_christian,original,,133.0,post180_no_vulgate
+IT-LAT0768,lat_0419_IT-LAT0768.txt,A Firmo de civitate Dei,Augustinus Hipponensis,prose,412.0,427.0,419,,christian,christian,author,,christian,christian,original,,380.0,post180_no_vulgate
+IT-LAT0337,lat_0420_IT-LAT0337.txt,De re coquinaria,"Apicius, Marcus Gavius",prose,14.0,400.0,207,,non_christian,non_christian,author,,,non_christian,original,,15567.0,post180_no_vulgate
+MQDQ-121,lat_0425_MQDQ-121.txt,carminis fragmentum,Hilarius Arelatensis,poetry,420.0,449.0,434,,christian,christian,author,,,non_christian,original,,26.0,post180_no_vulgate
+IT-LAT0610,lat_0426_IT-LAT0610.txt,Liber sententiarum,Prosper Aquitanus,prose,450.0,450.0,450,,christian,christian,author,,,christian,original,,14184.0,post180_no_vulgate
+IT-LAT0383,lat_0438_IT-LAT0383.txt,Contra haereticos (Codex Theodosianus),[Auctor incertus],prose,438.0,438.0,438,,christian,christian,attribution,,,christian,law,,466.0,post180_no_vulgate
+MQDQ-114,lat_0450.0_MQDQ-114.txt,Alcestis Barcinonensis,[Auctor incertus],poetry,350.0,400.0,375,,uncertain,uncertain,attribution,,non_christian,non_christian,original,,850.0,post180_no_vulgate
+MQDQ-125,lat_0450.0_MQDQ-125.txt,"uita Hilarii Arelatensis, uersus inserti",Honoratus Massiliensis,poetry,480.0,480.0,480,,christian,christian,author,,non_christian,non_christian,original,,74.0,post180_no_vulgate
+MQDQ-185,lat_0450.0_MQDQ-185.txt,carminis fragmentum,Ambrosius Theodosius Macrobius,poetry,400.0,450.0,425,,non_christian,non_christian,author,"традиционно считается язычником; А. Кэмерон допускает, что был христианином",,non_christian,original,,21.0,post180_no_vulgate
+MQDQ-189,lat_0450.0_MQDQ-189.txt,alethia,Marius Victor,poetry,430.0,430.0,430,,christian,christian,author,,christian,christian,original,,13501.0,post180_no_vulgate
+MQDQ-2,lat_0450.0_MQDQ-2.txt,aegritudo Perdicae,[Auctor incertus],poetry,400.0,500.0,450,,uncertain,uncertain,attribution,,non_christian,non_christian,original,,1922.0,post180_no_vulgate
+MQDQ-212,lat_0450.0_MQDQ-212.txt,de nuptiis Philologiae et Mercurii,Martianus Capella,poetry,475.0,500.0,487,,non_christian,non_christian,author,,,non_christian,original,,4525.0,post180_no_vulgate
+MQDQ-218,lat_0450.0_MQDQ-218.txt,carmen de Christo,Merobaudes,poetry,430.0,450.0,440,,christian,christian,author,,,christian,original,,206.0,post180_no_vulgate
+MQDQ-219,lat_0450.0_MQDQ-219.txt,carmina,Merobaudes,poetry,439.0,460.0,450,,christian,christian,author,,,non_christian,original,,483.0,post180_no_vulgate
+MQDQ-220,lat_0450.0_MQDQ-220.txt,panegyricus poeticus,Merobaudes,poetry,437.0,446.0,441,,christian,christian,author,,non_christian,non_christian,original,,1262.0,post180_no_vulgate
+MQDQ-242,lat_0450.0_MQDQ-242.txt,commonitorium,Orientius,poetry,400.0,425.0,412,,christian,christian,author,,christian,christian,original,,6476.0,post180_no_vulgate
+MQDQ-243,lat_0450.0_MQDQ-243.txt,carmina minora,Orientius,poetry,400.0,425.0,412,,christian,christian,author,,,christian,original,,1705.0,post180_no_vulgate
+MQDQ-273,lat_0450.0_MQDQ-273.txt,de insitione,Palladius Rutilius Taurus Aemilianus,poetry,425.0,475.0,450,,uncertain,uncertain,author,,,non_christian,original,,993.0,post180_no_vulgate
+MQDQ-278,lat_0450.0_MQDQ-278.txt,epigramma,Paulinus Baeterrensis,poetry,400.0,410.0,405,,christian,christian,author,,christian,christian,original,,753.0,post180_no_vulgate
+MQDQ-285,lat_0450.0_MQDQ-285.txt,de uita Martini,Paulinus Petricordiae,poetry,460.0,470.0,465,,christian,christian,author,,christian,christian,original,,22147.0,post180_no_vulgate
+MQDQ-286,lat_0450.0_MQDQ-286.txt,de uisitatione nepotuli sui,Paulinus Petricordiae,poetry,450.0,500.0,475,,christian,christian,author,,,christian,original,,523.0,post180_no_vulgate
+MQDQ-287,lat_0450.0_MQDQ-287.txt,uersus de orantibus,Paulinus Petricordiae,poetry,450.0,500.0,475,,christian,christian,author,,christian,christian,original,,155.0,post180_no_vulgate
+MQDQ-304,lat_0450.0_MQDQ-304.txt,carmen de uita Vergilii,Phocas,poetry,200.0,500.0,350,,uncertain,uncertain,author,,non_christian,non_christian,original,,760.0,post180_no_vulgate
+MQDQ-305,lat_0450.0_MQDQ-305.txt,"ars, praefatio",Phocas,poetry,200.0,500.0,350,,uncertain,uncertain,author,,,non_christian,original,,80.0,post180_no_vulgate
+MQDQ-349,lat_0450.0_MQDQ-349.txt,praeceptum,Priscillianista quidam,poetry,400.0,500.0,450,,christian,christian,author,,,non_christian,original,,5.0,post180_no_vulgate
+MQDQ-360,lat_0450.0_MQDQ-360.txt,"carmen de ingratis, argumentum",Prosper Aquitanus,poetry,429.0,430.0,429,,christian,christian,author,,christian,non_christian,original,,72.0,post180_no_vulgate
+MQDQ-361,lat_0450.0_MQDQ-361.txt,carmen de ingratis,Prosper Aquitanus,poetry,429.0,430.0,429,,christian,christian,author,,christian,christian,original,,6768.0,post180_no_vulgate
+MQDQ-362,lat_0450.0_MQDQ-362.txt,in obtrectatorem Augustini,Prosper Aquitanus,poetry,429.0,430.0,429,,christian,christian,author,,,non_christian,original,,149.0,post180_no_vulgate
+MQDQ-363,lat_0450.0_MQDQ-363.txt,epigrammata,Prosper Aquitanus,poetry,450.0,450.0,450,,christian,christian,author,,,christian,original,,5851.0,post180_no_vulgate
+MQDQ-364,lat_0450.0_MQDQ-364.txt,epitaphium haereseon,Prosper Aquitanus,poetry,431.0,432.0,431,,christian,christian,author,,christian,christian,original,,148.0,post180_no_vulgate
+MQDQ-365,lat_0450.0_MQDQ-365.txt,*carmen de prouidentia,Pseudo-Prosper,poetry,416.0,416.0,416,,christian,christian,author,,christian,christian,original,,6547.0,post180_no_vulgate
+MQDQ-413,lat_0450.0_MQDQ-413.txt,in metra Terentiana,Rufinus,poetry,375.0,500.0,437,,uncertain,uncertain,author,,,non_christian,original,,150.0,post180_no_vulgate
+MQDQ-414,lat_0450.0_MQDQ-414.txt,de numeris oratorum,Rufinus,poetry,375.0,500.0,437,,uncertain,uncertain,author,,,non_christian,original,,459.0,post180_no_vulgate
+MQDQ-417,lat_0450.0_MQDQ-417.txt,de reditu suo,Rutilius Namatianus,poetry,417.0,417.0,417,,non_christian,non_christian,author,,non_christian,non_christian,original,,4048.0,post180_no_vulgate
+MQDQ-418,lat_0450.0_MQDQ-418.txt,fragmenta duo,Rutilius Namatianus,poetry,417.0,417.0,417,,non_christian,non_christian,author,,non_christian,non_christian,original,,184.0,post180_no_vulgate
+MQDQ-422,lat_0450.0_MQDQ-422.txt,carmen paschale,Sedulius,poetry,431.0,431.0,431,,christian,christian,author,,,christian,original,,11401.0,post180_no_vulgate
+MQDQ-423,lat_0450.0_MQDQ-423.txt,hymni,Sedulius,poetry,400.0,450.0,425,,christian,christian,author,,christian,christian,original,,995.0,post180_no_vulgate
+MQDQ-48,lat_0450.0_MQDQ-48.txt,liber geneseos,Cyprianus Gallus,poetry,400.0,425.0,412,,christian,christian,author,,christian,christian,original,,9480.0,post180_no_vulgate
+MQDQ-482,lat_0450.0_MQDQ-482.txt,aenigmata,Symphosius,poetry,368.0,500.0,434,,uncertain,uncertain,author,,,non_christian,original,,2264.0,post180_no_vulgate
+MQDQ-49,lat_0450.0_MQDQ-49.txt,exodus,Cyprianus Gallus,poetry,400.0,425.0,412,,christian,christian,author,,christian,christian,original,,5600.0,post180_no_vulgate
+MQDQ-50,lat_0450.0_MQDQ-50.txt,leuiticus,Cyprianus Gallus,poetry,400.0,425.0,412,,christian,christian,author,,,christian,original,,2039.0,post180_no_vulgate
+MQDQ-51,lat_0450.0_MQDQ-51.txt,numeri,Cyprianus Gallus,poetry,400.0,425.0,412,,christian,christian,author,,,christian,original,,5058.0,post180_no_vulgate
+MQDQ-52,lat_0450.0_MQDQ-52.txt,deuteronomium,Cyprianus Gallus,poetry,400.0,425.0,412,,christian,christian,author,,christian,christian,original,,1653.0,post180_no_vulgate
+MQDQ-53,lat_0450.0_MQDQ-53.txt,Iesu Naue,Cyprianus Gallus,poetry,400.0,425.0,412,,christian,christian,author,,christian,christian,original,,3757.0,post180_no_vulgate
+MQDQ-54,lat_0450.0_MQDQ-54.txt,iudicum,Cyprianus Gallus,poetry,400.0,425.0,412,,christian,christian,author,,,christian,original,,4973.0,post180_no_vulgate
+MQDQ-55,lat_0450.0_MQDQ-55.txt,deperditorum carminum reliquiae,Cyprianus Gallus,poetry,400.0,425.0,412,,christian,christian,author,,christian,christian,original,,102.0,post180_no_vulgate
+MQDQ-562,lat_0450.0_MQDQ-562.txt,fabulae,Auianus,poetry,375.0,425.0,400,,uncertain,uncertain,author,,non_christian,non_christian,original,,4932.0,post180_no_vulgate
+MQDQ-59,lat_0450.0_MQDQ-59.txt,de laudibus dei,Dracontius,poetry,490.0,496.0,493,,christian,christian,author,,christian,christian,original,,15248.0,post180_no_vulgate
+MQDQ-60,lat_0450.0_MQDQ-60.txt,satisfactio,Dracontius,poetry,490.0,496.0,493,,christian,christian,author,,,christian,original,,2015.0,post180_no_vulgate
+MQDQ-608,lat_0450.0_MQDQ-608.txt,epistula ad Arbogastem,Auspicius Tullensis Episcopus,poetry,475.0,475.0,475,,christian,christian,author,,christian,christian,original,,575.0,post180_no_vulgate
+MQDQ-61,lat_0450.0_MQDQ-61.txt,Romulea,Dracontius,poetry,480.0,510.0,495,,christian,christian,author,,,non_christian,original,,19349.0,post180_no_vulgate
+MQDQ-611,lat_0450.0_MQDQ-611.txt,epitaphium Hilarini,Cytherius,poetry,429.0,534.0,481,,uncertain,uncertain,author,,,non_christian,original,,12.0,post180_no_vulgate
+MQDQ-615,lat_0450.0_MQDQ-615.txt,epigramma in ecclesia sancti Petri,Achilleus Spoletanus Episcopus,poetry,400.0,500.0,450,,christian,christian,author,,,christian,original,,25.0,post180_no_vulgate
+MQDQ-62,lat_0450.0_MQDQ-62.txt,"Romulea, fragmentum",Dracontius,poetry,480.0,510.0,495,,christian,christian,author,,non_christian,non_christian,original,,13.0,post180_no_vulgate
+MQDQ-63,lat_0450.0_MQDQ-63.txt,Orestes,Dracontius,poetry,480.0,510.0,495,,christian,christian,author,,,christian,original,,6203.0,post180_no_vulgate
+MQDQ-630,lat_0450.0_MQDQ-630.txt,e Parmenide conuersa,Caelius Aurelianus,poetry,400.0,425.0,412,,uncertain,uncertain,author,,,non_christian,translation,,38.0,post180_no_vulgate
+MQDQ-66,lat_0450.0_MQDQ-66.txt,uersus de fide,Agrestius Gallus Episcopus,poetry,441.0,441.0,441,,christian,christian,author,,christian,christian,original,,281.0,post180_no_vulgate
+IT-LAT0333,lat_0450_IT-LAT0333.txt,De centum metris,"Servius, Marius Honoratus",prose,400.0,425.0,412,,uncertain,uncertain,author,,,non_christian,original,,2053.0,post180_no_vulgate
+IT-LAT0334,lat_0450_IT-LAT0334.txt,De metris Horatii,"Servius, Marius Honoratus",prose,400.0,425.0,412,,uncertain,uncertain,author,,,non_christian,original,,1372.0,post180_no_vulgate
+IT-LAT0336,lat_0450_IT-LAT0336.txt,Explanatio in artem Donati,"Servius, Marius Honoratus",prose,400.0,425.0,412,,uncertain,uncertain,author,,non_christian,non_christian,original,,17182.0,post180_no_vulgate
+IT-LAT0608,lat_0450_IT-LAT0608.txt,De laude eremi,Eucherius Arelas: Sanctus,prose,426.0,427.0,426,,christian,christian,author,,,christian,original,,3850.0,post180_no_vulgate
+IT-LAT0904,lat_0450_IT-LAT0904.txt,Adversus profanas omnium novitates haereticorum commonitorium cum notis,Vincentius Lerinensis,prose,434.0,434.0,434,,christian,christian,author,,christian,christian,original,,12860.0,post180_no_vulgate
+IT-LAT1001,lat_0450_IT-LAT1001.txt,Excerpta Valesiana,[Auctor incertus],prose,390.0,550.0,470,,uncertain,uncertain,attribution,,,christian,original,,4613.0,post180_no_vulgate
+LC-16,lat_0450_LC-16.txt,Saturnalia,Ambrosius Theodosius Macrobius,prose,400.0,450.0,425,,non_christian,non_christian,author,"традиционно считается язычником; А. Кэмерон допускает, что был христианином",non_christian,christian,original,,80100.0,post180_no_vulgate
+MQDQ-444,lat_0458_MQDQ-444.txt,carmina,Sidonius Apollinaris,poetry,469.0,469.0,469,,christian,christian,author,,non_christian,christian,original,,22053.0,post180_no_vulgate
+MQDQ-445,lat_0458_MQDQ-445.txt,"epistulae, uersus inserti",Sidonius Apollinaris,poetry,469.0,482.0,475,,christian,christian,author,,christian,christian,original,,2519.0,post180_no_vulgate
+MQDQ-111,lat_0473_MQDQ-111.txt,"carmen epist. 2, 19 insertum",Ruricius Lemovicensis Episcopus,poetry,470.0,507.0,488,,christian,christian,author,,,christian,original,,120.0,post180_no_vulgate
+MQDQ-277,lat_0500_MQDQ-277.txt,carminum fragmenta,Parthenius Africanus Presbyter,poetry,500.0,500.0,500,,christian,christian,author,,non_christian,non_christian,original,,97.0,post180_no_vulgate
+IT-LAT0917,lat_0502_IT-LAT0917.txt,Porphyrii Isagoge translatio,"Boethius, Anicius Manlius Severinus",prose,494.0,524.0,509,,christian,christian,author,,non_christian,non_christian,translation,,5131.0,post180_no_vulgate
+MQDQ-622,lat_0518_MQDQ-622.txt,poematum libri,Alcimus Auitus,poetry,468.0,518.0,493,,christian,christian,author,,christian,christian,original,,20191.0,post180_no_vulgate
+MQDQ-623,lat_0518_MQDQ-623.txt,carminum appendix,Alcimus Auitus,poetry,468.0,518.0,493,,christian,christian,author,,christian,christian,original,,1555.0,post180_no_vulgate
+MQDQ-75,lat_0521_MQDQ-75.txt,carmina 1,Ennodius,poetry,497.0,513.0,521,,christian,christian,author,,non_christian,christian,original,,5231.0,post180_no_vulgate
+MQDQ-76,lat_0521_MQDQ-76.txt,carmina 2,Ennodius,poetry,497.0,513.0,521,,christian,christian,author,,non_christian,christian,original,,5493.0,post180_no_vulgate
+MQDQ-77,lat_0521_MQDQ-77.txt,"dictiones, 12, 24, 28, uersus inserti",Ennodius,poetry,497.0,513.0,521,,christian,christian,author,,,non_christian,original,,94.0,post180_no_vulgate
+MQDQ-78,lat_0521_MQDQ-78.txt,"epistulae, 5,7-8, uersus inserti",Ennodius,poetry,497.0,513.0,521,,christian,christian,author,,non_christian,non_christian,original,,134.0,post180_no_vulgate
+MQDQ-79,lat_0521_MQDQ-79.txt,"epistulae, 7,21-29, uersus inserti",Ennodius,poetry,497.0,513.0,521,,christian,christian,author,,christian,christian,original,,76.0,post180_no_vulgate
+MQDQ-80,lat_0521_MQDQ-80.txt,"opuscula, 6, uersus inserti",Ennodius,poetry,497.0,513.0,521,,christian,christian,author,,non_christian,non_christian,original,,56.0,post180_no_vulgate
+MQDQ-81,lat_0521_MQDQ-81.txt,"laus uersuum, opusc. 6",Ennodius,poetry,497.0,513.0,521,,christian,christian,author,,,christian,original,,55.0,post180_no_vulgate
+MQDQ-82,lat_0521_MQDQ-82.txt,"Verecundia, opusc. 6",Ennodius,poetry,497.0,513.0,521,,christian,christian,author,,,non_christian,original,,39.0,post180_no_vulgate
+MQDQ-83,lat_0521_MQDQ-83.txt,"Castitas, opusc. 6",Ennodius,poetry,497.0,513.0,521,,christian,christian,author,,non_christian,non_christian,original,,67.0,post180_no_vulgate
+MQDQ-84,lat_0521_MQDQ-84.txt,"Fides, opusc. 6",Ennodius,poetry,497.0,513.0,521,,christian,christian,author,,,non_christian,original,,68.0,post180_no_vulgate
+MQDQ-85,lat_0521_MQDQ-85.txt,"Grammatica, opusc. 6",Ennodius,poetry,497.0,513.0,521,,christian,christian,author,,non_christian,non_christian,original,,67.0,post180_no_vulgate
+MQDQ-86,lat_0521_MQDQ-86.txt,"Rhetorica, opusc. 6",Ennodius,poetry,497.0,513.0,521,,christian,christian,author,,non_christian,non_christian,original,,58.0,post180_no_vulgate
+IT-LAT0011,lat_0524_IT-LAT0011.txt,S. Benedicti Regula,Benedictus Nursianus,prose,525.0,575.0,550,,christian,christian,author,,christian,christian,original,,11617.0,post180_no_vulgate
+MQDQ-627,lat_0524_MQDQ-627.txt,consolatio Philosophiae,"Boethius, Anicius Manlius Severinus",poetry,523.0,524.0,523,,christian,christian,author,,,christian,original,,3586.0,post180_no_vulgate
+MQDQ-621,lat_0525_MQDQ-621.txt,uersus in subscritione codicis Hegesippi,Cyprianus Tolonensis Episcopus,poetry,524.0,546.0,535,,christian,christian,author,,,christian,original,,92.0,post180_no_vulgate
+IT-LAT0867,lat_0531_IT-LAT0867.txt,Codex,"Iustinianus, Caesar Flavius (Imperator Iustinianus)",prose,529.0,534.0,531,,christian,christian,author,,,christian,law,,394641.0,post180_no_vulgate
+IT-LAT0202,lat_0533_IT-LAT0202.txt,Institutiones,"Iustinianus, Caesar Flavius (Imperator Iustinianus)",prose,533.0,533.0,533,,christian,christian,author,,,christian,law,,52783.0,post180_no_vulgate
+MQDQ-618,lat_0533_MQDQ-618.txt,uersus de calice,Remigius Remensis Episcopus,poetry,473.0,533.0,503,,christian,christian,author,,christian,christian,original,,19.0,post180_no_vulgate
+IT-LAT0251,lat_0535_IT-LAT0251.txt,Epistulae Theodoricianae variae,Papa Gelasius I,prose,492.0,496.0,494,,christian,christian,author,,,christian,original,,894.0,post180_no_vulgate
+IT-LAT0252,lat_0535_IT-LAT0252.txt,Orationes,"Cassiodorus, Flavius Magnus Aurelius",prose,500.0,550.0,525,,christian,christian,author,,non_christian,non_christian,original,,1408.0,post180_no_vulgate
+IT-LAT0250,lat_0540_IT-LAT0250.txt,De Anima,"Cassiodorus, Flavius Magnus Aurelius",prose,540.0,540.0,540,,christian,christian,author,,,christian,original,,10268.0,post180_no_vulgate
+MQDQ-122,lat_0550.0_MQDQ-122.txt,"historia Apollonii, uersus inserti",[Auctor incertus],poetry,475.0,525.0,500,,uncertain,uncertain,attribution,,,non_christian,original,,187.0,post180_no_vulgate
+MQDQ-177,lat_0550.0_MQDQ-177.txt,carmina (anth. Riese),Luxurius,poetry,500.0,534.0,516,,uncertain,uncertain,author,,,non_christian,original,,4751.0,post180_no_vulgate
+MQDQ-191,lat_0550.0_MQDQ-191.txt,in Euangelia,Severus Malacitanus,poetry,550.0,602.0,576,,christian,christian,author,,,christian,original,,4512.0,post180_no_vulgate
+MQDQ-215,lat_0550.0_MQDQ-215.txt,elegiae,Maximianus,poetry,500.0,600.0,550,,uncertain,uncertain,author,,non_christian,non_christian,original,,4281.0,post180_no_vulgate
+MQDQ-216,lat_0550.0_MQDQ-216.txt,elegiarum appendix,Maximianus,poetry,500.0,600.0,550,,uncertain,uncertain,author,,,non_christian,original,,690.0,post180_no_vulgate
+MQDQ-346,lat_0550.0_MQDQ-346.txt,perihegesis,Priscianus,poetry,475.0,525.0,500,,christian,christian,author,,,non_christian,translation,,6932.0,post180_no_vulgate
+MQDQ-347,lat_0550.0_MQDQ-347.txt,carmen in laudem Anastasii imperatoris,Priscianus,poetry,503.0,515.0,509,,christian,christian,author,,non_christian,non_christian,original,,2076.0,post180_no_vulgate
+MQDQ-348,lat_0550.0_MQDQ-348.txt,carminis fragmentum,Priscianus,poetry,475.0,525.0,500,,christian,christian,author,,non_christian,non_christian,original,,5.0,post180_no_vulgate
+MQDQ-351,lat_0550.0_MQDQ-351.txt,epistula ad Florianum,Arator,poetry,544.0,550.0,547,"по Lunardi 2026, прил. A; в CSV проекта 554–550 (средняя 557.0)",christian,christian,author,,,non_christian,original,,147.0,post180_no_vulgate
+MQDQ-352,lat_0550.0_MQDQ-352.txt,epistula ad Vigilium,Arator,poetry,544.0,550.0,547,"по Lunardi 2026, прил. A; в CSV проекта 554–550 (средняя 557.0)",christian,christian,author,,christian,christian,original,,188.0,post180_no_vulgate
+MQDQ-353,lat_0550.0_MQDQ-353.txt,de actibus apostolorum,Arator,poetry,544.0,544.0,544,,christian,christian,author,,,christian,original,,15741.0,post180_no_vulgate
+MQDQ-354,lat_0550.0_MQDQ-354.txt,alethia,Arator,poetry,544.0,550.0,547,"по Lunardi 2026, прил. A; в CSV проекта 554–550 (средняя 557.0)",christian,christian,author,,,christian,original,,644.0,post180_no_vulgate
+MQDQ-355,lat_0550.0_MQDQ-355.txt,in historiam praefatio,Arator,poetry,544.0,550.0,547,"по Lunardi 2026, прил. A; в CSV проекта 554–550 (средняя 557.0)",christian,christian,author,,,non_christian,original,,51.0,post180_no_vulgate
+MQDQ-415,lat_0550.0_MQDQ-415.txt,de Christi beneficiis,Rusticius Helpidius,poetry,475.0,525.0,500,,christian,christian,author,,christian,christian,original,,982.0,post180_no_vulgate
+MQDQ-416,lat_0550.0_MQDQ-416.txt,tristicha,Rusticius Helpidius,poetry,475.0,525.0,500,,christian,christian,author,,christian,christian,original,,464.0,post180_no_vulgate
+MQDQ-42,lat_0550.0_MQDQ-42.txt,Iohannis,Corippus,poetry,548.0,550.0,548,,christian,christian,author,,non_christian,christian,original,,30486.0,post180_no_vulgate
+MQDQ-43,lat_0550.0_MQDQ-43.txt,panegyricus in laudem Anastasii,Corippus,poetry,565.0,566.0,565,,christian,christian,author,,non_christian,non_christian,original,,334.0,post180_no_vulgate
+MQDQ-44,lat_0550.0_MQDQ-44.txt,panegyricus in laudem Iustini Augusti,Corippus,poetry,566.0,566.0,566,,christian,christian,author,,non_christian,christian,original,,10251.0,post180_no_vulgate
+MQDQ-475,lat_0550.0_MQDQ-475.txt,sylloge cod. Elnonensis,sylloge cod. Elnonensis,poetry,580.0,600.0,590,,christian,christian,author,,,christian,collection,,441.0,post180_no_vulgate
+MQDQ-65,lat_0550.0_MQDQ-65.txt,elogium Asbadi,[Auctor incertus],poetry,556.0,556.0,556,,uncertain,uncertain,attribution,,,non_christian,original,,91.0,post180_no_vulgate
+MQDQ-94,lat_0550.0_MQDQ-94.txt,carmina (anth. Riese),Felix,poetry,496.0,523.0,508,,uncertain,uncertain,author,,,non_christian,original,,608.0,post180_no_vulgate
+MQDQ-95,lat_0550.0_MQDQ-95.txt,hymnus,Flauius Cabilonensis Episcopus,poetry,575.0,600.0,587,,christian,christian,author,,christian,christian,original,,127.0,post180_no_vulgate
+MQDQ-98,lat_0550.0_MQDQ-98.txt,carmen (anth. Riese),Florentinus,poetry,496.0,500.0,498,,uncertain,uncertain,author,,non_christian,christian,original,,247.0,post180_no_vulgate
+IT-LAT0196,lat_0550_IT-LAT0196.txt,De origine actibusque Getarum,Iordanes,prose,551.0,551.0,551,,christian,christian,author,,,christian,original,,19442.0,post180_no_vulgate
+IT-LAT0433,lat_0550_IT-LAT0433.txt,Pro repellenda iactantia,Martinus Bracarensis,prose,550.0,579.0,564,,christian,christian,author,,,non_christian,original,,1125.0,post180_no_vulgate
+IT-LAT0435,lat_0550_IT-LAT0435.txt,Sententiae patrum Aegyptiorum,Martinus Bracarensis,prose,556.0,579.0,567,,christian,christian,author,,christian,christian,original,,4281.0,post180_no_vulgate
+IT-LAT0783,lat_0550_IT-LAT0783.txt,Historiae,Gregorius Turonensis,prose,573.0,594.0,583,,christian,christian,author,,christian,christian,original,,118402.0,post180_no_vulgate
+IT-LAT0791,lat_0550_IT-LAT0791.txt,Chronicon,Marcellinus Comes,prose,520.0,534.0,527,,christian,christian,author,,,christian,original,,10614.0,post180_no_vulgate
+IT-LAT0906,lat_0550_IT-LAT0906.txt,De summa temporum vel origine actibusque gentis Romanorum,Iordanes,prose,551.0,551.0,551,,christian,christian,author,,,christian,original,,18462.0,post180_no_vulgate
+IT-LAT0987,lat_0550_IT-LAT0987.txt,De observatione ciborum,Anthimus,prose,511.0,533.0,522,,uncertain,uncertain,author,,,non_christian,original,,4419.0,post180_no_vulgate
+IT-LAT0990,lat_0550_IT-LAT0990.txt,"Concilium Bracarense primum octo episcoporum, habitum aera DXCIX, anno tertio Ariamiri regis, die Kalendarum Maiarum.",Martinus Bracarensis,prose,561.0,561.0,561,,christian,christian,author,,christian,christian,original,,2377.0,post180_no_vulgate
+IT-LAT0990_1,lat_0550_IT-LAT0990_1.txt,"Concilium Bracarense secundum duodecim episcoporum, habitum anno secundo regis Mironis, die Kalendarum Iuniarum, aera DCX.",Martinus Bracarensis,prose,572.0,572.0,572,,christian,christian,author,,,christian,original,,1634.0,post180_no_vulgate
+IT-LAT0990_2,lat_0550_IT-LAT0990_2.txt,De correctione rusticorum,Martinus Bracarensis,prose,572.0,573.0,572,,christian,christian,author,,,christian,original,,3135.0,post180_no_vulgate
+IT-LAT0990_3,lat_0550_IT-LAT0990_3.txt,De ira,Martinus Bracarensis,prose,569.0,575.0,572,,christian,christian,author,,,non_christian,original,,2278.0,post180_no_vulgate
+IT-LAT0990_4,lat_0550_IT-LAT0990_4.txt,De Pascha,Martinus Bracarensis,prose,576.0,577.0,576,,christian,christian,author,,christian,christian,original,,1202.0,post180_no_vulgate
+IT-LAT0990_5,lat_0550_IT-LAT0990_5.txt,De superbia,Martinus Bracarensis,prose,550.0,579.0,564,,christian,christian,author,,christian,christian,original,,1190.0,post180_no_vulgate
+IT-LAT0990_6,lat_0550_IT-LAT0990_6.txt,De Trina Mersione,Martinus Bracarensis,prose,556.0,561.0,559,,christian,christian,author,,christian,christian,original,,690.0,post180_no_vulgate
+IT-LAT0990_7,lat_0550_IT-LAT0990_7.txt,Exhortatio humilitatis,Martinus Bracarensis,prose,550.0,579.0,564,,christian,christian,author,,,christian,original,,1274.0,post180_no_vulgate
+IT-LAT0990_8,lat_0550_IT-LAT0990_8.txt,"Formula vitae honestae, De quattuor virtutibus",Martinus Bracarensis,prose,570.0,579.0,574,,christian,christian,author,,,non_christian,original,,2162.0,post180_no_vulgate
+IT-LAT0990_9,lat_0550_IT-LAT0990_9.txt,Capitula ex orientalium patrum synodis,Martinus Bracarensis,prose,572.0,572.0,572,,christian,christian,author,,,christian,original,,3691.0,post180_no_vulgate
+MQDQ-537,lat_0552_MQDQ-537.txt,de satisfactione paenitentiae,Verecundus Iuncensis Episcopus,poetry,502.0,552.0,527,,christian,christian,author,,,christian,original,,1294.0,post180_no_vulgate
+MQDQ-619,lat_0559_MQDQ-619.txt,hymni,Columba,poetry,537.0,597.0,567,,christian,christian,author,,christian,christian,original,,1068.0,post180_no_vulgate
+IT-LAT0482,lat_0562_IT-LAT0482.txt,Institutiones divinarum et saecularium litterarum,"Cassiodorus, Flavius Magnus Aurelius",prose,530.0,560.0,546,,christian,christian,author,,christian,christian,original,,27889.0,post180_no_vulgate
+MQDQ-209,lat_0579_MQDQ-209.txt,uersus in basilica,Martinus Bracariensis,poetry,558.0,558.0,558,,christian,christian,author,,,christian,original,,136.0,post180_no_vulgate
+MQDQ-210,lat_0579_MQDQ-210.txt,uersus in refectorio,Martinus Bracariensis,poetry,558.0,558.0,558,,christian,christian,author,,christian,non_christian,original,,60.0,post180_no_vulgate
+MQDQ-211,lat_0579_MQDQ-211.txt,epitaphium,Martinus Bracariensis,poetry,550.0,579.0,564,,christian,christian,author,,,christian,original,,39.0,post180_no_vulgate
+MQDQ-188,lat_0594_MQDQ-188.txt,epitaphium,Marius Auenticentis Episcopus,poetry,594.0,604.0,599,,christian,christian,author,,christian,christian,original,,127.0,post180_no_vulgate
+MQDQ-523,lat_0601_MQDQ-523.txt,uita Martini,Venantius Fortunatus,poetry,573.0,576.0,574,,christian,christian,author,,christian,christian,original,,15039.0,post180_no_vulgate
+MQDQ-524,lat_0601_MQDQ-524.txt,carminum libri  1,Venantius Fortunatus,poetry,576.0,576.0,576,,christian,christian,author,,,christian,original,,3472.0,post180_no_vulgate
+MQDQ-525,lat_0601_MQDQ-525.txt,carminum libri  2,Venantius Fortunatus,poetry,576.0,576.0,576,,christian,christian,author,,,christian,original,,3742.0,post180_no_vulgate
+MQDQ-526,lat_0601_MQDQ-526.txt,carminum libri  3,Venantius Fortunatus,poetry,576.0,576.0,576,,christian,christian,author,,,christian,original,,4980.0,post180_no_vulgate
+MQDQ-527,lat_0601_MQDQ-527.txt,carminum libri  4,Venantius Fortunatus,poetry,576.0,576.0,576,,christian,christian,author,,,christian,original,,4307.0,post180_no_vulgate
+MQDQ-528,lat_0601_MQDQ-528.txt,carminum libri  5,Venantius Fortunatus,poetry,576.0,576.0,576,,christian,christian,author,,,christian,original,,2975.0,post180_no_vulgate
+MQDQ-529,lat_0601_MQDQ-529.txt,carminum libri  6,Venantius Fortunatus,poetry,576.0,576.0,576,,christian,christian,author,,,christian,original,,5862.0,post180_no_vulgate
+MQDQ-530,lat_0601_MQDQ-530.txt,carminum libri  7,Venantius Fortunatus,poetry,576.0,576.0,576,,christian,christian,author,,,christian,original,,4931.0,post180_no_vulgate
+MQDQ-531,lat_0601_MQDQ-531.txt,carminum libri  8,Venantius Fortunatus,poetry,584.0,591.0,587,,christian,christian,author,,,christian,original,,4532.0,post180_no_vulgate
+MQDQ-532,lat_0601_MQDQ-532.txt,carminum libri  9,Venantius Fortunatus,poetry,584.0,591.0,587,,christian,christian,author,,,christian,original,,3470.0,post180_no_vulgate
+MQDQ-533,lat_0601_MQDQ-533.txt,carminum libri 10,Venantius Fortunatus,poetry,590.0,605.0,597,,christian,christian,author,,,christian,original,,3585.0,post180_no_vulgate
+MQDQ-534,lat_0601_MQDQ-534.txt,carminum libri 11,Venantius Fortunatus,poetry,590.0,605.0,597,,christian,christian,author,,,christian,original,,1950.0,post180_no_vulgate
+MQDQ-535,lat_0601_MQDQ-535.txt,carminum appendix,Venantius Fortunatus,poetry,570.0,605.0,587,,christian,christian,author,,,christian,original,,4587.0,post180_no_vulgate
+MQDQ-536,lat_0601_MQDQ-536.txt,spuriorum appendix,Venantius Fortunatus,poetry,570.0,605.0,587,,christian,christian,author,,,christian,original,,3253.0,post180_no_vulgate

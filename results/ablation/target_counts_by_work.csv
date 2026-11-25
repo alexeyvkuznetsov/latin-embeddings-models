@@ -1,0 +1,779 @@
+period,id,file,creator,title,block,tokens,sentences,libertas,libero,seruitus,seruitium,seruus,ancilla,famulus,famula,seruio,libertus,libertinus,ingenuus,mancipium,captiuus,dominus,domina,dominium,dominatio,potestas,dominor,liber,arbitrium,uoluntas,licentia,obsequium,oboedio,pareo,subicio,seruilis,manumitto,redimo,redemptio,captiuitas,iugum,uinculum,liberatio,manumissio,oboedientia,imperium,gratia,peccatum
+pre180,MQDQ-108,lat_+0017_MQDQ-108.txt,Germanicus Caesar,Aratea,other,4731,263,0,2,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,3,0,0,0,0,0,1,3,0,0,0,0,0,1,1,0,0,0,0,1,0
+pre180,MQDQ-109,lat_+0017_MQDQ-109.txt,Germanicus Caesar,Arateorum fragmenta,other,1662,93,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+pre180,MQDQ-245,lat_+0030_MQDQ-245.txt,"Ovidius Naso, Publius",amores 1,other,4989,313,0,0,0,1,3,2,0,0,0,0,0,2,0,3,2,12,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,3,0,0,0,0,1,3,0
+pre180,MQDQ-246,lat_+0030_MQDQ-246.txt,"Ovidius Naso, Publius",amores 2,other,5302,302,1,0,0,0,2,4,0,1,1,0,0,0,0,0,3,21,0,0,0,0,3,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,1
+pre180,MQDQ-247,lat_+0030_MQDQ-247.txt,"Ovidius Naso, Publius",medicamina faciei,other,622,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-248,lat_+0030_MQDQ-248.txt,"Ovidius Naso, Publius",ars,other,15154,882,1,0,0,1,5,9,0,1,0,0,0,3,0,1,4,25,0,0,0,0,4,2,1,0,3,0,3,1,0,0,4,0,0,4,1,0,0,0,1,6,2
+pre180,MQDQ-249,lat_+0030_MQDQ-249.txt,"Ovidius Naso, Publius",remedia amoris,other,5310,345,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,14,0,0,0,0,3,2,0,1,0,0,1,0,0,0,1,0,0,3,0,0,0,0,2,0,1
+pre180,MQDQ-250,lat_+0030_MQDQ-250.txt,"Ovidius Naso, Publius",epistulae heroides,other,26172,1827,2,0,0,1,9,2,3,2,3,0,0,2,0,5,10,13,0,0,1,0,3,6,1,0,1,0,1,0,0,0,2,0,0,10,0,0,0,0,0,4,1
+pre180,MQDQ-251,lat_+0030_MQDQ-251.txt,"Ovidius Naso, Publius",metamorphoses,other,82124,3542,1,6,0,1,2,0,10,8,6,0,0,1,0,7,33,13,0,0,5,2,16,6,5,1,2,0,15,14,0,0,3,0,0,21,10,0,0,0,7,18,0
+pre180,MQDQ-252,lat_+0030_MQDQ-252.txt,"Ovidius Naso, Publius",fasti,other,32032,1998,1,2,0,0,6,1,1,3,1,0,0,1,0,6,14,9,0,0,0,1,18,4,1,2,1,0,10,1,0,0,2,0,0,21,2,0,0,0,11,4,1
+pre180,MQDQ-253,lat_+0030_MQDQ-253.txt,"Ovidius Naso, Publius",tristia 1,other,4847,313,0,0,0,0,1,0,0,0,0,0,0,2,0,0,6,0,0,0,0,0,7,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0,1,1,1
+pre180,MQDQ-254,lat_+0030_MQDQ-254.txt,"Ovidius Naso, Publius",tristia 2,other,3760,217,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,8,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,1
+pre180,MQDQ-255,lat_+0030_MQDQ-255.txt,"Ovidius Naso, Publius",tristia 3,other,5233,311,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6,3,0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2
+pre180,MQDQ-256,lat_+0030_MQDQ-256.txt,"Ovidius Naso, Publius",tristia 4,other,4520,267,0,0,0,1,0,1,1,0,0,0,0,0,0,1,1,2,0,0,0,0,1,1,0,0,0,0,2,1,0,0,0,0,0,2,0,0,0,0,0,1,1
+pre180,MQDQ-257,lat_+0030_MQDQ-257.txt,"Ovidius Naso, Publius",tristia 5,other,5025,320,0,1,0,0,1,0,0,0,1,0,0,0,0,0,1,3,0,0,0,0,2,1,0,0,1,0,4,0,0,0,0,0,0,1,0,0,0,0,1,2,2
+pre180,MQDQ-258,lat_+0030_MQDQ-258.txt,"Ovidius Naso, Publius",ex Ponto 1,other,5079,355,0,0,0,0,1,0,0,0,0,0,0,1,0,1,4,0,0,0,0,0,4,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,2,2
+pre180,MQDQ-259,lat_+0030_MQDQ-259.txt,"Ovidius Naso, Publius",ex Ponto 2,other,5044,316,0,0,0,0,2,0,1,0,0,0,0,3,0,1,2,0,0,0,0,0,2,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,9,2
+pre180,MQDQ-260,lat_+0030_MQDQ-260.txt,"Ovidius Naso, Publius",ex Ponto 3,other,4886,346,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,5,1,2,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,1,6,0
+pre180,MQDQ-261,lat_+0030_MQDQ-261.txt,"Ovidius Naso, Publius",ex Ponto 4,other,6135,385,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2,1,0,0,0,0,2,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,5,6,0
+pre180,MQDQ-262,lat_+0030_MQDQ-262.txt,"Ovidius Naso, Publius",Ibis,other,4151,227,0,0,0,0,0,1,0,1,0,0,0,0,0,0,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0
+pre180,MQDQ-263,lat_+0030_MQDQ-263.txt,Pseudo-Ovid,*halieutica,other,787,23,0,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-264,lat_+0030_MQDQ-264.txt,"Ovidius Naso, Publius",phaenomenon fragmenta,other,40,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-265,lat_+0030_MQDQ-265.txt,"Ovidius Naso, Publius","Medea, fragmentum",other,11,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-267,lat_+0030_MQDQ-267.txt,Pseudo-Ovid,*consolatio ad Liuiam,other,3135,188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,2,0,0
+pre180,MQDQ-425,lat_+0034_MQDQ-425.txt,"Seneca, Lucius Annaeus",Hercules furens,other,5126,543,0,0,0,0,0,0,3,1,0,0,0,0,0,0,6,0,0,0,1,0,1,0,0,0,0,0,2,1,0,0,0,0,0,5,0,0,0,0,4,0,0
+pre180,MQDQ-426,lat_+0034_MQDQ-426.txt,"Seneca, Lucius Annaeus",Troades,other,4495,477,0,1,1,1,2,0,0,2,1,0,0,0,0,6,5,1,0,0,0,0,3,1,0,0,0,0,2,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+pre180,MQDQ-427,lat_+0034_MQDQ-427.txt,"Seneca, Lucius Annaeus",Phoenissae,other,4080,298,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,5,1,0,0,0,0,2,0,0,0,2,0,0,4,0,0,0,0,7,0,0
+pre180,MQDQ-428,lat_+0034_MQDQ-428.txt,"Seneca, Lucius Annaeus",Medea,other,3679,428,0,2,0,0,0,0,1,0,0,0,0,0,0,0,3,2,0,0,0,0,2,0,0,1,0,0,0,0,0,0,1,0,0,2,0,0,0,0,4,0,0
+pre180,MQDQ-429,lat_+0034_MQDQ-429.txt,"Seneca, Lucius Annaeus",Phaedra,other,4878,491,2,0,0,2,0,0,3,3,0,0,0,1,0,0,5,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,6,0,0
+pre180,MQDQ-430,lat_+0034_MQDQ-430.txt,"Seneca, Lucius Annaeus",Oedipus,other,3633,398,2,0,0,0,0,0,3,0,0,0,0,0,0,0,2,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,4,2,0
+pre180,MQDQ-432,lat_+0034_MQDQ-432.txt,"Seneca, Lucius Annaeus",Thyestes,other,3953,457,0,0,0,0,0,0,0,0,1,0,0,0,0,0,4,0,0,0,1,0,8,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,3,1,1
+pre180,MQDQ-433,lat_+0034_MQDQ-433.txt,"Seneca, Lucius Annaeus",Hercules Oetaeus,other,7473,784,0,0,0,0,2,0,2,3,0,0,0,0,0,2,2,1,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0
+pre180,MQDQ-434,lat_+0034_MQDQ-434.txt,"Seneca, Lucius Annaeus",*Octauia,other,3216,317,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,1,1,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,5,0,0
+pre180,MQDQ-435,lat_+0034_MQDQ-435.txt,"Seneca, Lucius Annaeus",carminum fragmenta,other,118,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-331,lat_+0040_MQDQ-331.txt,Asinius Pollio,carminis fragmentum,other,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-187,lat_+0050.0_MQDQ-187.txt,Marcus Manilius,astronomica,other,28450,1131,0,0,0,1,3,0,1,0,0,0,0,0,0,0,6,1,0,0,2,0,3,3,2,0,0,0,5,2,1,0,0,0,0,12,0,0,0,0,8,12,0
+pre180,MQDQ-269,lat_+0050.0_MQDQ-269.txt,Sextus Paconianus,carminis fragmentum,other,22,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-517,lat_-0011_MQDQ-517.txt,Valgius Rufus,carminum fragmenta,other,73,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-184,lat_-0015_MQDQ-184.txt,Aemilius Macer,carminum fragmenta,other,13,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,IT-LAT0142,lat_-001_IT-LAT0142.txt,"Livius, Titus",Ab Urbe condita,other,510574,21056,329,132,66,35,106,5,1,0,24,0,18,12,16,183,89,4,1,13,366,15,433,68,106,35,8,12,28,57,26,5,43,3,0,127,69,0,0,0,677,235,13
+pre180,MQDQ-45,lat_-0025_MQDQ-45.txt,Cornelius Gallus,carminum fragmenta,other,57,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,IT-LAT0119,lat_-002_IT-LAT0119.txt,"Cicero, Marcus Tullius",De re publica,other,19681,724,26,9,6,1,2,0,1,0,6,0,0,2,0,0,10,0,0,5,27,10,27,2,12,6,0,2,7,1,0,0,0,0,0,1,5,0,0,0,31,6,0
+pre180,MQDQ-356,lat_-0031_MQDQ-356.txt,Propertius,elegiae 1,other,4383,244,1,1,0,3,0,0,0,0,1,0,0,1,0,0,0,10,0,0,0,0,3,0,0,0,1,0,0,2,0,0,0,0,0,1,1,0,0,0,1,1,0
+pre180,MQDQ-357,lat_-0031_MQDQ-357.txt,Propertius,elegiae 2,other,8834,563,1,0,0,1,3,0,0,0,2,0,0,3,0,4,3,13,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,1,2,1
+pre180,MQDQ-358,lat_-0031_MQDQ-358.txt,Propertius,elegiae 3,other,6348,361,1,0,0,1,3,0,1,1,2,0,0,0,0,0,2,7,0,0,0,0,4,0,0,0,0,0,1,1,0,0,0,0,0,9,0,0,0,0,2,0,0
+pre180,MQDQ-359,lat_-0031_MQDQ-359.txt,Propertius,elegiae 4,other,6080,372,0,1,0,0,0,0,0,0,2,0,0,0,0,2,0,1,0,0,0,0,9,1,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,0,1,0,0
+pre180,MQDQ-495,lat_-0033_MQDQ-495.txt,Tibullus,elegiae 1,other,5304,312,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,4,0,0,0,0,1,0,0,0,1,0,2,1,0,0,0,0,0,3,0,0,0,0,1,1,0
+pre180,MQDQ-496,lat_-0033_MQDQ-496.txt,Tibullus,elegiae 2,other,2801,157,1,0,0,3,0,0,0,0,1,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,1,0
+pre180,MQDQ-497,lat_-0033_MQDQ-497.txt,Tibullus,*elegiae 3,other,1206,81,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-126,lat_-0035_MQDQ-126.txt,Horatius,epodi,other,2593,139,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,1,0
+pre180,MQDQ-127,lat_-0035_MQDQ-127.txt,Horatius,carmina 1,other,3601,197,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,1,0,0,0,0,6,0,1,1,0,0,0,1,0,0,0,0,0,2,0,0,0,0,3,2,0
+pre180,MQDQ-128,lat_-0035_MQDQ-128.txt,Horatius,carmina 2,other,2379,112,0,0,1,0,1,1,0,0,1,0,0,0,0,1,4,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+pre180,MQDQ-129,lat_-0035_MQDQ-129.txt,Horatius,carmina 3,other,4121,192,0,0,0,0,0,0,0,2,0,0,0,0,0,1,3,1,0,0,0,0,3,2,0,0,0,0,1,0,0,0,0,0,0,3,0,0,0,0,4,2,0
+pre180,MQDQ-130,lat_-0035_MQDQ-130.txt,Horatius,carmina 4,other,2459,95,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0
+pre180,MQDQ-131,lat_-0035_MQDQ-131.txt,Horatius,carmen saeculare,other,337,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-132,lat_-0035_MQDQ-132.txt,Horatius,saturae 1,other,7063,387,1,0,0,0,7,2,0,0,0,0,4,3,0,1,0,2,0,0,1,0,5,0,0,0,0,0,3,0,1,0,0,0,0,0,1,0,0,0,1,1,4
+pre180,MQDQ-133,lat_-0035_MQDQ-133.txt,Horatius,saturae 2,other,7329,495,1,0,0,1,8,1,0,0,0,1,2,1,1,0,10,0,0,0,1,0,5,2,0,0,3,0,6,0,1,0,0,0,0,2,1,0,0,0,1,0,2
+pre180,MQDQ-134,lat_-0035_MQDQ-134.txt,Horatius,epistulae 1,other,6784,376,2,1,0,0,7,1,0,0,2,0,1,1,0,1,5,1,0,0,0,0,8,0,0,0,1,0,3,0,0,0,0,0,0,1,0,0,0,0,3,4,2
+pre180,MQDQ-135,lat_-0035_MQDQ-135.txt,Horatius,epistulae 2,other,3224,143,1,0,0,0,2,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-136,lat_-0035_MQDQ-136.txt,Horatius,ars poetica,other,3177,142,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,5,1,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,1
+pre180,MQDQ-137,lat_-0035_MQDQ-137.txt,Pseudo-Horace,"*ignoti uersus Hor. sat. 1, 10 praemissi",other,49,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,IT-LAT0996,lat_-0037_IT-LAT0996.txt,Cornelius Severus,Res romanae,other,55,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-47,lat_-0040_MQDQ-47.txt,Quintus Cornificius,carminum fragmenta,other,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,IT-LAT0097,lat_-0043_IT-LAT0097.txt,"Cicero, Marcus Tullius",Laelius de amicitia,other,9389,404,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,4,0,3,1,8,1,4,0,4,0,0,0,0,0,0,0,0,0,0,0,4,3,3
+pre180,IT-LAT0098,lat_-0043_IT-LAT0098.txt,"Cicero, Marcus Tullius",Cato Maior de senectute,other,8296,396,0,3,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,11,0,0,0,0,0,1,0,0,0,0,0,0,0,3,0,0,0,5,4,0
+pre180,IT-LAT0101,lat_-0043_IT-LAT0101.txt,"Cicero, Marcus Tullius",De divinatione,other,27708,1392,2,2,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,43,0,1,1,0,0,9,2,0,0,0,0,0,2,0,0,0,0,4,1,1
+pre180,IT-LAT0155,lat_-0043_IT-LAT0155.txt,"Cicero, Marcus Tullius",De fato,other,4907,206,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,5,0,6,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+pre180,MQDQ-538,lat_-0043_MQDQ-538.txt,Vergilius,eclogae,other,5664,372,2,0,0,1,4,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,5,1,0,0,0,0,0,0
+pre180,MQDQ-539,lat_-0043_MQDQ-539.txt,Vergilius,georgicon,other,14736,572,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,4,0,0,0,0,0,0,5,0,0,0,0,0,5,0,0,0,0,1,1,0
+pre180,MQDQ-541,lat_-0043_MQDQ-541.txt,Vergilius,Aeneis,other,66634,3399,3,1,0,2,5,0,7,5,2,0,0,0,0,7,9,5,0,0,9,6,7,0,5,0,0,0,9,9,0,0,1,0,0,27,2,0,0,0,40,5,1
+pre180,MQDQ-542,lat_-0043_MQDQ-542.txt,Vergilius,*epitaphium,other,12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,IT-LAT0140,lat_-0044_IT-LAT0140.txt,"Cicero, Marcus Tullius",Pro Deiotaro,other,3951,176,1,6,2,0,12,0,0,0,0,0,0,0,0,0,9,0,0,0,0,1,2,0,1,1,0,0,2,0,0,0,0,0,0,0,2,0,0,0,1,0,0
+pre180,IT-LAT0255,lat_-0044_IT-LAT0255.txt,"Cicero, Marcus Tullius",De finibus bonorum et malorum,other,47620,2326,2,8,0,0,1,1,0,0,3,0,0,7,0,0,3,2,0,2,11,2,37,1,9,2,0,2,2,7,0,0,0,0,0,0,2,1,0,0,9,12,18
+pre180,IT-LAT0320,lat_-0044_IT-LAT0320.txt,"Cicero, Marcus Tullius",Timaeus,other,4335,130,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0,4,0,0,0,1,0,0
+pre180,IT-LAT0955,lat_-0044_IT-LAT0955.txt,"Cicero, Marcus Tullius",Prognostica Aratea,other,190,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,IT-LAT0956,lat_-0044_IT-LAT0956.txt,"Cicero, Marcus Tullius",Phaenomena Aratea,other,5060,287,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+pre180,IT-LAT0047,lat_-0045_IT-LAT0047.txt,"Cicero, Marcus Tullius",Brutus,other,21715,919,3,4,0,0,1,0,0,0,1,0,0,2,0,1,0,0,0,1,2,3,13,3,9,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,2,10,0
+pre180,IT-LAT0138,lat_-0045_IT-LAT0138.txt,"Cicero, Marcus Tullius",Pro Marcello,other,2813,120,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0
+pre180,IT-LAT0139,lat_-0045_IT-LAT0139.txt,"Cicero, Marcus Tullius",Pro Ligario,other,3297,185,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,4,0,0,0,0,0,0,0,1,1,0,0,5,0,0
+pre180,IT-LAT0217,lat_-0045_IT-LAT0217.txt,"Cicero, Marcus Tullius",De partitione oratoria,other,9987,410,2,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,4,0,6,0,8,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,2,7,2
+pre180,IT-LAT0922,lat_-0045_IT-LAT0922.txt,"Cicero, Quintus Tullius",Commentariolum petitionis,other,4383,138,0,1,0,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0
+pre180,IT-LAT0922_1,lat_-0045_IT-LAT0922_1.txt,"Cicero, Marcus Tullius",De haruspicum responso,other,7601,309,1,11,2,2,12,1,0,0,0,0,0,0,0,0,0,0,0,0,4,1,12,1,2,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,11,4,0
+pre180,IT-LAT0922_10,lat_-0045_IT-LAT0922_10.txt,"Cicero, Marcus Tullius",Pro Murena,other,10579,500,1,1,1,0,2,0,0,0,2,0,0,0,0,0,0,1,0,0,6,0,1,1,11,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,13,22,2
+pre180,IT-LAT0922_11,lat_-0045_IT-LAT0922_11.txt,"Cicero, Marcus Tullius",Pro Fonteio,other,4609,197,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,1,3,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,8,2,0
+pre180,IT-LAT0922_12,lat_-0045_IT-LAT0922_12.txt,"Cicero, Marcus Tullius",Pro Scauro,other,3029,168,1,1,1,0,0,0,0,0,0,4,1,0,0,0,1,0,0,0,0,0,3,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,3,0
+pre180,IT-LAT0922_13,lat_-0045_IT-LAT0922_13.txt,"Cicero, Marcus Tullius",Pro Sestio,other,16891,654,14,3,1,2,7,0,0,0,5,1,2,0,0,1,2,0,0,1,10,2,11,0,11,2,0,0,4,1,1,0,1,0,0,0,0,0,0,0,24,12,0
+pre180,IT-LAT0922_14,lat_-0045_IT-LAT0922_14.txt,"Cicero, Marcus Tullius",Topica,other,6841,333,0,0,1,0,2,1,0,0,1,0,0,1,5,0,0,0,0,0,1,0,13,1,8,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,1,0
+pre180,IT-LAT0922_15,lat_-0045_IT-LAT0922_15.txt,"Cicero, Marcus Tullius",Tusculanae,other,47550,2451,6,14,6,0,4,0,1,2,8,0,0,3,0,2,5,2,0,0,18,3,64,2,9,2,0,3,11,9,0,0,0,0,0,1,1,0,0,0,4,5,5
+pre180,IT-LAT0922_16,lat_-0045_IT-LAT0922_16.txt,"Cicero, Marcus Tullius",Academica,other,4512,171,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2
+pre180,IT-LAT0922_2,lat_-0045_IT-LAT0922_2.txt,"Cicero, Marcus Tullius",De imperio Cn. Pompei ad Quirites oratio,other,6722,261,1,4,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7,0,4,0,7,0,0,0,1,0,2,0,1,0,0,0,1,0,0,0,24,2,0
+pre180,IT-LAT0922_3,lat_-0045_IT-LAT0922_3.txt,"Cicero, Marcus Tullius",De optimo genere oratorum,other,1352,66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,IT-LAT0922_4,lat_-0045_IT-LAT0922_4.txt,"Cicero, Marcus Tullius",De oratore,other,62496,1669,7,8,0,0,6,2,0,0,13,0,1,5,3,2,5,1,0,0,10,7,59,3,18,1,0,0,1,9,1,0,0,0,0,2,2,0,0,0,11,13,6
+pre180,IT-LAT0922_5,lat_-0045_IT-LAT0922_5.txt,"Cicero, Marcus Tullius",In Catilinam,other,12711,523,4,8,2,2,5,0,0,0,3,0,2,1,0,0,0,0,0,1,3,0,9,0,12,0,0,0,1,0,0,0,0,0,0,0,3,0,0,0,21,5,0
+pre180,IT-LAT0922_6,lat_-0045_IT-LAT0922_6.txt,"Cicero, Marcus Tullius",Orator,other,17947,728,0,0,0,0,0,0,0,0,6,0,0,1,0,0,0,0,0,0,0,3,15,1,5,3,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,3,0
+pre180,IT-LAT0922_7,lat_-0045_IT-LAT0922_7.txt,"Cicero, Marcus Tullius",Post  reditum ad Quirites oratio,other,2681,77,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,6,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,6,0
+pre180,IT-LAT0922_8,lat_-0045_IT-LAT0922_8.txt,"Cicero, Marcus Tullius",Post reditum in senatu,other,4390,137,3,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,3,0,5,1,4,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,5,7,0
+pre180,IT-LAT0922_9,lat_-0045_IT-LAT0922_9.txt,"Cicero, Marcus Tullius",Pro Archia,other,3131,119,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0
+pre180,MQDQ-501,lat_-0045_MQDQ-501.txt,Lucius Ticidas,carminum fragmenta,other,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,IT-LAT0254,lat_-0047_IT-LAT0254.txt,"Cicero, Marcus Tullius",Paradoxa Stoicorum,other,4363,255,3,1,11,0,15,0,0,0,4,2,0,0,1,0,5,1,0,0,1,1,11,1,2,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,3,0,6
+pre180,MQDQ-106,lat_-0049.0_MQDQ-106.txt,Gannius,carminum fragmenta,other,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-12,lat_-0049.0_MQDQ-12.txt,Helvius Cinna,carminum fragmenta,other,47,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-160,lat_-0049.0_MQDQ-160.txt,Laeuius,carminum fragmenta,other,61,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-162,lat_-0049.0_MQDQ-162.txt,Tullius Laurea,epigramma,other,62,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-214,lat_-0049.0_MQDQ-214.txt,Matius,carminum fragmenta,other,49,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-225,lat_-0049.0_MQDQ-225.txt,Mummius,Atellanarum fragmenta,other,23,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-231,lat_-0049.0_MQDQ-231.txt,Naeuius iunior,Cypriae Iliadis fragmenta,other,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-238,lat_-0049.0_MQDQ-238.txt,Nouius,Atellanarum fragmenta,other,654,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-339,lat_-0049.0_MQDQ-339.txt,Lucius Pomponius,Atellanarum fragmenta,other,1199,145,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+pre180,MQDQ-386,lat_-0049.0_MQDQ-386.txt,Publilius Syrus,mimorum fragmenta,other,103,8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-387,lat_-0049.0_MQDQ-387.txt,Publilius Syrus,sententiae,other,4662,729,3,0,4,0,2,0,0,0,4,1,0,3,1,0,3,0,0,0,1,3,0,3,2,1,4,0,3,0,0,0,1,0,0,0,0,0,0,0,4,3,7
+pre180,MQDQ-390,lat_-0049.0_MQDQ-390.txt,Pupius,epigramma,other,14,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-419,lat_-0049.0_MQDQ-419.txt,Santra,tragoediarum fragmenta,other,20,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-459,lat_-0049.0_MQDQ-459.txt,Sueius,carminum fragmenta,other,54,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-46,lat_-0049.0_MQDQ-46.txt,Cornelius Seuerus,carminum fragmenta,other,194,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-509,lat_-0049.0_MQDQ-509.txt,Valerius,comoediae fragmentum,other,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-518,lat_-0049.0_MQDQ-518.txt,Varius,tragoediarum fragmenta,other,33,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-519,lat_-0049.0_MQDQ-519.txt,Varius,carminum fragmenta,other,51,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-520,lat_-0049.0_MQDQ-520.txt,Varro Atacinus,carminum fragmenta,other,196,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-568,lat_-0049.0_MQDQ-568.txt,Volumnius,carminis fragmentum,other,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-626,lat_-0049.0_MQDQ-626.txt,Furius Bibaculus,carminum fragmenta,other,115,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-633,lat_-0049.0_MQDQ-633.txt,Licinius Caluus,carminum fragmenta,other,19,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-64,lat_-0049.0_MQDQ-64.txt,Egnatius,de rerum natura fragmenta,other,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-88,lat_-0049.0_MQDQ-88.txt,epigramma de Crassitio,epigramma de Crassitio,other,22,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-99,lat_-0049.0_MQDQ-99.txt,Albinouanus Pedo,carminis fragmentum,other,146,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,IT-LAT0029,lat_-0049_IT-LAT0029.txt,"Sallustius Crispus, Caius",Bellum Catilinae,other,10744,496,12,1,2,6,2,0,0,0,2,3,0,1,0,0,0,0,0,5,3,4,8,0,2,5,0,0,5,0,2,0,1,0,0,0,3,0,0,1,34,9,1
+pre180,IT-LAT0029_2,lat_-0049_IT-LAT0029_2.txt,"Sallustius Crispus, Caius",Bellum Iugurthinum,other,21284,945,12,0,2,3,2,1,0,0,1,0,0,0,1,1,2,0,0,3,9,1,15,1,7,4,0,2,7,0,0,0,1,0,0,2,1,0,0,1,47,29,0
+pre180,IT-LAT0029_3,lat_-0049_IT-LAT0029_3.txt,"Sallustius Crispus, Caius",Historiae,other,4126,181,19,0,0,7,3,1,0,0,0,0,0,0,0,1,4,0,0,8,4,1,5,0,0,5,0,0,1,0,1,0,0,0,0,0,0,0,0,0,14,5,0
+pre180,IT-LAT0029_4,lat_-0049_IT-LAT0029_4.txt,Pseudo-Sallust,Invectiva in Ciceronem,other,715,40,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+pre180,IT-LAT0056,lat_-0049_IT-LAT0056.txt,"Varro, Marcus Terentius",De re rustica,other,35212,1751,0,0,0,0,9,0,0,0,0,4,0,0,9,1,30,0,0,0,3,0,33,0,3,0,0,0,4,13,0,0,0,0,0,12,0,0,0,0,1,0,0
+pre180,IT-LAT0241,lat_-0049_IT-LAT0241.txt,[Auctor incertus],De bello Africo,other,13411,510,2,1,1,2,5,0,0,0,0,0,2,0,1,4,0,0,0,0,9,0,9,0,1,1,0,1,1,2,0,0,1,0,0,10,0,0,0,0,4,24,1
+pre180,IT-LAT0242,lat_-0049_IT-LAT0242.txt,[Auctor incertus],De bello Hispaniensi,other,6109,344,0,2,0,0,8,0,0,0,0,2,1,0,0,1,3,0,0,0,6,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0
+pre180,IT-LAT0284,lat_-0049_IT-LAT0284.txt,[Auctor incertus],Appendix Vergiliana,other,16339,733,1,4,0,2,1,0,0,2,1,0,0,0,0,3,8,2,0,0,0,2,3,1,1,1,0,0,1,1,0,0,1,0,0,8,4,0,0,0,2,3,1
+pre180,IT-LAT0377,lat_-0049_IT-LAT0377.txt,[Auctor incertus],De ratione dicendi ad C. Herennium,other,29820,1515,3,5,2,0,5,0,0,0,1,0,0,3,0,1,6,0,0,3,18,2,35,1,22,4,0,0,3,12,0,0,2,0,0,0,0,0,0,0,10,8,20
+pre180,IT-LAT0393,lat_-0049_IT-LAT0393.txt,Cornelius Nepos,Fragmenta varia,other,219,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,IT-LAT0849,lat_-0049_IT-LAT0849.txt,"Actorius Naso, Marcus",Historica fragmenta,other,72,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,LC-19,lat_-0049_LC-19.txt,Pseudo-Sallust,Ad Caesarem Senem de Re Publica Epistula,other,2570,122,12,0,6,1,0,0,0,0,0,0,0,0,0,0,1,0,0,2,2,1,6,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,13,5,0
+pre180,IT-LAT0096,lat_-0051_IT-LAT0096.txt,"Cicero, Marcus Tullius",Pro Milone,other,10563,537,5,11,0,0,22,2,0,0,0,1,0,0,0,0,11,0,0,0,6,1,8,1,3,2,0,0,1,1,0,0,1,0,0,0,0,0,0,0,3,8,0
+pre180,IT-LAT0257,lat_-0051_IT-LAT0257.txt,"Cicero, Marcus Tullius",De legibus,other,18826,1016,7,7,0,1,3,0,1,2,0,0,1,0,0,0,5,0,0,0,30,2,19,0,3,1,2,3,11,0,2,0,0,0,0,0,4,0,0,0,8,5,3
+pre180,IT-LAT0535,lat_-0051_IT-LAT0535.txt,"Caesar, Caius Iulius",De bello civili,other,24706,1091,4,5,0,0,7,0,0,0,2,1,0,0,1,3,2,0,0,0,21,0,11,1,22,4,0,0,1,5,0,0,1,0,0,3,0,0,0,0,21,12,0
+pre180,IT-LAT0136,lat_-0053_IT-LAT0136.txt,"Cicero, Marcus Tullius",Pro Rabirio Postumo,other,4088,247,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,2,5,0,2,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,3,4,0
+pre180,IT-LAT0137,lat_-0054_IT-LAT0137.txt,"Cicero, Marcus Tullius",In L. Calpurnium Pisonem,other,11043,512,3,3,2,2,5,0,0,0,1,1,0,1,0,0,1,1,0,0,5,0,12,1,3,1,1,1,1,0,3,0,0,1,0,0,0,1,0,0,10,4,1
+pre180,IT-LAT0133,lat_-0055_IT-LAT0133.txt,"Cicero, Marcus Tullius",In Vatinium,other,4438,144,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,3,0,3,1,4,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,2,1,0
+pre180,IT-LAT0134,lat_-0055_IT-LAT0134.txt,"Cicero, Marcus Tullius",De provinciis consularibus,other,5101,197,1,4,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,4,0,5,0,0,0,1,0,2,0,0,1,0,0,1,0,0,0,18,9,0
+pre180,IT-LAT0135,lat_-0055_IT-LAT0135.txt,"Cicero, Marcus Tullius",Pro Balbo,other,6815,266,3,1,0,0,3,0,0,0,0,0,2,0,0,0,1,0,0,0,4,0,6,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,4,1
+pre180,IT-LAT0220,lat_-0055_IT-LAT0220.txt,"Cicero, Marcus Tullius",Pro Caelio,other,8489,387,3,2,1,1,20,0,0,0,2,0,0,0,0,0,1,3,0,0,2,1,2,0,2,3,1,0,0,0,0,0,0,0,0,0,0,0,1,0,3,8,2
+pre180,IT-LAT0128,lat_-0058_IT-LAT0128.txt,"Cicero, Marcus Tullius",Pro Flacco,other,10958,657,6,4,0,1,3,0,0,0,0,7,0,2,5,0,1,0,0,0,7,0,7,0,6,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,14,3,0
+pre180,IT-LAT0218,lat_-0059_IT-LAT0218.txt,"Cicero, Marcus Tullius",De consulatu suo,other,520,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,IT-LAT0095,lat_-0061_IT-LAT0095.txt,"Cicero, Marcus Tullius",Pro Sulla,other,9320,406,2,2,1,0,1,0,0,0,1,2,0,0,0,0,0,0,0,1,3,0,1,0,8,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,8,4,0
+pre180,IT-LAT0125,lat_-0062_IT-LAT0125.txt,"Cicero, Marcus Tullius",Pro Rabirio,other,3167,130,15,3,0,0,4,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,3,0,2,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,7,0,0
+pre180,IT-LAT0126,lat_-0062_IT-LAT0126.txt,"Cicero, Marcus Tullius",De lege agraria,other,13842,659,26,5,0,1,1,0,0,0,2,0,0,0,2,0,7,0,0,6,50,0,10,0,4,1,0,0,1,0,2,0,0,0,0,0,1,0,0,0,30,6,0
+pre180,IT-LAT0124,lat_-0065_IT-LAT0124.txt,"Cicero, Marcus Tullius",Pro Cluentio,other,19992,908,3,5,2,0,17,0,0,0,1,6,2,0,0,0,4,1,0,0,20,1,19,1,7,0,0,0,4,1,0,0,0,0,0,0,3,0,0,0,2,10,4
+pre180,MQDQ-6,lat_-0069_MQDQ-6.txt,Catullus,carmina,other,12919,732,0,0,0,0,5,1,2,2,3,0,0,3,0,0,6,9,0,0,0,0,9,1,1,0,0,0,2,0,0,0,0,0,0,4,0,0,0,0,2,1,2
+pre180,MQDQ-7,lat_-0069_MQDQ-7.txt,Catullus,carminum fragmenta,other,37,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-521,lat_-0070_MQDQ-521.txt,"Varro, Marcus Terentius","saturae Menippeae, fragmenta",other,194,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-522,lat_-0070_MQDQ-522.txt,"Varro, Marcus Terentius",carminum fragmenta,other,26,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-631,lat_-0071_MQDQ-631.txt,"Caesar, Caius Iulius",carminum fragmenta,other,42,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-11,lat_-0073_MQDQ-11.txt,"Cicero, Marcus Tullius",fragmenta poetica,other,5491,265,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+pre180,MQDQ-156,lat_-0073_MQDQ-156.txt,Decimus Laberius,mimorum fragmenta,other,729,93,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,IT-LAT0122,lat_-0075_IT-LAT0122.txt,"Cicero, Marcus Tullius",Pro Roscio Comoedo,other,4769,402,0,1,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,2,1
+pre180,MQDQ-174,lat_-0075_MQDQ-174.txt,Lucretius,de rerum natura,other,49429,1956,1,1,0,1,0,0,0,1,0,0,0,0,1,0,3,0,0,0,28,8,9,1,11,0,0,0,3,2,0,0,0,0,0,0,1,0,0,0,4,1,2
+pre180,MQDQ-493,lat_-0076_MQDQ-493.txt,Atta,togatarum fragmenta,other,110,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-494,lat_-0076_MQDQ-494.txt,Atta,carminis fragmentum,other,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,IT-LAT0094,lat_-0079_IT-LAT0094.txt,"Cicero, Marcus Tullius",Pro Roscio Amerino,other,13371,661,1,4,0,0,16,0,0,0,1,2,1,0,1,0,6,0,0,2,7,1,12,1,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,10,4
+pre180,IT-LAT0384,lat_-0079_IT-LAT0384.txt,[Auctor incertus],L. Aurelii Hermiae elogium sepulcrale,other,63,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-105,lat_-007_MQDQ-105.txt,Asinius Gallus,epigramma,other,13,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-186,lat_-007_MQDQ-186.txt,Maecenas,carminum fragmenta,other,40,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,IT-LAT0093,lat_-0080_IT-LAT0093.txt,"Cicero, Marcus Tullius",Pro Quinctio,other,8652,469,2,1,0,0,5,0,0,0,0,0,0,0,0,0,8,0,0,0,10,3,6,2,3,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,12,0
+pre180,IT-LAT0221,lat_-0084_IT-LAT0221.txt,"Cicero, Marcus Tullius",De inventione,other,33339,1314,1,0,0,0,3,0,0,0,2,2,0,0,0,0,3,0,0,2,51,0,21,0,43,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,1,7,14
+pre180,MQDQ-176,lat_-0086_MQDQ-176.txt,Lutatius Catulus,epigrammata,other,62,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-458,lat_-0086_MQDQ-458.txt,Iulius Caesar Strabo,tragoediarum fragmenta,other,24,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,IT-LAT0240,lat_-0089_IT-LAT0240.txt,"Hirtius, Aulus",Commentarius de bello Alexandrino,other,10406,390,0,2,0,1,2,0,0,0,1,1,0,0,0,3,2,0,0,1,7,1,3,0,3,1,1,0,0,4,0,0,1,1,0,2,0,0,0,0,12,1,0
+pre180,IT-LAT0370,lat_-0091_IT-LAT0370.txt,[Auctor incertus],Edictum adversus Latinos rhetores,other,85,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-222,lat_-0099.0_MQDQ-222.txt,mimographi incerti,mimographi incerti,other,43,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-275,lat_-0099.0_MQDQ-275.txt,Papinius,epigrammation apud Varronem,other,26,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-337,lat_-0099.0_MQDQ-337.txt,Pompilius,tragoediae fragmentum,other,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-338,lat_-0099.0_MQDQ-338.txt,Pompilius,epigramma,other,11,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-36,lat_-0099.0_MQDQ-36.txt,comoediae incertorum,palliatae fragmenta,other,613,82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+pre180,MQDQ-37,lat_-0099.0_MQDQ-37.txt,comoediae incertorum,togatae fragmentum,other,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-38,lat_-0099.0_MQDQ-38.txt,comoediae incertorum,Atellanae fragmentum,other,34,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-442,lat_-0099.0_MQDQ-442.txt,Sevius Nicanus,saturae fragmentum,other,12,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-504,lat_-0099.0_MQDQ-504.txt,tragici incerti,fabulae,other,28,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-505,lat_-0099.0_MQDQ-505.txt,tragici incerti,fabulae incertae,other,1449,137,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0,0,4,0,0,0,0,0,0,1,0,0,0,0,2,1,0
+pre180,MQDQ-635,lat_-0099.0_MQDQ-635.txt,Valerius Aeditus,epigrammata,other,72,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-511,lat_-0105_MQDQ-511.txt,Valerius Soranus,carminum fragmenta,other,15,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,IT-LAT0992,lat_-0107_IT-LAT0992.txt,"Catilina, Lucius Sergius",Epistula ad Quintum Catulum,other,138,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-332,lat_-0127_MQDQ-332.txt,Accius,tragoediarum fragmenta,other,4046,361,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,6,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,2,1,0
+pre180,MQDQ-333,lat_-0127_MQDQ-333.txt,Accius,praetextarum fragmenta,other,274,22,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-334,lat_-0127_MQDQ-334.txt,Accius,carminum fragmenta,other,79,4,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+pre180,MQDQ-172,lat_-0140_MQDQ-172.txt,Gaius Lucilius,saturarum reliquiae,other,7722,544,1,0,1,0,5,1,1,0,0,0,1,0,0,0,4,1,1,0,0,0,4,0,0,1,0,0,1,3,0,0,2,0,0,2,0,0,0,0,1,2,0
+pre180,MQDQ-13,lat_-0149.0_MQDQ-13.txt,Lucius Afranius,comoediarum fragmenta,other,2314,276,0,0,0,0,2,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,3,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+pre180,MQDQ-139,lat_-0149.0_MQDQ-139.txt,Hostius,belli Histrici fragmenta,other,13,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-153,lat_-0149.0_MQDQ-153.txt,Iuuentius,comoediarum fragmenta,other,36,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-164,lat_-0149.0_MQDQ-164.txt,Licinius Imbrex,comoediae fragmentum,other,14,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-175,lat_-0149.0_MQDQ-175.txt,Luscius Lanuuinus,palliatae fragmentum,other,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-329,lat_-0149.0_MQDQ-329.txt,Marcus Plautius,Ardeatis templi inscriptio,other,27,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-342,lat_-0149.0_MQDQ-342.txt,Porcius Licinus,epigrammata,other,136,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-474,lat_-0149.0_MQDQ-474.txt,Atilius,comoediarum fragmenta,other,15,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-502,lat_-0149.0_MQDQ-502.txt,Titinius,togatarum fragmenta,other,975,112,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+pre180,MQDQ-503,lat_-0149.0_MQDQ-503.txt,Trabea,palliatarum fragmenta,other,43,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-507,lat_-0149.0_MQDQ-507.txt,Sextus Turpilius,palliatarum fragmenta,other,1274,144,0,0,0,0,0,0,0,0,3,0,0,0,0,0,1,0,1,0,2,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,1
+pre180,MQDQ-567,lat_-0149.0_MQDQ-567.txt,Volcacius Sedigitus,carminum fragmenta,other,117,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,IT-LAT0372,lat_-0149_IT-LAT0372.txt,Cornelia,Ad Gaium filium,other,249,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,IT-LAT0988,lat_-0149_IT-LAT0988.txt,Aquilius,Boeotia,other,67,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-270,lat_-0174_MQDQ-270.txt,Pacuuius,tragoediarum fragmenta,other,2406,237,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2,0,5,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,4,2,0
+pre180,MQDQ-271,lat_-0174_MQDQ-271.txt,Pacuuius,praetextarum fragmenta,other,24,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-272,lat_-0174_MQDQ-272.txt,Pacuuius,*epigramma,other,29,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-483,lat_-0176_MQDQ-483.txt,Terentius,Adelphoe,other,7879,1057,1,0,0,0,4,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,8,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,6
+pre180,MQDQ-484,lat_-0176_MQDQ-484.txt,Terentius,Andria,other,7893,1147,0,2,1,1,4,3,0,0,0,1,0,0,0,0,0,0,0,0,2,0,4,0,2,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,8,2
+pre180,MQDQ-485,lat_-0176_MQDQ-485.txt,Terentius,"Andria, alter exitus",other,175,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+pre180,MQDQ-486,lat_-0176_MQDQ-486.txt,Terentius,Eunuchus,other,8716,1273,0,0,0,0,7,2,0,0,1,1,0,0,0,0,3,0,0,0,1,0,4,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,10,2
+pre180,MQDQ-487,lat_-0176_MQDQ-487.txt,Terentius,Hautontimorumenos,other,8607,1123,0,0,0,0,8,9,0,0,3,0,0,0,0,0,0,3,0,0,4,0,1,1,1,1,0,0,4,0,0,0,1,0,0,0,0,0,0,0,1,3,8
+pre180,MQDQ-488,lat_-0176_MQDQ-488.txt,Terentius,Hecyra,other,7216,706,0,0,0,0,2,2,0,0,2,0,0,0,0,0,0,0,0,0,3,0,2,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,11,3
+pre180,MQDQ-489,lat_-0176_MQDQ-489.txt,Terentius,Phormio,other,8216,1149,0,0,1,0,4,1,0,0,1,0,0,1,0,0,1,0,0,0,2,0,1,0,3,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,3,10,4
+pre180,IT-LAT0952,lat_-0185_IT-LAT0952.txt,[Auctor incertus],Senatus consultum de Bacchanalibus,other,682,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-629,lat_-0193_MQDQ-629.txt,Caecilius Statius,comoediarum fragmenta,other,1674,184,0,0,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-294,lat_-0199.0_MQDQ-294.txt,Aprissius,Atellanae fragmentum,other,8,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,IT-LAT0236,lat_-0199_IT-LAT0236.txt,"Cato Porcius, Marcus",Orationes,other,710,60,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+pre180,IT-LAT0380,lat_-0199_IT-LAT0380.txt,"Aemilius Paulus, Lucius",Decretum Hastense,other,41,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,IT-LAT0405,lat_-0199_IT-LAT0405.txt,"Cato Porcius, Marcus",De agricultura,other,15054,1216,0,0,0,0,7,0,0,0,0,0,0,0,0,0,56,1,0,0,0,0,20,0,0,0,0,0,1,0,0,0,0,0,0,4,0,0,0,0,0,1,0
+pre180,MQDQ-67,lat_-0203_MQDQ-67.txt,Ennius,annalium fragmenta,other,2864,47,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+pre180,MQDQ-68,lat_-0203_MQDQ-68.txt,Ennius,annalium fragmenta dubia,other,70,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-69,lat_-0203_MQDQ-69.txt,Ennius,annalium fragmenta spuria,other,171,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-70,lat_-0203_MQDQ-70.txt,Ennius,saturarum fragmenta,other,164,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-71,lat_-0203_MQDQ-71.txt,Ennius,fragmenta uaria,other,357,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-72,lat_-0203_MQDQ-72.txt,Ennius,tragoediarum fragmenta,other,2432,242,2,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0
+pre180,MQDQ-73,lat_-0203_MQDQ-73.txt,Ennius,praetextarum fragmenta,other,36,5,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-74,lat_-0203_MQDQ-74.txt,Ennius,comoediarum fragmenta,other,30,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-306,lat_-0218_MQDQ-306.txt,"Plautus, Titus Maccius",Amphitruo,other,9279,1000,1,0,4,0,24,2,0,0,1,0,0,0,0,0,3,0,0,0,1,0,4,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,8,9,1
+pre180,MQDQ-307,lat_-0218_MQDQ-307.txt,"Plautus, Titus Maccius",Asinaria,other,7574,911,0,1,1,0,14,4,0,1,2,3,0,0,0,0,2,0,0,0,1,0,4,0,0,0,0,0,1,0,0,0,3,0,0,0,0,0,0,0,5,10,0
+pre180,MQDQ-308,lat_-0218_MQDQ-308.txt,"Plautus, Titus Maccius",Aulularia,other,6525,762,0,0,2,0,9,1,0,0,2,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,3,9,0
+pre180,MQDQ-309,lat_-0218_MQDQ-309.txt,"Plautus, Titus Maccius",Bacchides,other,9316,1199,2,0,0,0,13,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,2,1,0,0,0,1,0,0,0,0,0,0,0,2,4,1
+pre180,MQDQ-310,lat_-0218_MQDQ-310.txt,"Plautus, Titus Maccius",Captiui,other,8205,841,7,1,12,0,34,0,0,0,10,1,0,0,0,9,5,0,0,0,4,0,21,0,0,0,0,0,1,0,0,0,5,0,0,0,0,0,0,0,2,14,0
+pre180,MQDQ-311,lat_-0218_MQDQ-311.txt,"Plautus, Titus Maccius",Casina,other,7045,968,2,1,0,0,13,6,1,0,0,0,0,1,0,0,1,0,0,0,2,0,9,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,1,0
+pre180,MQDQ-312,lat_-0218_MQDQ-312.txt,"Plautus, Titus Maccius",Cistellaria,other,4957,602,0,1,0,0,8,0,0,0,0,0,1,0,0,0,1,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9,0
+pre180,MQDQ-313,lat_-0218_MQDQ-313.txt,"Plautus, Titus Maccius",Curculio,other,5619,802,0,2,1,0,5,2,0,0,2,6,0,1,0,0,0,0,0,0,0,0,7,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,9,0
+pre180,MQDQ-314,lat_-0218_MQDQ-314.txt,"Plautus, Titus Maccius",Epidicus,other,5867,841,5,5,0,0,10,0,0,0,1,1,0,0,0,3,0,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1
+pre180,MQDQ-315,lat_-0218_MQDQ-315.txt,"Plautus, Titus Maccius",Menaechmi,other,8812,1173,0,1,0,0,20,4,0,0,1,0,0,0,0,1,1,0,0,0,0,0,14,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,4,3,0
+pre180,MQDQ-316,lat_-0218_MQDQ-316.txt,"Plautus, Titus Maccius",Mercator,other,7903,1124,0,1,1,0,5,8,0,0,0,0,0,0,0,0,1,0,0,0,1,0,2,0,1,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,3,0
+pre180,MQDQ-317,lat_-0218_MQDQ-317.txt,"Plautus, Titus Maccius",Miles gloriosus,other,11673,1410,2,1,4,0,14,3,1,0,5,1,2,3,0,0,2,0,0,0,2,0,10,0,2,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,2,12,0
+pre180,MQDQ-318,lat_-0218_MQDQ-318.txt,"Plautus, Titus Maccius",Mostellaria,other,8719,1310,1,8,0,0,14,0,0,0,0,0,0,0,0,0,4,0,0,0,1,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,8,0
+pre180,MQDQ-319,lat_-0218_MQDQ-319.txt,"Plautus, Titus Maccius",Persa,other,7073,1063,1,3,4,0,12,2,0,0,8,0,1,0,0,0,1,0,0,0,2,0,11,0,0,0,0,2,2,0,0,0,2,0,0,0,0,0,0,0,1,8,0
+pre180,MQDQ-321,lat_-0218_MQDQ-321.txt,"Plautus, Titus Maccius",Pseudolus,other,10185,1304,0,5,3,0,22,0,0,0,3,0,0,0,0,0,4,0,0,0,0,0,8,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,6,2
+pre180,MQDQ-322,lat_-0218_MQDQ-322.txt,"Plautus, Titus Maccius",Rudens,other,10911,1424,2,3,2,0,13,3,0,0,4,1,0,2,0,0,8,0,0,0,2,0,12,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,10,0
+pre180,MQDQ-323,lat_-0218_MQDQ-323.txt,"Plautus, Titus Maccius",Stichus,other,5849,739,1,0,0,0,8,2,1,0,0,0,0,0,0,0,1,1,0,0,4,0,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,0
+pre180,MQDQ-324,lat_-0218_MQDQ-324.txt,"Plautus, Titus Maccius",Trinummus,other,9113,999,0,0,2,0,8,1,0,0,3,0,0,0,0,0,2,0,0,0,2,0,5,0,1,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,3,14,2
+pre180,MQDQ-325,lat_-0218_MQDQ-325.txt,"Plautus, Titus Maccius",Truculentus,other,7699,957,0,0,0,0,2,8,0,0,1,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,0
+pre180,MQDQ-326,lat_-0218_MQDQ-326.txt,"Plautus, Titus Maccius",Vidularia,other,582,73,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+pre180,MQDQ-327,lat_-0218_MQDQ-327.txt,"Plautus, Titus Maccius",fragmenta,other,1041,162,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-328,lat_-0218_MQDQ-328.txt,"Plautus, Titus Maccius",epigramma,other,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,IT-LAT1006,lat_-0229_IT-LAT1006.txt,"Marcius Vates, Gnaeus",Praecepta,other,27,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-226,lat_-0234_MQDQ-226.txt,Naeuius,tragoediarum fragmenta,other,347,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-227,lat_-0234_MQDQ-227.txt,Naeuius,praetextarum fragmenta,other,36,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-228,lat_-0234_MQDQ-228.txt,Naeuius,comoediarum fragmenta,other,797,95,2,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-229,lat_-0234_MQDQ-229.txt,Naeuius,carminum fragmenta,other,37,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-230,lat_-0234_MQDQ-230.txt,Naeuius,epitaphium,other,22,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-167,lat_-0243_MQDQ-167.txt,Liuius Andronicus,tragoediarum fragmenta,other,218,25,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-168,lat_-0243_MQDQ-168.txt,Liuius Andronicus,comoediarum fragmenta,other,14,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-169,lat_-0243_MQDQ-169.txt,Liuius Andronicus,*carminum fragmenta,other,31,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-237,lat_-0255_MQDQ-237.txt,[Auctor incertus],elogium,other,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-288,lat_-0300_MQDQ-288.txt,"Caecus, Appius Claudius",carminum fragmenta,other,12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,IT-LAT0285,lat_-0450_IT-LAT0285.txt,[Auctor incertus],XII Tabularum Leges,other,519,56,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,2,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,IT-LAT0075,lat_0000_IT-LAT0075.txt,"Cicero, Marcus Tullius",Philippicae,other,52913,3138,102,37,35,0,12,0,0,0,22,1,3,2,1,1,13,0,0,2,34,11,45,2,30,1,0,0,17,3,4,0,4,0,0,2,0,0,0,0,45,35,2
+pre180,IT-LAT0102,lat_0000_IT-LAT0102.txt,"Cicero, Marcus Tullius",De officiis,other,34522,1579,8,7,3,0,4,1,1,0,7,0,0,2,4,13,13,2,0,1,5,2,46,3,10,4,0,5,10,5,0,0,5,0,0,1,3,0,0,1,25,24,3
+pre180,IT-LAT0127,lat_0000_IT-LAT0127.txt,"Cicero, Marcus Tullius",Pro Caecina,other,10435,471,8,1,1,0,15,0,0,0,1,4,0,0,0,0,1,0,0,0,4,1,6,0,8,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,1,7,1
+pre180,IT-LAT0181,lat_0000_IT-LAT0181.txt,"Plautus, Titus Maccius",Poenulus,other,11439,2152,5,3,3,0,21,2,0,0,4,0,1,4,0,0,4,0,0,0,1,0,14,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,10,0
+pre180,IT-LAT0278,lat_0013_IT-LAT0278.txt,"Augustus, Gaius Iulius Caesar Octavianus",Res gestae,other,5884,271,5,2,0,0,2,0,0,0,0,0,0,0,0,0,4,0,0,2,15,0,2,1,0,0,0,0,1,3,2,0,0,0,0,0,0,0,0,0,16,0,0
+pre180,IT-LAT0378,lat_001_IT-LAT0378.txt,"Augustus, Gaius Iulius Caesar Octavianus",Epistula ad Gaium,other,77,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-104,lat_0026_MQDQ-104.txt,Gaetulicus,carminis fragmentum,other,18,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,IT-LAT0148,lat_0029_IT-LAT0148.txt,"Velleius Paterculus, Caius",Historia Romana,other,26625,953,6,4,1,2,8,0,0,0,2,6,1,1,1,7,2,1,1,3,12,1,15,13,16,4,0,1,1,1,0,0,2,0,0,2,1,0,0,0,54,13,0
+pre180,IT-LAT0382,lat_0030_IT-LAT0382.txt,"Celsus, Cornelius Aulus",De medicina,other,105153,5039,1,22,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,9,2,6,0,0,0,2,37,0,0,0,0,0,0,11,0,0,0,0,2,0
+pre180,IT-LAT0883,lat_0030_IT-LAT0883.txt,Valerius Maximus,Factorum et dictorum memorabilium libri novem,other,80747,3590,44,30,8,0,53,4,0,0,5,6,4,6,5,23,26,2,1,16,48,1,54,11,18,8,4,0,11,36,12,0,12,2,0,14,20,0,1,1,151,68,0
+pre180,IT-LAT0083,lat_0040_IT-LAT0083.txt,"Seneca, Lucius Annaeus",Consolatio ad Marciam,other,8352,372,6,3,2,0,0,0,0,0,1,0,0,0,2,2,2,1,2,1,3,0,18,4,0,1,1,0,0,0,0,0,0,0,0,2,2,0,0,0,3,5,0
+pre180,IT-LAT0116,lat_0041_IT-LAT0116.txt,"Seneca, Lucius Annaeus",Consolatio ad Helviam matrem,other,6760,309,1,0,0,0,3,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,10,3,0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,4,4,0
+pre180,IT-LAT0112,lat_0043_IT-LAT0112.txt,"Seneca, Lucius Annaeus",Consolatio ad Polybium,other,5689,236,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,6,4,1,0,0,0,0,2,0,0,1,0,0,0,2,0,0,0,5,6,0
+pre180,MQDQ-340,lat_0044_MQDQ-340.txt,Pomponius Secundus,tragoediarum fragmenta,other,25,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-341,lat_0044_MQDQ-341.txt,Pomponius Secundus,praetextae fragmentum,other,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-291,lat_0048_MQDQ-291.txt,Persius,choliambi,other,71,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-292,lat_0048_MQDQ-292.txt,Persius,saturae,other,4514,381,2,0,0,1,0,0,0,0,0,1,0,1,0,0,4,0,0,0,0,0,6,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+pre180,IT-LAT0045,lat_0049_IT-LAT0045.txt,"Seneca, Lucius Annaeus",De brevitate vitae,other,6142,392,1,0,1,0,1,0,0,0,1,0,0,0,1,1,3,0,0,0,1,0,2,3,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,1,0
+pre180,IT-LAT0072,lat_0049_IT-LAT0072.txt,"Seneca, Lucius Annaeus",De constantia sapientis,other,5313,216,7,0,0,0,5,0,0,0,1,0,0,1,2,0,7,0,0,0,0,0,3,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,1,0
+pre180,MQDQ-112,lat_0050.0_MQDQ-112.txt,Gracchus,tragoediarum fragmenta,other,15,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-113,lat_0050.0_MQDQ-113.txt,Grattius,cynegeticon,other,3612,170,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,2,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,3,0
+pre180,MQDQ-155,lat_0050.0_MQDQ-155.txt,Attius Labeo,carminis fragmentum,other,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-163,lat_0050.0_MQDQ-163.txt,[Auctor incertus],laus Pisonis,other,1712,77,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+pre180,MQDQ-173,lat_0050.0_MQDQ-173.txt,Lucilius iunior,carminum fragmenta,other,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-178,lat_0050.0_MQDQ-178.txt,Lygdamus,"corpus Tibullianum 3, 1-6",other,1819,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-224,lat_0050.0_MQDQ-224.txt,Iulius Montanus,carminum fragmenta,other,23,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-239,lat_0050.0_MQDQ-239.txt,Numitorius,obtrectatores Vergilii,other,14,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-274,lat_0050.0_MQDQ-274.txt,panegyricus in Messallam,"corpus Tibullianum 3, 7",other,1428,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,2,0,0,0,0,0,1,0,0,0,0,0,0,0
+pre180,MQDQ-29,lat_0050.0_MQDQ-29.txt,"Columella, Lucius Iunius Moderatus","de re rustica, liber X",other,2776,97,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0,1,0,0
+pre180,MQDQ-298,lat_0050.0_MQDQ-298.txt,Phaedrus,fabulae 1,other,2069,163,1,0,1,0,0,0,0,0,2,0,0,0,0,0,2,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+pre180,MQDQ-299,lat_0050.0_MQDQ-299.txt,Phaedrus,fabulae 2,other,958,69,0,0,0,0,1,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+pre180,MQDQ-300,lat_0050.0_MQDQ-300.txt,Phaedrus,fabulae 3,other,2348,182,1,1,1,0,0,0,0,0,0,2,0,0,0,0,4,0,0,0,1,0,4,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,0
+pre180,MQDQ-301,lat_0050.0_MQDQ-301.txt,Phaedrus,fabulae 4,other,2423,161,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,2,0,0,0,0,0,0,1,0,0,0,0,1,2,0
+pre180,MQDQ-302,lat_0050.0_MQDQ-302.txt,Phaedrus,fabulae 5,other,961,79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0
+pre180,MQDQ-303,lat_0050.0_MQDQ-303.txt,Phaedrus,"fabulae, appendix",other,2297,165,1,0,0,0,3,0,0,0,2,0,0,0,0,0,5,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,2,0
+pre180,MQDQ-385,lat_0050.0_MQDQ-385.txt,Arbonius Silo,carminis fragmentum,other,14,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-391,lat_0050.0_MQDQ-391.txt,Rabirius,de bello Aegiptiaco,other,478,25,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+pre180,MQDQ-392,lat_0050.0_MQDQ-392.txt,Rabirius,carminum fragmenta,other,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-421,lat_0050.0_MQDQ-421.txt,Scaeuus Memor,tragoediae fragmentum,other,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-473,lat_0050.0_MQDQ-473.txt,Sulpicia,carminis fragmentum,other,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-506,lat_0050.0_MQDQ-506.txt,Turnus,saturarum fragmenta,other,12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-508,lat_0050.0_MQDQ-508.txt,Vagellius,carminum fragmenta,other,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-510,lat_0050.0_MQDQ-510.txt,Valerius Flaccus,Argonautica,other,38892,1944,1,0,0,1,2,0,8,13,1,0,0,0,0,4,7,8,0,0,7,0,4,1,5,0,0,0,5,1,0,0,0,0,0,35,2,0,0,0,16,2,1
+pre180,MQDQ-57,lat_0050.0_MQDQ-57.txt,Domitius Marsus,carminum fragmenta,other,100,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-58,lat_0050.0_MQDQ-58.txt,Dorcatius,carminis fragmentum,other,14,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-620,lat_0050.0_MQDQ-620.txt,Caesius Bassus,uersus metrici,other,24,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-632,lat_0050.0_MQDQ-632.txt,Calpurnius Siculus,eclogae,other,5129,274,0,0,0,0,0,0,0,0,2,0,0,0,0,1,1,2,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+pre180,IT-LAT0239,lat_0050_IT-LAT0239.txt,"Columella, Lucius Iunius Moderatus",De arboribus,other,7144,443,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,2,0,0,0,0,0,0,4,0,0,0,0,0,0
+pre180,IT-LAT0266,lat_0050_IT-LAT0266.txt,"Mela, Pomponius",De chorographia,other,16240,776,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,7,0,0,0,0,0,1,1,0,0,1,0,0,11,2,0,0,0,1,0,0
+pre180,IT-LAT0325,lat_0050_IT-LAT0325.txt,"Curtius Rufus, Quintus",Historiarum Alexandri Magni libri X,other,71668,3916,20,15,4,1,13,0,0,1,5,0,0,2,3,54,15,1,0,1,28,1,72,9,7,7,10,0,13,6,2,0,3,0,0,38,20,0,0,0,107,39,0
+pre180,IT-LAT0425,lat_0050_IT-LAT0425.txt,"Pedianus, Asconius",Commentarii,other,13023,725,3,1,0,1,27,0,0,0,0,4,5,1,0,0,1,0,0,1,7,1,11,2,2,1,0,0,1,1,0,1,2,1,0,0,0,0,0,0,3,9,0
+pre180,IT-LAT0563,lat_0050_IT-LAT0563.txt,"Statius, Publius Papinius",Silvae,other,26033,1347,10,0,1,3,1,0,10,3,8,1,0,0,0,3,37,6,0,0,3,0,11,2,1,3,3,0,5,0,1,0,1,0,0,19,3,0,0,0,10,13,0
+pre180,IT-LAT0563_1,lat_0050_IT-LAT0563_1.txt,"Statius, Publius Papinius",Achilleida,other,7625,375,0,0,0,0,0,0,0,2,1,0,0,0,0,2,1,1,0,0,0,0,1,0,0,1,0,0,4,1,0,0,0,0,0,5,0,0,0,0,2,0,0
+pre180,IT-LAT0588,lat_0050_IT-LAT0588.txt,"Frontinus, Sextus Iulius",Opuscula rerum rusticarum,other,2555,110,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,IT-LAT0588_1,lat_0050_IT-LAT0588_1.txt,"Frontinus, Sextus Iulius",Strategemata,other,19179,805,2,4,2,0,4,0,0,0,0,0,0,0,0,16,2,0,0,0,7,0,10,1,0,0,0,1,1,3,0,0,0,0,2,5,0,0,0,0,4,7,0
+pre180,IT-LAT0588_2,lat_0050_IT-LAT0588_2.txt,"Frontinus, Sextus Iulius",De aquaeductu urbis Romae,other,10809,512,0,0,0,0,3,0,0,0,5,1,0,0,0,0,5,1,0,0,4,0,3,2,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,7,0
+pre180,IT-LAT0632,lat_0050_IT-LAT0632.txt,"Lupus, Publius Rutilius",De figuris sententiarum et elocutionis,other,4300,279,4,0,3,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,6,0,7,1,0,0,1,2,0,0,0,0,0,0,0,0,0,0,1,0,0
+pre180,LC-10,lat_0050_LC-10.txt,[Auctor incertus],Einsiedeln Eclogues,other,576,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+pre180,MQDQ-170,lat_0052_MQDQ-170.txt,Lucanus,Pharsalia,other,53031,2648,30,5,0,2,2,0,15,6,14,0,0,0,0,5,35,1,0,0,18,1,14,1,0,4,1,0,13,2,3,0,1,0,0,17,3,0,0,0,17,0,0
+pre180,MQDQ-171,lat_0052_MQDQ-171.txt,Lucanus,carminum fragmenta,other,83,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-235,lat_0052_MQDQ-235.txt,Nero imperator,carminum fragmenta,other,35,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,IT-LAT0228,lat_0054_IT-LAT0228.txt,"Seneca, Lucius Annaeus",Apocolocyntosis Divi Claudii,other,2890,211,0,0,1,0,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,3,0
+pre180,IT-LAT0079,lat_0058_IT-LAT0079.txt,"Seneca, Lucius Annaeus",De vita beata,other,7293,354,8,1,4,0,2,1,0,0,3,0,1,1,0,0,2,1,1,0,4,0,7,0,3,1,0,0,1,0,1,0,0,0,0,1,1,0,0,0,3,4,0
+pre180,IT-LAT0071,lat_0062_IT-LAT0071.txt,"Seneca, Lucius Annaeus",De tranquillitate animi,other,7571,353,7,2,0,2,5,0,0,0,1,0,0,0,2,0,4,0,0,0,4,0,12,1,1,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,3,3,0
+pre180,IT-LAT0078,lat_0062_IT-LAT0078.txt,"Seneca, Lucius Annaeus",De otio,other,1951,82,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,IT-LAT0230,lat_0062_IT-LAT0230.txt,"Seneca, Lucius Annaeus",Epistulae morales ad Lucilium,other,119419,7346,46,15,19,0,56,1,0,0,33,0,5,3,8,0,47,2,3,0,24,3,102,18,23,11,0,2,12,13,4,0,4,0,1,13,8,0,0,0,25,48,7
+pre180,IT-LAT0073,lat_0063_IT-LAT0073.txt,"Seneca, Lucius Annaeus",De providentia,other,4090,222,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4,2,1,1,0,0,1,1,0,0,0,0,0,2,0,0,0,0,1,1,0
+pre180,IT-LAT0109,lat_0065_IT-LAT0109.txt,"Seneca, Lucius Annaeus",Agamemnon,other,4679,424,1,0,0,1,0,0,3,1,0,0,0,0,0,2,2,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,4,0,0,0,0,0,0,0
+pre180,IT-LAT0237,lat_0065_IT-LAT0237.txt,Baebius Italicus,Ilias Latina,other,6949,343,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+pre180,MQDQ-295,lat_0066_MQDQ-295.txt,Petronius,satyricon,other,1418,98,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,4,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+pre180,MQDQ-296,lat_0066_MQDQ-296.txt,Petronius,bellum ciuile,other,1929,121,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,2,0,0,0,0,0,1,0,0,0,0,0,0,4,0,0,0,0,1,1,0
+pre180,MQDQ-297,lat_0066_MQDQ-297.txt,Petronius,fragmenta,other,1874,123,0,0,0,0,1,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0
+pre180,MQDQ-446,lat_0068_MQDQ-446.txt,Silius Italicus,Punica,other,78921,4575,5,2,0,10,4,0,6,7,4,0,0,0,0,34,7,0,0,0,5,3,8,2,1,1,2,0,10,4,3,0,1,0,0,53,0,0,0,0,36,3,0
+pre180,MQDQ-448,lat_0070_MQDQ-448.txt,"Statius, Publius Papinius",Thebais,other,65563,3012,5,2,0,3,1,0,9,9,5,0,0,0,0,10,22,4,0,0,19,1,15,0,3,2,3,0,10,7,0,0,1,0,0,40,5,0,0,0,19,7,0
+pre180,MQDQ-450,lat_0070_MQDQ-450.txt,"Statius, Publius Papinius",belli Germanici fragmentum,other,46,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-194,lat_0071_MQDQ-194.txt,Martialis,de spectaculis,other,1334,95,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+pre180,MQDQ-195,lat_0071_MQDQ-195.txt,Martialis,epigrammata 1,other,4966,343,0,0,0,1,2,1,1,0,2,1,0,0,0,0,18,0,0,0,0,0,13,0,0,1,0,0,0,0,0,0,1,0,0,3,0,0,0,0,1,0,0
+pre180,MQDQ-196,lat_0071_MQDQ-196.txt,Martialis,epigrammata 2,other,3381,310,0,0,0,0,7,0,0,0,1,1,0,0,0,0,5,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,0
+pre180,MQDQ-197,lat_0071_MQDQ-197.txt,Martialis,epigrammata 3,other,3938,330,0,0,0,0,0,1,2,0,0,2,1,3,0,0,4,2,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+pre180,MQDQ-198,lat_0071_MQDQ-198.txt,Martialis,epigrammata 4,other,3915,264,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,1,0
+pre180,MQDQ-199,lat_0071_MQDQ-199.txt,Martialis,epigrammata 5,other,3739,272,1,0,0,0,1,0,0,1,0,0,1,0,0,0,8,1,0,0,0,0,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-200,lat_0071_MQDQ-200.txt,Martialis,epigrammata 6,other,3732,281,1,0,0,0,1,1,1,0,0,2,0,1,0,0,6,4,0,0,0,0,3,0,0,0,0,0,0,0,0,0,2,0,0,3,0,0,0,0,1,1,0
+pre180,MQDQ-201,lat_0071_MQDQ-201.txt,Martialis,epigrammata 7,other,4436,285,0,0,0,0,4,0,1,0,0,1,0,0,0,1,8,4,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+pre180,MQDQ-202,lat_0071_MQDQ-202.txt,Martialis,epigrammata 8,other,8021,516,0,0,0,0,0,0,0,0,0,0,0,0,0,2,24,2,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+pre180,MQDQ-203,lat_0071_MQDQ-203.txt,Martialis,epigrammata 9,other,10488,619,0,2,0,0,6,0,8,0,6,0,0,0,0,0,30,6,0,0,0,0,14,0,0,0,0,0,2,2,0,0,2,0,0,0,0,0,0,0,0,4,0
+pre180,MQDQ-204,lat_0071_MQDQ-204.txt,Martialis,epigrammata 10,other,5265,346,1,0,0,0,1,0,0,0,2,1,0,2,0,1,7,3,0,0,1,0,6,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+pre180,MQDQ-205,lat_0071_MQDQ-205.txt,Martialis,epigrammata 11,other,4924,376,2,0,0,0,4,3,0,0,0,1,0,0,0,1,5,3,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+pre180,MQDQ-206,lat_0071_MQDQ-206.txt,Martialis,epigrammata 12,other,4217,283,0,0,0,0,2,0,0,0,1,0,0,1,0,0,5,7,0,0,1,0,2,0,0,0,0,0,1,0,0,0,2,0,0,1,0,0,0,0,0,1,0
+pre180,MQDQ-207,lat_0071_MQDQ-207.txt,Martialis,epigrammata 13,other,1709,162,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+pre180,MQDQ-208,lat_0071_MQDQ-208.txt,Martialis,epigrammata 14,other,2824,274,0,0,0,0,1,1,2,0,2,0,0,0,0,1,8,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+pre180,MQDQ-330,lat_0086_MQDQ-330.txt,"Plinius Gaius, Cecilius Secundus",carmina epistulis inserta,other,140,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,IT-LAT0332,lat_0091_IT-LAT0332.txt,"Quintilianus, Marcus Fabius",Institutio oratoria,other,161017,7055,30,9,8,0,35,1,0,0,21,9,3,7,2,1,6,0,0,2,16,10,203,5,81,19,3,0,4,62,3,0,4,0,0,5,2,1,0,0,5,162,1
+pre180,MQDQ-150,lat_0095_MQDQ-150.txt,Iunius Iuuenalis,saturae,other,25105,1481,10,2,0,1,28,5,0,1,4,4,1,3,2,3,29,8,0,0,2,0,12,1,2,0,0,0,5,1,1,0,1,0,0,8,0,0,0,0,11,2,0
+pre180,MQDQ-554,lat_0097_MQDQ-554.txt,Verginius Rufus,epigramma,other,13,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+pre180,MQDQ-556,lat_0100.0_MQDQ-556.txt,Sentius Augurinus,carmen,other,45,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-96,lat_0100.0_MQDQ-96.txt,Florus,carmina (anth. Riese),other,225,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,IT-LAT0111,lat_0100_IT-LAT0111.txt,"Plinius Gaius, Cecilius Secundus",Panegyricus Traiano,other,19566,1154,17,4,9,0,11,0,0,0,4,4,0,1,1,0,15,0,0,2,19,0,27,0,0,0,10,0,6,0,1,0,1,0,1,2,0,0,0,0,46,25,0
+pre180,IT-LAT0339,lat_0100_IT-LAT0339.txt,"Flaccus, Siculus",De condicionibus agrorum,other,3367,181,0,0,2,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,IT-LAT0340,lat_0100_IT-LAT0340.txt,"Flaccus, Siculus",De divisis et assignatis,other,2409,113,0,0,0,0,1,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0
+pre180,IT-LAT0341,lat_0100_IT-LAT0341.txt,"Flaccus, Siculus",De quaestoriis agris,other,311,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,IT-LAT0342,lat_0100_IT-LAT0342.txt,Balbus,Expositio et ratio omnium formarum,other,2156,145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+pre180,IT-LAT0345,lat_0100_IT-LAT0345.txt,Hyginus the Elder,De limitibus,other,518,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,IT-LAT0346,lat_0100_IT-LAT0346.txt,Hyginus the Elder,De generibus controversiarum,other,1760,75,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,0,0,0,0,0,0,0
+pre180,IT-LAT0349,lat_0100_IT-LAT0349.txt,Hyginus the Elder,De condicionibus agrorum,other,2118,98,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+pre180,MQDQ-115,lat_0107_MQDQ-115.txt,Hadrianus imperator,carminum fragmenta,other,33,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,IT-LAT0120,lat_0113_IT-LAT0120.txt,"Svetonius Tranquillus, Caius",De grammaticis et rhetoribus,other,3080,134,0,0,1,0,1,0,0,0,1,8,4,3,0,0,0,0,0,0,0,0,11,0,0,1,0,0,0,0,0,7,2,0,0,0,0,0,0,0,1,1,0
+pre180,IT-LAT0720,lat_0113_IT-LAT0720.txt,"Svetonius Tranquillus, Caius",De poetis,other,3792,176,0,1,0,0,1,0,0,0,0,1,1,0,0,0,2,0,0,0,0,0,17,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,4,0
+pre180,IT-LAT0534,lat_0116_IT-LAT0534.txt,"Tacitus, Publius (Gaius) Cornelius",Annales,other,89909,4091,63,3,10,46,51,10,0,0,3,62,9,4,8,14,17,3,0,27,28,10,92,15,5,23,29,5,4,11,21,0,3,0,6,10,6,0,0,0,117,41,2
+pre180,IT-LAT0534_1,lat_0116_IT-LAT0534_1.txt,"Tacitus, Publius (Gaius) Cornelius",De origine et situ Germanorum,other,5634,308,8,0,2,0,8,1,0,0,0,0,2,3,0,1,2,0,0,0,3,1,5,1,0,2,3,0,1,0,0,0,0,0,1,3,3,0,0,0,5,0,0
+pre180,IT-LAT0534_2,lat_0116_IT-LAT0534_2.txt,"Tacitus, Publius (Gaius) Cornelius",De vita Iulii Agricolae,other,6795,292,10,0,9,1,4,0,0,0,4,5,0,0,1,2,1,0,0,2,3,1,5,0,0,2,2,0,2,1,0,0,1,0,0,4,0,0,0,0,7,3,1
+pre180,IT-LAT0534_3,lat_0116_IT-LAT0534_3.txt,"Tacitus, Publius (Gaius) Cornelius",Dialogus de oratoribus,other,9332,333,4,0,0,0,2,1,0,0,1,4,0,3,0,0,1,1,0,0,3,0,25,0,3,2,2,0,0,1,0,0,0,0,1,0,0,0,0,0,2,5,0
+pre180,IT-LAT0534_4,lat_0116_IT-LAT0534_4.txt,"Tacitus, Publius (Gaius) Cornelius",Historiae,other,52040,2438,27,1,7,21,21,0,0,0,5,31,2,0,6,8,17,0,0,6,8,2,26,7,5,25,23,0,6,4,10,0,3,0,4,9,7,0,0,0,114,18,0
+pre180,IT-LAT0054,lat_0121_IT-LAT0054.txt,"Svetonius Tranquillus, Caius",Vitae Caesarum,other,70664,2909,20,9,4,3,33,1,0,0,2,52,14,9,3,5,25,2,0,9,41,2,77,14,17,16,4,2,2,12,5,9,5,0,0,6,4,0,1,0,99,50,0
+pre180,MQDQ-336,lat_0147_MQDQ-336.txt,"Apuleius, Lucius",*fragmentum poeticum flor. c. 7 insertum,other,19,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-223,lat_0150.0_MQDQ-223.txt,Annianus,carminum fragmenta,other,40,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-465,lat_0150.0_MQDQ-465.txt,Sulpicius Apollinaris,"Andria, periocha",other,66,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-466,lat_0150.0_MQDQ-466.txt,Sulpicius Apollinaris,"Hautontimorumenos, periocha",other,68,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-467,lat_0150.0_MQDQ-467.txt,Sulpicius Apollinaris,"Eunuchus, periocha",other,63,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-468,lat_0150.0_MQDQ-468.txt,Sulpicius Apollinaris,"Phormio, periocha",other,71,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-469,lat_0150.0_MQDQ-469.txt,Sulpicius Apollinaris,"Hecyra, periocha",other,70,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-470,lat_0150.0_MQDQ-470.txt,Sulpicius Apollinaris,"Adelphoe, periocha",other,62,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-471,lat_0150.0_MQDQ-471.txt,Sulpicius Apollinaris,*epigramma ap. Don. u. Verg.,other,38,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,MQDQ-472,lat_0150.0_MQDQ-472.txt,Sulpicius Apollinaris,hexasticha in Aeneidos libris,other,506,47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,IT-LAT0407,lat_0150_IT-LAT0407.txt,"Caecilius Africanus, Sextus",Quaestiones,other,14563,815,26,23,7,0,97,1,0,0,6,9,0,0,1,0,46,1,1,0,18,0,27,6,14,0,0,0,3,0,0,14,2,0,0,0,0,1,1,0,0,1,0
+pre180,IT-LAT0261,lat_0350_IT-LAT0261.txt,[Auctor incertus],Carmen Saliare,other,24,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pre180,IT-LAT0262,lat_0350_IT-LAT0262.txt,[Auctor incertus],Carmen Arvale,other,78,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-268,lat_+0030_MQDQ-268.txt,Pseudo-Ovid,*argumenta Aeneidos,other,818,77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-436,lat_+0034_MQDQ-436.txt,Pseudo-Seneca,*epigrammata,other,4898,387,0,1,0,0,0,0,0,0,1,0,0,0,0,1,4,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,5,2,0
+post180,MQDQ-540,lat_-0043_MQDQ-540.txt,Pseudo-Virgil,*uersus Aeneidos libro primo praemissi,other,26,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,LC-3,lat_-0049_LC-3.txt,Pseudo-Cicero,Invectiva in Sallustium,other,1858,95,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+post180,MQDQ-213,lat_0050.0_MQDQ-213.txt,Marullus,fragmentum,other,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-394,lat_0050.0_MQDQ-394.txt,argumenta Plautina,Amphitruo,other,108,10,0,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-395,lat_0050.0_MQDQ-395.txt,argumenta Plautina,Asinaria,other,46,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+post180,MQDQ-396,lat_0050.0_MQDQ-396.txt,argumenta Plautina,Aulularia,other,131,13,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-397,lat_0050.0_MQDQ-397.txt,argumenta Plautina,Captiui,other,49,3,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-398,lat_0050.0_MQDQ-398.txt,argumenta Plautina,Casina,other,33,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-399,lat_0050.0_MQDQ-399.txt,argumenta Plautina,Cistellaria,other,61,8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-400,lat_0050.0_MQDQ-400.txt,argumenta Plautina,Curculio,other,45,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-401,lat_0050.0_MQDQ-401.txt,argumenta Plautina,Epidicus,other,44,4,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-402,lat_0050.0_MQDQ-402.txt,argumenta Plautina,Menaechmi,other,58,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-403,lat_0050.0_MQDQ-403.txt,argumenta Plautina,Mercator,other,131,12,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-404,lat_0050.0_MQDQ-404.txt,argumenta Plautina,Miles gloriosus,other,158,16,0,0,0,0,3,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-405,lat_0050.0_MQDQ-405.txt,argumenta Plautina,Mostellaria,other,63,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-408,lat_0050.0_MQDQ-408.txt,argumenta Plautina,Pseudolus,other,128,8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-409,lat_0050.0_MQDQ-409.txt,argumenta Plautina,Rudens,other,32,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-410,lat_0050.0_MQDQ-410.txt,argumenta Plautina,Stichus,other,38,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-411,lat_0050.0_MQDQ-411.txt,argumenta Plautina,Trinummus,other,57,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-412,lat_0050.0_MQDQ-412.txt,argumenta Plautina,Truculentus,other,66,4,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,IT-LAT0051,lat_0050_IT-LAT0051.txt,"Hyginus, Gaius Iulius",Fabulae,other,10233,525,0,7,5,0,1,1,2,0,0,0,0,0,0,5,0,0,0,0,4,0,23,1,8,0,0,0,2,1,0,0,1,0,0,1,1,0,0,0,2,4,0
+post180,IT-LAT0355,lat_0050_IT-LAT0355.txt,"Hyginus, Gaius Iulius",De astronomia,other,21964,1106,1,8,2,0,1,0,0,0,0,0,0,0,0,0,4,0,0,0,6,0,34,0,8,0,0,0,1,8,0,0,0,0,0,0,1,0,0,0,0,8,4
+post180,IT-LAT0934,lat_0067_IT-LAT0934.txt,Pseudo-Quintilian,Declamationes maiores,other,67246,4518,21,4,6,1,14,3,0,0,2,5,0,1,3,13,20,2,1,0,23,1,118,6,6,4,5,0,6,1,4,0,77,16,14,1,24,0,0,0,4,40,0
+post180,MQDQ-449,lat_0070_MQDQ-449.txt,Pseudo-Statius,*argumenta Thebaidos,other,814,78,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0
+post180,MQDQ-152,lat_0100.0_MQDQ-152.txt,Alfius Auitus,carminum fragmenta,other,21,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-439,lat_0100.0_MQDQ-439.txt,Septimius Serenus,carminum fragmenta,other,71,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,IT-LAT0347,lat_0100_IT-LAT0347.txt,Pseudo-Hyginus,De munitionibus castrorum,other,3005,149,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,IT-LAT0348,lat_0100_IT-LAT0348.txt,Hyginus: Gromaticus,Constitutio limitum,other,5478,335,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+post180,IT-LAT0784,lat_0100_IT-LAT0784.txt,Calpurnius Flaccus,Declamationes,other,6843,800,4,6,4,0,7,1,0,0,5,2,1,0,1,1,1,0,0,0,2,2,10,0,3,0,0,0,1,0,0,3,12,1,0,1,2,0,0,0,3,4,0
+post180,MQDQ-335,lat_0147_MQDQ-335.txt,"Apuleius, Lucius",carminum fragmenta,other,226,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-240,lat_0150.0_MQDQ-240.txt,[Auctor incertus],incerti odarium,other,69,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-293,lat_0150.0_MQDQ-293.txt,[Auctor incertus],peruigilium Veneris,other,655,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+post180,MQDQ-345,lat_0150.0_MQDQ-345.txt,[Auctor incertus],carmina Priapea,other,3097,179,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-490,lat_0150.0_MQDQ-490.txt,"Caper, Flavius","*de orthographia, uersus inserti",other,103,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,IT-LAT0267,lat_0150_IT-LAT0267.txt,"Minucius Felix, Marcus",Octavius,other,10547,510,3,2,1,0,1,0,0,0,2,0,0,0,0,2,5,0,0,1,11,2,10,2,3,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,10,3,0
+post180,IT-LAT0360,lat_0150_IT-LAT0360.txt,"Gellius, Aulus",Noctes Atticae,other,110388,4386,10,8,7,0,42,4,0,0,4,7,3,8,8,12,24,2,1,0,37,3,516,7,28,3,1,2,6,13,4,0,2,0,0,5,11,0,0,0,26,113,12
+post180,IT-LAT0916,lat_0150_IT-LAT0916.txt,"Caper, Flavius",De verbis dubiis,other,775,168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,IT-LAT0043,lat_0158_IT-LAT0043.txt,"Apuleius, Lucius",Metamorphoses,other,52933,2237,10,19,0,4,18,12,14,5,10,2,0,1,3,3,59,35,1,0,4,0,29,10,6,0,23,2,2,10,6,0,1,2,6,8,8,0,0,0,10,29,0
+post180,IT-LAT0044,lat_0180_IT-LAT0044.txt,[Auctor incertus],Acta martyrum scillitanorum,other,373,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0
+post180,MQDQ-491,lat_0190_MQDQ-491.txt,"Tertullianus, Quintus Septimius Florens","*ignoti uersus ap. Tert. apol. 25, 8",other,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-492,lat_0190_MQDQ-492.txt,Pseudo-Tertullian,*carmen aduersus Marcionem,other,8425,371,4,1,0,1,1,0,3,3,2,0,0,1,0,5,54,0,0,0,11,1,4,0,4,0,0,0,4,0,1,0,4,0,0,1,0,0,0,0,1,4,11
+post180,IT-LAT0062,lat_0197_IT-LAT0062.txt,"Tertullianus, Quintus Septimius Florens",Ad martyres,other,1481,93,0,0,0,0,0,0,0,0,1,0,0,0,0,1,4,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+post180,IT-LAT0246,lat_0197_IT-LAT0246.txt,"Tertullianus, Quintus Septimius Florens",Apologeticum,other,20059,1112,4,3,2,0,3,0,1,0,0,0,1,0,0,3,15,0,1,7,23,2,12,5,4,3,4,0,1,8,0,0,1,0,2,2,1,0,0,0,19,20,0
+post180,IT-LAT0448,lat_0197_IT-LAT0448.txt,"Tertullianus, Quintus Septimius Florens",Ad nationes,other,14748,828,7,2,3,0,1,0,0,0,3,0,0,0,1,1,7,1,0,5,9,5,5,3,3,3,1,0,0,2,0,0,3,0,2,0,2,0,0,0,6,10,0
+post180,IT-LAT0248,lat_0198_IT-LAT0248.txt,"Tertullianus, Quintus Septimius Florens",De testimonio animae,other,2239,128,1,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,4,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+post180,IT-LAT0256,lat_0198_IT-LAT0256.txt,"Tertullianus, Quintus Septimius Florens",De Baptismo,other,4304,220,0,5,0,0,1,0,0,0,0,0,0,0,0,0,45,0,0,0,5,1,0,0,1,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,10,4
+post180,IT-LAT0737,lat_0198_IT-LAT0737.txt,"Tertullianus, Quintus Septimius Florens",Adversus Iudaeos,other,9819,378,0,6,0,0,0,0,0,0,5,0,0,0,0,0,30,0,1,0,6,1,1,0,2,0,1,0,0,1,3,0,0,0,2,0,0,0,0,0,3,13,4
+post180,IT-LAT0749,lat_0198_IT-LAT0749.txt,"Tertullianus, Quintus Septimius Florens",Ad uxorem libri duo,other,3908,260,5,0,3,0,10,1,0,0,1,0,0,0,0,0,37,0,0,0,6,1,3,1,6,3,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,10,0
+post180,IT-LAT0750,lat_0198_IT-LAT0750.txt,"Tertullianus, Quintus Septimius Florens",De cultu feminarum libri duo,other,5115,297,0,1,1,0,4,2,0,0,1,0,0,0,0,0,11,0,0,0,0,1,1,0,3,3,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,5,0
+post180,IT-LAT0058,lat_0199_IT-LAT0058.txt,"Tertullianus, Quintus Septimius Florens",De spectaculis,other,6323,357,1,1,0,0,6,0,0,0,1,0,0,0,0,1,12,0,0,1,0,0,9,1,1,0,3,0,1,1,0,0,1,0,0,1,0,0,0,0,0,6,0
+post180,IT-LAT0471,lat_0200_IT-LAT0471.txt,[Auctor incertus],Passio Sanctarum Perpetuae et Felicitatis,other,3404,223,1,1,0,0,0,0,0,0,0,0,0,0,0,0,12,2,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0
+post180,IT-LAT0350,lat_0205_IT-LAT0350.txt,"Tertullianus, Quintus Septimius Florens",De oratione,other,4506,264,0,2,0,0,2,0,0,0,1,0,0,0,0,0,34,0,0,0,3,0,3,0,21,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,9,0
+post180,IT-LAT0744,lat_0205_IT-LAT0744.txt,"Tertullianus, Quintus Septimius Florens",De exhortatione castitatis,other,3719,222,1,1,0,0,1,0,0,0,0,0,0,0,0,0,14,0,0,0,2,1,4,3,38,7,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,IT-LAT0606,lat_0210_IT-LAT0606.txt,"Tertullianus, Quintus Septimius Florens",De resurrectione carnis liber,other,22656,934,1,6,0,0,3,1,1,4,2,0,0,0,1,0,104,0,0,1,10,1,4,2,8,1,3,0,0,11,0,3,1,3,2,1,2,0,0,0,2,16,1
+post180,IT-LAT0733,lat_0210_IT-LAT0733.txt,"Tertullianus, Quintus Septimius Florens",Liber de corona militis,other,178,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,IT-LAT0746,lat_0210_IT-LAT0746.txt,"Tertullianus, Quintus Septimius Florens",De anima liber,other,23867,1210,7,5,0,1,3,1,0,2,1,0,0,0,1,0,18,0,0,2,14,1,7,13,5,2,1,0,1,2,0,0,3,0,0,0,1,0,0,0,2,12,2
+post180,IT-LAT0736,lat_0213_IT-LAT0736.txt,"Tertullianus, Quintus Septimius Florens",De virginibus velandis,other,5396,237,4,1,0,0,0,1,0,0,1,0,0,0,0,0,7,0,0,0,1,0,1,1,1,1,0,0,0,3,0,0,0,0,0,1,0,0,0,0,0,6,0
+post180,IT-LAT0747,lat_0213_IT-LAT0747.txt,"Tertullianus, Quintus Septimius Florens",Liber de fuga in persecutione,other,4829,214,0,1,0,1,7,0,0,0,1,0,0,0,0,0,28,0,0,0,13,0,1,5,14,2,0,0,0,0,1,1,21,7,0,0,1,0,0,0,1,1,1
+post180,IT-LAT0755,lat_0213_IT-LAT0755.txt,"Tertullianus, Quintus Septimius Florens",Liber de monogamia,other,6301,259,1,0,0,0,0,1,0,0,0,0,0,0,0,0,19,0,0,0,1,0,3,4,12,9,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,2,0
+post180,IT-LAT0788,lat_0213_IT-LAT0788.txt,"Tertullianus, Quintus Septimius Florens",Adversus Praxean,other,14350,581,0,0,0,0,3,0,0,0,0,0,0,0,0,0,91,0,0,2,10,0,0,0,10,0,1,0,1,8,0,0,0,0,0,0,0,0,0,0,1,5,0
+post180,MQDQ-123,lat_0250.0_MQDQ-123.txt,uersus ex Historia Augusta,in Caesares,other,369,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0
+post180,MQDQ-138,lat_0250.0_MQDQ-138.txt,Hosidius Gaetae,Medea tragoedia,other,2905,247,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+post180,MQDQ-232,lat_0250.0_MQDQ-232.txt,Nemesianus,eclogae,other,2167,117,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,1,0
+post180,MQDQ-233,lat_0250.0_MQDQ-233.txt,Nemesianus,cynegetica,other,2114,80,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0
+post180,MQDQ-234,lat_0250.0_MQDQ-234.txt,Nemesianus,de aucupio,other,182,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-343,lat_0250.0_MQDQ-343.txt,precatio omnium herbarum,precatio omnium herbarum,other,115,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+post180,MQDQ-344,lat_0250.0_MQDQ-344.txt,precatio Terrae matris,precatio Terrae matris,other,219,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+post180,MQDQ-39,lat_0250.0_MQDQ-39.txt,Commodianus,instructiones 1,other,5046,392,0,0,0,0,1,0,0,0,2,0,0,0,0,0,23,0,0,0,0,3,1,0,0,0,0,0,3,1,0,0,0,0,0,1,0,0,0,0,0,3,0
+post180,MQDQ-40,lat_0250.0_MQDQ-40.txt,Commodianus,instructiones 2,other,2546,192,0,0,0,1,0,0,0,0,2,0,0,0,0,0,11,0,0,0,0,0,0,0,0,1,0,0,4,0,1,0,0,0,0,0,0,0,0,0,1,1,2
+post180,MQDQ-41,lat_0250.0_MQDQ-41.txt,Commodianus,carmen de duobus populis,other,7298,471,0,4,0,0,3,0,0,0,4,0,0,0,0,1,49,0,0,0,2,0,3,1,1,0,1,0,2,1,0,0,0,0,1,2,0,0,0,0,1,4,3
+post180,MQDQ-558,lat_0250.0_MQDQ-558.txt,Terentianus Maurus,"de litteris, de syllabis, de metris",other,12839,840,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,9,0,0,0,0,0,2,1,0,0,0,0,0,0
+post180,IT-LAT0201,lat_0250_IT-LAT0201.txt,"Iustinus Iunianus, Marcus",Epitome Historiarum Philippicarum Pompei Trogi,other,61371,2840,46,22,14,5,38,3,0,0,4,0,0,3,0,31,22,1,0,14,21,0,59,8,4,4,9,0,12,5,11,3,10,0,13,11,8,1,0,0,163,27,0
+post180,IT-LAT0204,lat_0250_IT-LAT0204.txt,[Auctor incertus],Disticha Catonis,other,2094,152,0,0,0,0,4,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,4,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,2,2
+post180,IT-LAT0621,lat_0250_IT-LAT0621.txt,"Paulus, Julius",Sententiarum receptarum libri quinque,other,20763,1208,33,11,9,0,117,32,0,0,3,28,4,10,11,0,96,1,5,0,25,0,52,8,22,0,1,0,0,6,0,25,1,1,1,0,8,0,4,0,1,23,0
+post180,IT-LAT0665,lat_0250_IT-LAT0665.txt,"Solinus, Caius Iulius",De mirabilibus mundi,other,33892,1958,0,4,0,2,1,1,0,0,2,1,0,2,0,4,9,0,0,0,18,0,33,1,2,5,4,0,2,0,0,0,0,0,2,24,4,0,0,0,5,18,1
+post180,IT-LAT0846,lat_0250_IT-LAT0846.txt,Acholius,Acta,other,656,28,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,0
+post180,IT-LAT0865,lat_0250_IT-LAT0865.txt,Novatianus,De Trinitate,other,17301,676,3,1,4,0,2,1,1,0,2,0,0,0,0,1,65,0,0,1,26,0,2,2,12,0,0,6,0,10,0,0,0,0,0,2,1,0,0,5,4,2,3
+post180,IT-LAT0913,lat_0250_IT-LAT0913.txt,Censorinus,Fragmentum de metriis,other,632,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,IT-LAT0914,lat_0250_IT-LAT0914.txt,Censorinus,De musica fragmentum,other,459,26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,IT-LAT0059,lat_0251_IT-LAT0059.txt,Cyprianus Carthaginensis,De unitate ecclesiae,other,5279,1,1,1,1,0,7,0,0,0,0,0,0,0,0,0,59,0,0,0,2,1,0,1,4,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,6,3
+post180,IT-LAT0893,lat_0260_IT-LAT0893.txt,"Gargilius Martialis, Quintus",Curae boum,other,880,66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,IT-LAT0895,lat_0260_IT-LAT0895.txt,"Gargilius Martialis, Quintus",Medicina ex oleribus et pomis,other,1205,116,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,IT-LAT0896,lat_0260_IT-LAT0896.txt,"Gargilius Martialis, Quintus",Vita Alexandri Severi,other,192,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-107,lat_0300.0_MQDQ-107.txt,Albinus,carminum fragmenta,other,31,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-157,lat_0300.0_MQDQ-157.txt,"Lactantius, Lucius Caecilius Firmianus",de aue Phoenice,other,1090,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+post180,MQDQ-158,lat_0300.0_MQDQ-158.txt,"Lactantius, Lucius Caecilius Firmianus",e Graecis conuersa,other,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-159,lat_0300.0_MQDQ-159.txt,Pseudo-Lactantius,*de passione domini,other,540,18,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0
+post180,MQDQ-241,lat_0300.0_MQDQ-241.txt,Publilius Optatianus Porfyrius,carmina,other,5132,253,0,0,0,0,1,0,0,0,2,0,0,0,0,2,13,0,0,0,0,4,2,0,0,0,0,0,1,0,0,0,0,0,0,5,9,0,0,0,8,3,0
+post180,MQDQ-290,lat_0300.0_MQDQ-290.txt,Pentadius,carmina (anth. Riese),other,511,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+post180,MQDQ-377,lat_0300.0_MQDQ-377.txt,pseudo Cato,distichorum appendix,other,113,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-393,lat_0300.0_MQDQ-393.txt,Reposianus,de concubitu Martis et Veneris,other,1220,89,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,4,0
+post180,MQDQ-499,lat_0300.0_MQDQ-499.txt,Tiberianus,carmina,other,605,33,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+post180,MQDQ-500,lat_0300.0_MQDQ-500.txt,Tiberianus,carminum fragmenta,other,26,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-563,lat_0300.0_MQDQ-563.txt,Vespa,iudicium coci et pistoris,other,677,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-87,lat_0300.0_MQDQ-87.txt,epigrammata Bobiensia,epigrammata Bobiensia,other,2910,209,0,0,0,0,2,2,1,0,0,0,0,0,0,1,1,1,0,0,1,0,1,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,3,0
+post180,IT-LAT0264,lat_0300_IT-LAT0264.txt,Arnobius,Adversus nationes,other,66047,2466,9,8,7,1,8,0,2,0,4,0,0,4,2,0,22,1,0,3,59,1,70,3,38,3,10,0,1,14,1,1,3,0,2,3,14,1,0,0,14,21,4
+post180,IT-LAT0351,lat_0300_IT-LAT0351.txt,"Ampelius, Lucius",Liber memorialis,other,7185,345,6,5,0,0,1,0,0,0,1,0,1,0,0,1,2,0,0,3,9,7,14,1,1,0,0,0,0,2,2,0,0,0,0,3,0,0,0,0,11,3,0
+post180,IT-LAT0268,lat_0318_IT-LAT0268.txt,"Lactantius, Lucius Caecilius Firmianus",De mortibus persecutorum,other,10970,606,4,4,3,1,7,0,0,1,0,0,0,1,0,0,12,0,0,1,11,2,8,2,5,1,0,0,5,5,1,0,0,0,4,1,0,0,0,0,32,7,1
+post180,MQDQ-1,lat_0321_MQDQ-1.txt,laudes Domini,laudes Domini,other,943,29,0,1,0,0,0,0,0,0,1,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0
+post180,IT-LAT0886,lat_0330_IT-LAT0886.txt,Ablabius,Epistulae de iure civitatis Orcistenorum,other,566,49,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-166,lat_0331_MQDQ-166.txt,Ablabius,epigramma,other,10,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-149,lat_0338_MQDQ-149.txt,Iulius Valerius,e Graecis conuersa,other,502,26,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-10,lat_0350.0_MQDQ-10.txt,Chalcidius,e Graecis conuersa,other,192,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-151,lat_0350.0_MQDQ-151.txt,Vettius Aquilinus Iuuencus,euangeliorum libri,other,20358,1202,0,2,0,2,14,0,16,4,6,0,0,0,0,0,76,0,0,0,13,4,5,4,9,0,10,0,8,5,0,0,4,0,0,3,1,0,0,0,5,12,4
+post180,MQDQ-192,lat_0350.0_MQDQ-192.txt,Marcellus,de medicamentis,other,512,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-289,lat_0350.0_MQDQ-289.txt,Paulus Quaestor,carminum fragmenta,other,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-350,lat_0350.0_MQDQ-350.txt,Faltonia Betitia Proba,cento Vergilianus,other,4825,256,2,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,4,0,1,0,2,0,0,0,4,3,0,0,0,0,0,1,0,0,0,0,4,0,0
+post180,MQDQ-440,lat_0350.0_MQDQ-440.txt,Quintus Serenus,liber medicinalis,other,7010,437,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-569,lat_0350.0_MQDQ-569.txt,"Avienus, Rufius Festus",Aratea,other,12202,527,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1,1,4,0,0,0,0,0,1,1,0,0,0,0,0,3,2,0,0,0,1,0,0
+post180,MQDQ-570,lat_0350.0_MQDQ-570.txt,"Avienus, Rufius Festus",carmen ad Flauianum,other,213,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-571,lat_0350.0_MQDQ-571.txt,"Avienus, Rufius Festus",carmen ad Nortiam,other,46,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-573,lat_0350.0_MQDQ-573.txt,"Avienus, Rufius Festus",ora maritima,other,3934,266,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0
+post180,MQDQ-609,lat_0350.0_MQDQ-609.txt,Severus Endelechius,de mortibus boum,other,648,49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+post180,IT-LAT0115,lat_0350_IT-LAT0115.txt,Eutropius,Breviarium ab Urbe condita,other,18581,1132,4,4,1,2,1,1,0,0,1,1,1,1,0,19,5,0,0,0,15,0,7,1,4,0,0,0,4,0,0,0,3,0,0,4,0,0,0,0,107,3,0
+post180,IT-LAT0233,lat_0350_IT-LAT0233.txt,"Avienus, Rufius Festus",Periegesis seu descriptio orbis terrarum,other,8936,396,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,1,1,0,0,0,0,0,27,2,0,0,0,1,2,0
+post180,IT-LAT0238,lat_0350_IT-LAT0238.txt,"Obsequens, Iulius",Prodigiorum Liber,other,4676,525,0,0,0,0,4,4,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0
+post180,IT-LAT0263,lat_0350_IT-LAT0263.txt,Ambrosius Mediolanensis,Epistula ad Marcellinam sororem,other,2074,162,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,4,0,5,0,0,1,0,0,0,1,0,0,0,0,0,0,2,0,0,0,2,4,0
+post180,IT-LAT0286,lat_0350_IT-LAT0286.txt,[Auctor incertus],Testamentum porcelli,other,288,24,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,IT-LAT0353,lat_0350_IT-LAT0353.txt,"Avianus, Flavius",Epistula ad Theodosium,other,168,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,IT-LAT0361,lat_0350_IT-LAT0361.txt,"Donatus, Aelius",De barbarismo,other,225,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,IT-LAT0362,lat_0350_IT-LAT0362.txt,"Donatus, Aelius",De schematibus,other,411,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,IT-LAT0364,lat_0350_IT-LAT0364.txt,"Donatus, Aelius",De solecismo,other,430,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,IT-LAT0365,lat_0350_IT-LAT0365.txt,"Donatus, Aelius",De tropis,other,878,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,IT-LAT0366,lat_0350_IT-LAT0366.txt,"Donatus, Aelius",De ceteriis vitiis,other,511,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,IT-LAT0367,lat_0350_IT-LAT0367.txt,"Donatus, Aelius",Commentarii Vergiliani,other,2770,110,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,8,0,2,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,IT-LAT0612,lat_0350_IT-LAT0612.txt,"Severus, Sulpicius",Chronica,other,24762,1350,11,2,7,9,8,5,0,0,3,0,0,0,0,7,44,0,0,3,19,3,14,6,5,1,2,0,4,5,0,0,2,0,27,0,6,0,0,0,91,11,13
+post180,IT-LAT0719,lat_0350_IT-LAT0719.txt,Egeria,Itinerarium peregrinatio,other,17496,658,0,0,0,0,0,0,0,0,0,0,0,0,0,0,70,4,0,0,0,0,18,0,3,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,28,1
+post180,IT-LAT0776,lat_0350_IT-LAT0776.txt,Hydatius Lemicensis,Chronicon,other,5231,397,0,2,1,0,0,0,0,0,1,0,0,0,0,3,5,0,0,0,5,2,0,1,2,0,0,0,1,0,0,0,0,0,7,0,0,0,0,0,15,1,0
+post180,IT-LAT0850,lat_0350_IT-LAT0850.txt,Auctor incertus (Aurelius Victor?),De viris illustribus urbis Romae,other,9284,616,3,6,1,1,5,1,0,0,0,1,6,1,0,5,3,0,0,3,6,0,9,0,1,0,0,0,0,0,0,1,1,3,0,2,0,0,0,0,13,14,0
+post180,IT-LAT0919,lat_0350_IT-LAT0919.txt,"Palladius, Rutilius Taurus Aemilianus",Opus agriculturae,other,39763,2619,0,11,0,0,2,0,1,0,3,0,0,0,0,0,6,0,0,0,0,0,24,3,3,1,0,0,3,13,1,0,0,0,1,5,15,0,0,0,1,3,0
+post180,IT-LAT0978,lat_0350_IT-LAT0978.txt,Macarius Magnus: Sanctus,Apophthegmata,other,4797,363,1,0,0,0,1,0,0,0,1,0,0,0,0,0,15,0,0,0,1,0,2,0,3,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,4
+post180,LC-11,lat_0350_LC-11.txt,Iulius Firmicus Maternus,Matheseos libri VIII,other,55924,2200,7,30,15,1,24,5,0,0,10,0,0,2,0,15,126,9,18,3,170,6,49,5,7,30,2,0,1,4,14,0,1,0,9,2,10,0,0,0,29,33,3
+post180,LC-4,lat_0350_LC-4.txt,"Claudianus, Claudius",De bello Gildonico,other,3299,238,1,0,0,0,0,0,2,1,0,0,0,0,0,1,2,1,0,0,1,1,1,1,0,0,0,0,2,1,2,0,0,0,0,2,0,0,0,0,3,0,0
+post180,LC-5,lat_0350_LC-5.txt,"Claudianus, Claudius",De bello Gothico,other,4170,185,2,0,0,1,0,0,1,1,1,0,0,0,0,1,3,0,0,0,1,0,0,0,0,1,1,0,1,0,2,0,0,0,0,4,1,0,0,0,3,0,0
+post180,LC-8,lat_0350_LC-8.txt,"Claudianus, Claudius",Epithalamium de nuptiis Honorii et Mariae,other,2259,145,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,2,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,0,0,0,1,2,0
+post180,LC-9,lat_0350_LC-9.txt,"Claudianus, Claudius",Panegyricus Probino et Olybrio Consulibus,other,1750,81,1,0,0,1,0,0,1,0,1,0,0,0,0,0,2,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+post180,MQDQ-578,lat_0352_MQDQ-578.txt,"Ausonius, Decimus Magnus",praefationes,other,615,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+post180,MQDQ-579,lat_0352_MQDQ-579.txt,"Ausonius, Decimus Magnus",ephemeris,other,1283,67,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+post180,MQDQ-580,lat_0352_MQDQ-580.txt,"Ausonius, Decimus Magnus",filius ad patrem,other,261,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+post180,MQDQ-581,lat_0352_MQDQ-581.txt,"Ausonius, Decimus Magnus",uersus Paschales,other,199,9,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+post180,MQDQ-583,lat_0352_MQDQ-583.txt,"Ausonius, Decimus Magnus",de herediolo,other,224,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-584,lat_0352_MQDQ-584.txt,"Ausonius, Decimus Magnus",pater ad filium,other,147,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-588,lat_0352_MQDQ-588.txt,"Ausonius, Decimus Magnus",commemoratio professorum,other,2658,130,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,9,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-589,lat_0352_MQDQ-589.txt,"Ausonius, Decimus Magnus",epitaphia heroum,other,729,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-590,lat_0352_MQDQ-590.txt,"Ausonius, Decimus Magnus",epigrammata,other,3804,343,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,2,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,4,0
+post180,MQDQ-591,lat_0352_MQDQ-591.txt,"Ausonius, Decimus Magnus",eclogae,other,2480,203,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0
+post180,MQDQ-592,lat_0352_MQDQ-592.txt,"Ausonius, Decimus Magnus",griphus ternarii numeri,other,603,42,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-593,lat_0352_MQDQ-593.txt,"Ausonius, Decimus Magnus",Mosella,other,3035,111,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0,6,2,0,0,0,2,1,0
+post180,MQDQ-595,lat_0352_MQDQ-595.txt,"Ausonius, Decimus Magnus",cento nuptialis,other,900,52,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-596,lat_0352_MQDQ-596.txt,"Ausonius, Decimus Magnus",Cupido cruciatus,other,628,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+post180,MQDQ-597,lat_0352_MQDQ-597.txt,"Ausonius, Decimus Magnus",precationes variae,other,573,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+post180,MQDQ-598,lat_0352_MQDQ-598.txt,"Ausonius, Decimus Magnus",fasti,other,145,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+post180,MQDQ-599,lat_0352_MQDQ-599.txt,"Ausonius, Decimus Magnus",Caesares,other,837,74,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0
+post180,MQDQ-601,lat_0352_MQDQ-601.txt,"Ausonius, Decimus Magnus",technopaegnion,other,1116,111,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0
+post180,MQDQ-602,lat_0352_MQDQ-602.txt,"Ausonius, Decimus Magnus",ludus septem sapientium,other,1320,128,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+post180,MQDQ-603,lat_0352_MQDQ-603.txt,"Ausonius, Decimus Magnus",epistulae,other,5492,270,0,2,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,3,0,0,1,0,0,0,1,0,0,1,0,0,9,0,0,0,0,0,0,0
+post180,IT-LAT0121,lat_0362_IT-LAT0121.txt,Ammianus Marcellinus,Rerum gestarum Libri,other,122958,3956,11,5,2,4,16,4,3,0,6,0,0,6,6,29,24,5,2,2,123,3,43,48,33,17,6,8,3,5,1,0,4,2,4,11,20,0,0,0,89,37,2
+post180,MQDQ-617,lat_0362_MQDQ-617.txt,Marius Victorinus,hymni,other,984,93,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+post180,MQDQ-118,lat_0367_MQDQ-118.txt,Pseudo-Hilary,*in genesin,other,1345,72,0,0,0,0,0,0,1,0,2,0,0,0,0,0,4,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,3
+post180,MQDQ-119,lat_0367_MQDQ-119.txt,Pseudo-Hilary,*de martyrio Maccabaeorum,other,2768,180,1,1,0,0,0,0,1,0,4,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,6,2,0,0,0,0,0,0,0,0,0,0,2,0,0
+post180,MQDQ-120,lat_0367_MQDQ-120.txt,Pseudo-Hilary,*de euangelio,other,765,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-179,lat_0368_MQDQ-179.txt,Ambrosius Mediolanensis,e Graecis conuersa,other,12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-180,lat_0368_MQDQ-180.txt,Ambrosius Mediolanensis,hymni,other,1696,112,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,9,2
+post180,MQDQ-182,lat_0368_MQDQ-182.txt,Pseudo-Ambrose,*carmen de ternarii numeri excellentia,other,24924,1927,0,0,0,0,7,0,1,2,3,0,0,1,1,4,7,1,0,0,9,2,11,0,3,0,2,0,6,2,0,0,1,0,0,5,2,0,0,0,5,9,1
+post180,MQDQ-183,lat_0368_MQDQ-183.txt,Ambrosius Mediolanensis,disticha de uetere nouoque Testamento,other,246,21,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-476,lat_0371_MQDQ-476.txt,Quintus Aurelius Symmachus,carmina epistulis inserta,other,149,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-366,lat_0376_MQDQ-366.txt,"Prudentius, Aurelius Clemens",praefationes,other,319,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-367,lat_0376_MQDQ-367.txt,"Prudentius, Aurelius Clemens",cathemerinon,other,7442,422,0,1,1,1,1,0,2,3,3,0,0,1,0,0,8,0,0,0,4,2,8,0,1,0,1,0,0,0,0,0,0,0,0,4,4,0,0,0,2,2,3
+post180,MQDQ-368,lat_0376_MQDQ-368.txt,"Prudentius, Aurelius Clemens",apotheosis,other,7407,445,0,2,1,0,0,0,1,1,1,0,0,0,1,1,36,1,0,0,3,0,9,1,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,5,1,6
+post180,MQDQ-369,lat_0376_MQDQ-369.txt,"Prudentius, Aurelius Clemens",hamartigenia,other,6486,326,4,0,0,0,0,0,2,0,5,0,0,1,1,5,19,0,0,2,6,1,6,1,4,2,0,0,0,2,1,0,0,0,0,2,1,0,0,0,5,0,1
+post180,MQDQ-371,lat_0376_MQDQ-371.txt,"Prudentius, Aurelius Clemens","contra Symmachum, praefationes",other,660,36,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-372,lat_0376_MQDQ-372.txt,"Prudentius, Aurelius Clemens",contra Symmachum,other,11560,557,1,2,1,3,0,0,1,0,5,0,0,1,0,8,14,3,0,0,8,2,6,0,3,0,1,0,2,3,0,0,1,0,0,2,1,0,0,0,13,1,0
+post180,MQDQ-373,lat_0376_MQDQ-373.txt,"Prudentius, Aurelius Clemens",peristephanon,other,17493,1107,1,0,0,0,3,1,3,1,6,0,0,0,1,1,12,0,0,0,3,0,22,0,1,1,0,0,2,1,0,0,0,1,0,5,9,0,0,0,5,1,0
+post180,MQDQ-374,lat_0376_MQDQ-374.txt,"Prudentius, Aurelius Clemens",dittochaeon,other,1249,85,0,0,0,0,0,0,0,1,0,0,0,0,0,0,5,0,0,0,1,0,3,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-375,lat_0376_MQDQ-375.txt,"Prudentius, Aurelius Clemens",epilogus,other,90,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-477,lat_0376_MQDQ-477.txt,Symmachus pater,Aradius Rufinus,other,34,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-478,lat_0376_MQDQ-478.txt,Symmachus pater,Valerius Proculus,other,37,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-479,lat_0376_MQDQ-479.txt,Symmachus pater,Anicius Iulianus,other,40,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-480,lat_0376_MQDQ-480.txt,Symmachus pater,Petronius Probianus,other,39,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+post180,MQDQ-481,lat_0376_MQDQ-481.txt,Symmachus pater,Verinus,other,44,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,IT-LAT0001,lat_0382_IT-LAT0001.txt,Hieronymus,Vulgata,vulgate,598085,38870,21,253,52,3,853,127,37,22,273,1,1,0,4,55,8174,14,2,5,193,82,285,5,165,4,9,84,25,61,13,0,93,24,95,66,56,2,0,13,81,369,599
+post180,MQDQ-116,lat_0383_MQDQ-116.txt,Hieronymus,carminum fragmenta,other,94,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-56,lat_0384_MQDQ-56.txt,Damasus,epigrammata,other,4628,306,0,0,0,0,1,0,1,1,1,0,0,0,0,0,15,0,0,0,3,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,3,2
+post180,IT-LAT0574,lat_0385_IT-LAT0574.txt,"Ausonius, Decimus Magnus",De Bissula,other,358,25,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+post180,IT-LAT0574_1,lat_0385_IT-LAT0574_1.txt,"Ausonius, Decimus Magnus",Epicedion in patrem,other,499,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,IT-LAT0574_2,lat_0385_IT-LAT0574_2.txt,"Ausonius, Decimus Magnus",Genethliacum ad Ausonium nepotem,other,182,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,IT-LAT0574_3,lat_0385_IT-LAT0574_3.txt,"Ausonius, Decimus Magnus",Gratiarum actio dicta Domino Gratiano Augusto,other,4023,231,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,2,2,2,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,4,14,0
+post180,IT-LAT0574_4,lat_0385_IT-LAT0574_4.txt,"Ausonius, Decimus Magnus",Liber protrepticus ad nepotem,other,829,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+post180,IT-LAT0574_5,lat_0385_IT-LAT0574_5.txt,"Ausonius, Decimus Magnus",Ordo urbium nobilium,other,1082,54,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0
+post180,IT-LAT0574_6,lat_0385_IT-LAT0574_6.txt,"Ausonius, Decimus Magnus",Parentalia,other,2550,158,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0
+post180,IT-LAT0574_7,lat_0385_IT-LAT0574_7.txt,Pseudo-Ausonius,Periocha Iliadis,other,1844,114,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0
+post180,IT-LAT0574_8,lat_0385_IT-LAT0574_8.txt,Pseudo-Ausonius,Periocha Odyssiae,other,130,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,IT-LAT0061,lat_0387_IT-LAT0061.txt,Augustinus Hipponensis,De dialectica,other,5677,295,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,2,0
+post180,IT-LAT0793,lat_0389_IT-LAT0793.txt,Augustinus Hipponensis,De magistro,other,11401,591,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,3,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,4,0
+post180,IT-LAT0189,lat_0390_IT-LAT0189.txt,"Vegetius Renatus, Flavius",Epitoma rei militaris,other,24797,1277,2,3,0,0,0,0,1,0,2,0,0,0,0,0,2,0,0,0,9,1,21,4,1,1,3,1,1,5,0,0,0,0,0,5,0,0,0,1,7,5,0
+post180,IT-LAT0726,lat_0390_IT-LAT0726.txt,Hieronymus,Vita Malchi monachi captivi,other,2040,150,0,1,1,0,2,0,1,0,1,0,0,0,0,3,18,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+post180,IT-LAT0016,lat_0391_IT-LAT0016.txt,Augustinus Hipponensis,Regula,other,2125,103,0,0,0,0,1,0,2,0,2,0,0,0,0,0,4,0,0,0,2,1,1,3,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1
+post180,IT-LAT0847,lat_0391_IT-LAT0847.txt,Ambrosius Mediolanensis,De Mysteriis,other,4891,382,1,0,0,0,1,0,0,0,0,0,0,0,0,2,38,0,0,0,2,0,2,0,0,0,2,0,0,0,0,0,0,1,1,0,0,0,0,1,0,27,11
+post180,MQDQ-279,lat_0392_MQDQ-279.txt,Paulinus Nolanus,carmina,other,54727,2207,6,5,6,6,22,0,15,6,13,0,0,0,3,13,191,0,0,0,10,1,40,6,5,1,13,0,12,6,2,0,5,1,1,42,9,0,0,0,8,76,31
+post180,MQDQ-280,lat_0392_MQDQ-280.txt,Paulinus Nolanus,carminum appendix,other,2558,127,0,0,0,0,2,0,0,0,0,0,0,0,0,5,10,0,0,0,0,1,3,0,0,0,0,0,3,1,0,0,0,0,0,3,1,0,0,0,3,0,3
+post180,MQDQ-281,lat_0392_MQDQ-281.txt,Paulinus Nolanus,carmen epist. 8 insertum,other,1441,114,4,0,5,0,6,2,0,0,10,0,0,0,0,0,16,0,0,0,0,2,4,0,0,0,0,0,0,0,0,0,0,0,0,8,1,0,0,0,2,0,0
+post180,MQDQ-282,lat_0392_MQDQ-282.txt,Paulinus Nolanus,carmina epist. 32 inserta,other,1262,79,0,0,0,0,0,0,1,1,0,0,0,0,0,0,7,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,4,0
+post180,MQDQ-512,lat_0392_MQDQ-512.txt,Augustinus Hipponensis,psalmus contra partem Donati,other,2364,193,0,2,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4
+post180,MQDQ-514,lat_0392_MQDQ-514.txt,Augustinus Hipponensis,"*ignoti uersus ap. Aug. mus. 5, 13, 27",other,53,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-516,lat_0392_MQDQ-516.txt,Augustinus Hipponensis,uersus Sibyllae,other,178,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,IT-LAT0397,lat_0393_IT-LAT0397.txt,Augustinus Hipponensis,De fide et symbolo,other,5644,221,1,1,0,0,2,0,0,0,4,0,0,0,0,0,12,0,0,0,1,1,1,0,4,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,6
+post180,IT-LAT1004,lat_0395_IT-LAT1004.txt,"Macarius Alexandrinus Abbas Nitriensis, Sanctus",Regula ad monachos,other,1412,103,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+post180,IT-LAT0373,lat_0398_IT-LAT0373.txt,"Claudianus, Claudius",Fescennina dicta Honorio Augusto et Mariae,other,558,42,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,1,0,0
+post180,IT-LAT0015,lat_0399_IT-LAT0015.txt,Augustinus Hipponensis,Confessiones,other,5159,262,0,3,0,0,2,0,0,0,5,0,0,0,1,0,44,0,0,0,0,0,2,0,6,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,1,3,8
+post180,IT-LAT0403,lat_0399_IT-LAT0403.txt,Augustinus Hipponensis,De cathechizandis rudibus,other,14402,412,1,7,3,0,8,0,0,0,10,0,0,1,0,2,57,0,0,1,9,0,16,1,7,0,1,0,0,0,2,0,1,0,7,1,3,3,0,0,0,5,11
+post180,MQDQ-15,lat_0400.0_MQDQ-15.txt,"Claudianus, Claudius",in Rufinum,other,5950,355,2,0,0,0,0,0,1,1,2,0,0,0,0,1,2,0,0,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,4,0,0
+post180,MQDQ-16,lat_0400.0_MQDQ-16.txt,"Claudianus, Claudius",panegyricus dictus Honorio tertium consuli,other,1432,60,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+post180,MQDQ-165,lat_0400.0_MQDQ-165.txt,Licentius,carmen ad Augustinum,other,1036,39,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+post180,MQDQ-17,lat_0400.0_MQDQ-17.txt,"Claudianus, Claudius",panegyricus dictus Honorio quartum consuli,other,4090,244,2,0,0,1,0,0,3,1,4,0,0,0,0,0,4,1,0,0,2,1,2,0,0,1,0,0,0,0,0,0,0,0,0,4,0,0,0,0,3,2,0
+post180,MQDQ-21,lat_0400.0_MQDQ-21.txt,"Claudianus, Claudius",panegyricus dictus Mallio Theodoro consuli,other,2230,117,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,3,0,3,1,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,2,1,0
+post180,MQDQ-22,lat_0400.0_MQDQ-22.txt,"Claudianus, Claudius",in Eutropium,other,7428,464,4,0,0,3,4,1,4,5,5,0,0,0,4,3,14,2,0,0,4,0,3,0,0,1,1,0,0,1,6,0,1,0,0,4,0,0,0,0,5,1,0
+post180,MQDQ-23,lat_0400.0_MQDQ-23.txt,"Claudianus, Claudius",de consulatu Stilichonis,other,7824,412,4,0,0,3,0,0,1,1,2,0,0,0,0,4,6,1,0,0,2,2,5,3,0,0,3,0,3,1,2,0,0,0,0,5,1,0,0,0,6,4,0
+post180,MQDQ-25,lat_0400.0_MQDQ-25.txt,"Claudianus, Claudius",panegyricus dictus Honorio sextum consuli,other,4315,204,1,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,2,0,0,0,0,0,2,0,0,2,0,0,0,0,0,5,0,0,0,0,5,0,0
+post180,MQDQ-26,lat_0400.0_MQDQ-26.txt,"Claudianus, Claudius",carmina minora,other,8752,510,2,0,0,0,0,0,0,7,2,0,0,0,0,2,2,2,0,0,3,1,3,0,0,0,3,0,1,2,0,0,1,0,0,6,0,0,0,0,5,5,0
+post180,MQDQ-27,lat_0400.0_MQDQ-27.txt,"Claudianus, Claudius",de raptu Proserpinae,other,7190,411,2,0,0,0,0,0,1,2,1,0,0,0,0,2,1,0,0,0,2,0,0,0,1,0,0,0,0,2,0,0,1,0,0,4,0,0,0,0,2,1,0
+post180,MQDQ-28,lat_0400.0_MQDQ-28.txt,"Claudianus, Claudius",epigramma,other,26,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-379,lat_0400.0_MQDQ-379.txt,pseudo Cyprianus,carmen ad quendam senatorem,other,588,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-380,lat_0400.0_MQDQ-380.txt,pseudo Cyprianus,de Sodoma,other,1108,64,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-381,lat_0400.0_MQDQ-381.txt,pseudo Cyprianus,de Iona,other,714,40,0,0,0,0,0,0,1,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-382,lat_0400.0_MQDQ-382.txt,pseudo Cyprianus,de pascha,other,438,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+post180,MQDQ-383,lat_0400.0_MQDQ-383.txt,pseudo Cyprianus,de resurrectione mortuorum,other,2587,101,0,1,0,0,0,0,0,0,0,0,0,0,0,1,12,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+post180,MQDQ-441,lat_0400.0_MQDQ-441.txt,pseudo Probus,"de ultimis syllabis, praefatio",other,74,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,IT-LAT0270,lat_0400_IT-LAT0270.txt,"Prudentius, Aurelius Clemens",Psychomachia,other,6101,263,2,4,0,0,0,0,1,1,4,0,0,0,0,1,7,3,0,0,2,1,2,0,1,0,0,0,0,1,0,0,0,0,0,1,2,0,0,0,1,0,1
+post180,IT-LAT0329,lat_0400_IT-LAT0329.txt,"Paris, Iulius",De nominibus Epitome,other,666,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+post180,IT-LAT0843,lat_0400_IT-LAT0843.txt,Hieronymus,Contra Ioannem Hierosolymitanum Episcopum ad Pammachium,other,12744,656,1,3,1,0,0,0,0,0,3,0,0,0,0,0,42,0,0,2,4,0,11,5,3,0,0,0,0,1,0,0,1,0,0,0,2,0,0,0,0,9,4
+post180,IT-LAT0878,lat_0400_IT-LAT0878.txt,Hieronymus,Vita Pauli,other,2382,143,0,0,0,0,2,0,0,0,0,0,0,0,1,0,6,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0
+post180,IT-LAT0880,lat_0400_IT-LAT0880.txt,Hieronymus,Epistulae,other,5178,291,1,2,1,0,0,0,1,0,1,0,0,0,0,0,25,0,0,0,0,0,5,0,4,0,2,0,1,0,0,0,0,0,1,2,3,0,0,0,0,2,3
+post180,LC-12,lat_0400_LC-12.txt,[Auctor incertus],Helius (Historia Augusta),other,1427,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0
+post180,LC-12_1,lat_0400_LC-12_1.txt,[Auctor incertus],Carus et Carinus et Numerianus (Historia Augusta),other,2727,130,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,20,1,0
+post180,LC-16_1,lat_0400_LC-16_1.txt,Paulinus Pellaeus,Eucharisticon Deo sub ephemeridis meae textu,other,4286,83,3,0,0,0,1,0,1,2,1,0,0,2,0,0,4,0,0,0,1,1,2,0,0,1,3,0,1,1,1,0,1,0,0,3,0,0,0,0,3,3,1
+post180,IT-LAT0410,lat_0403_IT-LAT0410.txt,"Severus, Sulpicius",Vita Sancti Martini episcopi et confessoris,other,6713,297,0,1,1,0,3,0,0,0,2,0,0,0,0,0,39,0,0,0,5,0,2,1,3,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,6,2
+post180,MQDQ-284,lat_0418_MQDQ-284.txt,Paulinus Pellaeus,oratio,other,133,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,IT-LAT0768,lat_0419_IT-LAT0768.txt,Augustinus Hipponensis,A Firmo de civitate Dei,other,380,16,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+post180,IT-LAT0337,lat_0420_IT-LAT0337.txt,"Apicius, Marcus Gavius",De re coquinaria,other,15567,1400,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-121,lat_0425_MQDQ-121.txt,Hilarius Arelatensis,carminis fragmentum,other,26,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,IT-LAT0610,lat_0426_IT-LAT0610.txt,Prosper Aquitanus,Liber sententiarum,other,14184,935,0,5,2,0,11,0,0,0,11,0,0,0,0,0,33,1,0,0,10,2,4,4,35,0,0,4,0,4,1,0,0,0,0,0,2,0,0,3,1,38,46
+post180,IT-LAT0383,lat_0438_IT-LAT0383.txt,[Auctor incertus],Contra haereticos (Codex Theodosianus),other,466,8,0,0,0,0,1,0,0,0,0,0,0,3,0,0,2,0,0,0,0,0,0,0,2,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-114,lat_0450.0_MQDQ-114.txt,[Auctor incertus],Alcestis Barcinonensis,other,850,51,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-125,lat_0450.0_MQDQ-125.txt,Honoratus Massiliensis,"uita Hilarii Arelatensis, uersus inserti",other,74,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+post180,MQDQ-185,lat_0450.0_MQDQ-185.txt,Ambrosius Theodosius Macrobius,carminis fragmentum,other,21,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-189,lat_0450.0_MQDQ-189.txt,Marius Victor,alethia,other,13501,404,2,1,0,2,1,0,16,9,6,0,0,0,0,0,27,4,0,0,1,1,6,4,2,1,0,0,1,2,1,0,2,0,0,3,0,0,0,0,4,3,6
+post180,MQDQ-2,lat_0450.0_MQDQ-2.txt,[Auctor incertus],aegritudo Perdicae,other,1922,118,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,1,1,0
+post180,MQDQ-212,lat_0450.0_MQDQ-212.txt,Martianus Capella,de nuptiis Philologiae et Mercurii,other,4525,218,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,2,0,0,6,3,0,0,0,3,0,0,0,1,0,0,0,1,0,0,0,0,1,0
+post180,MQDQ-218,lat_0450.0_MQDQ-218.txt,Merobaudes,carmen de Christo,other,206,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-219,lat_0450.0_MQDQ-219.txt,Merobaudes,carmina,other,483,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-220,lat_0450.0_MQDQ-220.txt,Merobaudes,panegyricus poeticus,other,1262,56,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-242,lat_0450.0_MQDQ-242.txt,Orientius,commonitorium,other,6476,345,0,0,0,4,2,0,0,0,1,0,0,0,0,1,34,0,0,0,1,1,2,2,1,0,0,0,1,1,0,0,0,0,0,2,0,0,0,0,2,2,1
+post180,MQDQ-243,lat_0450.0_MQDQ-243.txt,Orientius,carmina minora,other,1705,156,0,0,0,0,0,0,2,0,0,0,0,0,0,0,5,0,0,1,1,1,1,0,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,1,2
+post180,MQDQ-273,lat_0450.0_MQDQ-273.txt,Palladius Rutilius Taurus Aemilianus,de insitione,other,993,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+post180,MQDQ-278,lat_0450.0_MQDQ-278.txt,Paulinus Baeterrensis,epigramma,other,753,34,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+post180,MQDQ-285,lat_0450.0_MQDQ-285.txt,Paulinus Petricordiae,de uita Martini,other,22147,1175,5,0,0,0,13,0,10,2,7,0,0,0,0,13,94,1,0,0,6,0,11,2,12,0,14,0,6,7,0,0,1,0,0,8,2,0,0,0,11,35,8
+post180,MQDQ-286,lat_0450.0_MQDQ-286.txt,Paulinus Petricordiae,de uisitatione nepotuli sui,other,523,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0
+post180,MQDQ-287,lat_0450.0_MQDQ-287.txt,Paulinus Petricordiae,uersus de orantibus,other,155,14,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-304,lat_0450.0_MQDQ-304.txt,Phocas,carmen de uita Vergilii,other,760,66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-305,lat_0450.0_MQDQ-305.txt,Phocas,"ars, praefatio",other,80,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-349,lat_0450.0_MQDQ-349.txt,Priscillianista quidam,praeceptum,other,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-360,lat_0450.0_MQDQ-360.txt,Prosper Aquitanus,"carmen de ingratis, argumentum",other,72,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-361,lat_0450.0_MQDQ-361.txt,Prosper Aquitanus,carmen de ingratis,other,6768,244,23,2,0,0,0,0,0,1,1,0,0,0,0,2,5,0,0,0,4,1,3,27,18,0,0,0,0,0,2,0,4,0,0,0,0,0,0,0,0,36,13
+post180,MQDQ-362,lat_0450.0_MQDQ-362.txt,Prosper Aquitanus,in obtrectatorem Augustini,other,149,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-363,lat_0450.0_MQDQ-363.txt,Prosper Aquitanus,epigrammata,other,5851,392,2,0,0,0,4,0,1,4,5,0,0,0,0,0,25,1,0,0,6,4,8,4,9,0,0,0,0,1,2,0,1,0,0,4,0,0,0,0,4,9,17
+post180,MQDQ-364,lat_0450.0_MQDQ-364.txt,Prosper Aquitanus,epitaphium haereseon,other,148,11,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+post180,MQDQ-365,lat_0450.0_MQDQ-365.txt,Pseudo-Prosper,*carmen de prouidentia,other,6547,291,3,0,0,0,7,0,2,0,4,0,0,0,0,4,28,1,0,0,3,0,12,4,4,0,2,0,1,2,1,0,1,0,0,2,1,0,0,0,2,1,3
+post180,MQDQ-413,lat_0450.0_MQDQ-413.txt,Rufinus,in metra Terentiana,other,150,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-414,lat_0450.0_MQDQ-414.txt,Rufinus,de numeris oratorum,other,459,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-417,lat_0450.0_MQDQ-417.txt,Rutilius Namatianus,de reditu suo,other,4048,252,2,0,0,1,1,0,0,2,0,0,0,0,0,2,1,2,0,0,2,1,2,0,0,0,0,0,0,1,0,0,0,0,0,4,0,0,0,0,4,0,0
+post180,MQDQ-418,lat_0450.0_MQDQ-418.txt,Rutilius Namatianus,fragmenta duo,other,184,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-422,lat_0450.0_MQDQ-422.txt,Sedulius,carmen paschale,other,11401,454,3,2,0,0,0,0,2,2,1,0,0,0,0,0,86,0,0,0,8,3,3,0,2,0,1,0,2,4,3,0,1,0,0,3,1,0,0,0,7,4,3
+post180,MQDQ-423,lat_0450.0_MQDQ-423.txt,Sedulius,hymni,other,995,80,0,2,0,0,2,0,0,0,0,0,0,0,0,0,8,0,0,0,1,0,2,0,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,4,2
+post180,MQDQ-48,lat_0450.0_MQDQ-48.txt,Cyprianus Gallus,liber geneseos,other,9480,520,1,0,0,1,10,0,3,4,8,0,0,0,0,1,65,3,0,0,0,0,2,1,1,1,0,0,3,3,1,0,0,0,0,0,0,0,0,0,3,1,1
+post180,MQDQ-482,lat_0450.0_MQDQ-482.txt,Symphosius,aenigmata,other,2264,220,0,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,2,0
+post180,MQDQ-49,lat_0450.0_MQDQ-49.txt,Cyprianus Gallus,exodus,other,5600,410,7,0,1,1,2,1,1,0,3,0,0,0,0,2,41,0,0,0,2,0,4,0,0,2,0,0,3,2,2,0,1,0,0,3,0,0,0,0,4,1,2
+post180,MQDQ-50,lat_0450.0_MQDQ-50.txt,Cyprianus Gallus,leuiticus,other,2039,102,2,0,0,0,2,1,0,0,4,0,0,0,0,0,18,0,0,0,0,0,3,1,0,0,0,0,0,0,1,0,1,0,0,2,0,0,0,0,1,0,2
+post180,MQDQ-51,lat_0450.0_MQDQ-51.txt,Cyprianus Gallus,numeri,other,5058,224,0,0,0,1,0,0,0,0,0,0,0,0,0,2,51,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,1,0,3
+post180,MQDQ-52,lat_0450.0_MQDQ-52.txt,Cyprianus Gallus,deuteronomium,other,1653,104,0,0,0,0,2,0,0,0,0,0,0,0,0,1,21,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0
+post180,MQDQ-53,lat_0450.0_MQDQ-53.txt,Cyprianus Gallus,Iesu Naue,other,3757,217,0,1,0,1,0,0,1,0,1,0,0,0,0,2,27,0,0,0,0,0,2,0,0,0,0,0,0,3,0,0,0,0,0,2,0,0,0,0,0,1,0
+post180,MQDQ-54,lat_0450.0_MQDQ-54.txt,Cyprianus Gallus,iudicum,other,4973,295,0,0,2,1,1,0,5,0,3,0,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,1,0,0,4,1,0,0,0,5,1,0
+post180,MQDQ-55,lat_0450.0_MQDQ-55.txt,Cyprianus Gallus,deperditorum carminum reliquiae,other,102,11,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-562,lat_0450.0_MQDQ-562.txt,Auianus,fabulae,other,4932,295,2,0,0,0,1,0,0,0,0,0,0,0,0,0,6,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,4,1,0,0,0,0,1,1
+post180,MQDQ-59,lat_0450.0_MQDQ-59.txt,Dracontius,de laudibus dei,other,15248,622,9,1,0,0,2,0,10,0,5,0,0,2,0,5,35,0,0,1,5,5,6,3,3,0,0,0,2,2,2,0,1,0,0,6,1,0,0,0,5,1,8
+post180,MQDQ-60,lat_0450.0_MQDQ-60.txt,Dracontius,satisfactio,other,2015,125,0,0,0,0,0,0,0,1,0,0,0,0,0,2,14,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,0,3,0,6
+post180,MQDQ-608,lat_0450.0_MQDQ-608.txt,Auspicius Tullensis Episcopus,epistula ad Arbogastem,other,575,32,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+post180,MQDQ-61,lat_0450.0_MQDQ-61.txt,Dracontius,Romulea,other,19349,900,5,0,0,0,4,0,2,3,15,0,0,2,0,21,5,11,0,1,4,0,13,3,2,1,4,0,3,4,0,0,3,0,0,6,0,0,0,0,10,6,0
+post180,MQDQ-611,lat_0450.0_MQDQ-611.txt,Cytherius,epitaphium Hilarini,other,12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-615,lat_0450.0_MQDQ-615.txt,Achilleus Spoletanus Episcopus,epigramma in ecclesia sancti Petri,other,25,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-62,lat_0450.0_MQDQ-62.txt,Dracontius,"Romulea, fragmentum",other,13,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-63,lat_0450.0_MQDQ-63.txt,Dracontius,Orestes,other,6203,317,0,0,0,0,1,0,5,1,1,2,0,0,0,2,2,0,0,0,3,0,0,1,0,0,0,0,1,2,1,0,1,0,0,0,0,0,0,0,3,0,0
+post180,MQDQ-630,lat_0450.0_MQDQ-630.txt,Caelius Aurelianus,e Parmenide conuersa,other,38,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-66,lat_0450.0_MQDQ-66.txt,Agrestius Gallus Episcopus,uersus de fide,other,281,15,0,1,0,0,0,0,1,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,IT-LAT0333,lat_0450_IT-LAT0333.txt,"Servius, Marius Honoratus",De centum metris,other,2053,230,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,IT-LAT0334,lat_0450_IT-LAT0334.txt,"Servius, Marius Honoratus",De metris Horatii,other,1372,48,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0
+post180,IT-LAT0336,lat_0450_IT-LAT0336.txt,"Servius, Marius Honoratus",Explanatio in artem Donati,other,17182,936,0,0,0,0,0,0,0,0,6,2,0,0,0,0,0,0,0,0,4,0,1,3,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,0
+post180,IT-LAT0608,lat_0450_IT-LAT0608.txt,Eucherius Arelas: Sanctus,De laude eremi,other,3850,181,1,0,0,1,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,7,2
+post180,IT-LAT0904,lat_0450_IT-LAT0904.txt,Vincentius Lerinensis,Adversus profanas omnium novitates haereticorum commonitorium cum notis,other,12860,571,0,0,1,0,1,0,0,0,0,0,0,0,0,0,16,0,0,0,2,0,24,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,15,5
+post180,IT-LAT1001,lat_0450_IT-LAT1001.txt,[Auctor incertus],Excerpta Valesiana,other,4613,284,0,0,0,0,2,0,1,0,0,0,0,0,0,2,1,0,0,0,0,0,2,0,2,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,5,3,0
+post180,LC-16,lat_0450_LC-16.txt,Ambrosius Theodosius Macrobius,Saturnalia,other,80094,3644,16,6,4,1,60,7,5,1,6,8,7,4,2,6,39,5,2,0,28,4,199,6,10,6,4,0,3,23,5,0,4,0,0,9,5,0,0,0,19,31,0
+post180,MQDQ-444,lat_0458_MQDQ-444.txt,Sidonius Apollinaris,carmina,other,22053,922,2,1,0,1,2,0,3,2,5,0,0,0,0,11,13,1,0,0,2,1,8,0,1,0,3,0,4,2,0,0,0,0,0,11,0,0,0,0,16,5,1
+post180,MQDQ-445,lat_0458_MQDQ-445.txt,Sidonius Apollinaris,"epistulae, uersus inserti",other,2519,115,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,2,0,0,0,0,1,0
+post180,MQDQ-111,lat_0473_MQDQ-111.txt,Ruricius Lemovicensis Episcopus,"carmen epist. 2, 19 insertum",other,120,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-277,lat_0500_MQDQ-277.txt,Parthenius Africanus Presbyter,carminum fragmenta,other,97,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,IT-LAT0917,lat_0502_IT-LAT0917.txt,"Boethius, Anicius Manlius Severinus",Porphyrii Isagoge translatio,other,5131,146,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,1,0
+post180,MQDQ-622,lat_0518_MQDQ-622.txt,Alcimus Auitus,poematum libri,other,20191,1032,5,1,1,4,5,0,14,5,6,0,0,0,0,4,23,2,0,0,8,2,8,0,6,0,0,0,5,7,2,0,2,0,0,3,2,0,0,0,3,13,7
+post180,MQDQ-623,lat_0518_MQDQ-623.txt,Alcimus Auitus,carminum appendix,other,1555,96,0,1,0,0,0,0,0,1,0,0,0,0,0,1,3,0,0,0,1,1,2,1,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0
+post180,MQDQ-75,lat_0521_MQDQ-75.txt,Ennodius,carmina 1,other,5231,422,0,0,0,1,2,0,2,0,2,0,0,0,0,4,6,0,0,0,1,0,1,0,0,0,4,0,1,0,0,0,1,0,0,1,2,0,0,0,2,2,1
+post180,MQDQ-76,lat_0521_MQDQ-76.txt,Ennodius,carmina 2,other,5493,495,1,1,0,0,1,0,1,0,2,0,0,0,1,5,7,2,0,0,0,0,7,1,0,0,13,0,0,1,0,0,0,0,0,1,2,0,0,0,4,1,0
+post180,MQDQ-77,lat_0521_MQDQ-77.txt,Ennodius,"dictiones, 12, 24, 28, uersus inserti",other,94,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-78,lat_0521_MQDQ-78.txt,Ennodius,"epistulae, 5,7-8, uersus inserti",other,134,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-79,lat_0521_MQDQ-79.txt,Ennodius,"epistulae, 7,21-29, uersus inserti",other,76,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-80,lat_0521_MQDQ-80.txt,Ennodius,"opuscula, 6, uersus inserti",other,56,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-81,lat_0521_MQDQ-81.txt,Ennodius,"laus uersuum, opusc. 6",other,55,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-82,lat_0521_MQDQ-82.txt,Ennodius,"Verecundia, opusc. 6",other,39,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-83,lat_0521_MQDQ-83.txt,Ennodius,"Castitas, opusc. 6",other,67,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-84,lat_0521_MQDQ-84.txt,Ennodius,"Fides, opusc. 6",other,68,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-85,lat_0521_MQDQ-85.txt,Ennodius,"Grammatica, opusc. 6",other,67,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-86,lat_0521_MQDQ-86.txt,Ennodius,"Rhetorica, opusc. 6",other,58,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,IT-LAT0011,lat_0524_IT-LAT0011.txt,Benedictus Nursianus,S. Benedicti Regula,other,11617,481,0,0,4,4,2,0,0,0,8,0,0,1,0,0,44,0,0,0,7,0,4,5,21,3,0,13,1,0,0,0,0,0,0,1,0,0,0,18,6,7,9
+post180,MQDQ-627,lat_0524_MQDQ-627.txt,"Boethius, Anicius Manlius Severinus",consolatio Philosophiae,other,3586,194,0,1,0,0,0,0,0,0,1,0,0,1,0,0,6,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0
+post180,MQDQ-621,lat_0525_MQDQ-621.txt,Cyprianus Tolonensis Episcopus,uersus in subscritione codicis Hegesippi,other,92,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,IT-LAT0867,lat_0531_IT-LAT0867.txt,"Iustinianus, Caesar Flavius (Imperator Iustinianus)",Codex,justinian,394637,63100,499,131,104,7,573,99,5,3,20,113,20,95,126,20,526,20,247,3,338,1,631,92,380,255,82,11,26,48,32,118,27,12,11,20,34,29,36,1,55,121,8
+post180,IT-LAT0202,lat_0533_IT-LAT0202.txt,"Iustinianus, Caesar Flavius (Imperator Iustinianus)",Institutiones,justinian,52783,2000,82,26,21,0,201,12,0,0,3,38,12,11,3,2,201,2,28,0,169,0,200,9,43,11,0,0,0,21,7,47,6,1,2,1,1,3,12,0,10,33,0
+post180,MQDQ-618,lat_0533_MQDQ-618.txt,Remigius Remensis Episcopus,uersus de calice,other,19,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,IT-LAT0251,lat_0535_IT-LAT0251.txt,Papa Gelasius I,Epistulae Theodoricianae variae,other,894,38,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,2,1,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+post180,IT-LAT0252,lat_0535_IT-LAT0252.txt,"Cassiodorus, Flavius Magnus Aurelius",Orationes,other,1408,62,1,0,0,0,0,0,0,0,1,0,0,0,0,0,4,3,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+post180,IT-LAT0250,lat_0540_IT-LAT0250.txt,"Cassiodorus, Flavius Magnus Aurelius",De Anima,other,10268,514,0,2,0,0,2,0,0,0,5,0,0,0,0,2,20,0,0,1,9,2,9,1,11,1,2,3,0,1,0,0,0,0,0,0,1,0,0,0,3,10,17
+post180,MQDQ-122,lat_0550.0_MQDQ-122.txt,[Auctor incertus],"historia Apollonii, uersus inserti",other,187,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-177,lat_0550.0_MQDQ-177.txt,Luxurius,carmina (anth. Riese),other,4751,309,0,0,0,0,0,0,1,6,1,0,0,0,0,0,6,0,0,0,0,0,5,0,1,0,1,0,2,0,0,0,0,0,0,3,0,0,0,0,1,2,0
+post180,MQDQ-191,lat_0550.0_MQDQ-191.txt,Severus Malacitanus,in Euangelia,other,4512,265,0,0,0,0,10,0,0,0,0,0,0,0,0,0,21,0,0,0,1,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2
+post180,MQDQ-215,lat_0550.0_MQDQ-215.txt,Maximianus,elegiae,other,4281,291,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,1,0,2,1,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,0
+post180,MQDQ-216,lat_0550.0_MQDQ-216.txt,Maximianus,elegiarum appendix,other,690,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-346,lat_0550.0_MQDQ-346.txt,Priscianus,perihegesis,other,6932,371,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,0,1,0,0
+post180,MQDQ-347,lat_0550.0_MQDQ-347.txt,Priscianus,carmen in laudem Anastasii imperatoris,other,2076,62,0,1,0,0,0,0,0,0,0,0,0,1,0,1,6,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,2,0,0
+post180,MQDQ-348,lat_0550.0_MQDQ-348.txt,Priscianus,carminis fragmentum,other,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-351,lat_0550.0_MQDQ-351.txt,Arator,epistula ad Florianum,other,147,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-352,lat_0550.0_MQDQ-352.txt,Arator,epistula ad Vigilium,other,188,15,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-353,lat_0550.0_MQDQ-353.txt,Arator,de actibus apostolorum,other,15741,617,3,1,0,0,3,0,3,1,4,0,0,0,0,1,28,1,0,0,5,0,15,0,4,0,3,0,2,2,1,0,2,0,0,3,4,0,0,0,4,14,4
+post180,MQDQ-354,lat_0550.0_MQDQ-354.txt,Arator,alethia,other,644,34,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-355,lat_0550.0_MQDQ-355.txt,Arator,in historiam praefatio,other,51,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-415,lat_0550.0_MQDQ-415.txt,Rusticius Helpidius,de Christi beneficiis,other,982,11,0,0,0,0,0,0,0,0,1,0,0,0,0,0,4,0,0,0,2,2,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,1,1,0
+post180,MQDQ-416,lat_0550.0_MQDQ-416.txt,Rusticius Helpidius,tristicha,other,464,26,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+post180,MQDQ-42,lat_0550.0_MQDQ-42.txt,Corippus,Iohannis,other,30486,2126,3,3,0,1,3,0,5,2,7,0,0,0,0,15,30,1,0,0,5,3,5,0,5,0,1,0,5,9,0,0,0,0,0,11,2,0,0,0,10,1,2
+post180,MQDQ-43,lat_0550.0_MQDQ-43.txt,Corippus,panegyricus in laudem Anastasii,other,334,21,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-44,lat_0550.0_MQDQ-44.txt,Corippus,panegyricus in laudem Iustini Augusti,other,10251,711,3,0,0,1,8,0,5,0,7,0,0,0,0,0,46,1,0,0,3,1,3,0,2,2,5,0,1,7,0,0,0,0,0,1,1,0,0,0,27,2,2
+post180,MQDQ-475,lat_0550.0_MQDQ-475.txt,sylloge cod. Elnonensis,sylloge cod. Elnonensis,other,441,17,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-65,lat_0550.0_MQDQ-65.txt,[Auctor incertus],elogium Asbadi,other,91,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+post180,MQDQ-94,lat_0550.0_MQDQ-94.txt,Felix,carmina (anth. Riese),other,608,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,2,1,0
+post180,MQDQ-95,lat_0550.0_MQDQ-95.txt,Flauius Cabilonensis Episcopus,hymnus,other,127,9,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+post180,MQDQ-98,lat_0550.0_MQDQ-98.txt,Florentinus,carmen (anth. Riese),other,247,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+post180,IT-LAT0196,lat_0550_IT-LAT0196.txt,Iordanes,De origine actibusque Getarum,other,19442,503,4,2,3,2,0,0,0,1,8,0,0,0,4,2,17,0,2,1,4,1,10,1,1,3,0,1,0,2,0,0,0,1,0,7,0,0,0,0,33,8,1
+post180,IT-LAT0433,lat_0550_IT-LAT0433.txt,Martinus Bracarensis,Pro repellenda iactantia,other,1125,67,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+post180,IT-LAT0435,lat_0550_IT-LAT0435.txt,Martinus Bracarensis,Sententiae patrum Aegyptiorum,other,4281,283,0,2,0,0,4,0,0,0,1,0,0,0,0,0,14,0,0,0,0,0,1,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,12
+post180,IT-LAT0783,lat_0550_IT-LAT0783.txt,Gregorius Turonensis,Historiae,other,118402,6222,5,31,6,17,28,10,15,13,12,0,0,6,4,34,352,5,8,18,56,4,119,3,60,7,6,6,3,13,0,0,15,5,14,5,10,0,0,0,38,102,20
+post180,IT-LAT0791,lat_0550_IT-LAT0791.txt,Marcellinus Comes,Chronicon,other,10613,1024,0,1,0,0,0,0,0,0,0,0,0,0,0,6,11,0,0,0,1,0,5,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,25,5,0
+post180,IT-LAT0906,lat_0550_IT-LAT0906.txt,Iordanes,De summa temporum vel origine actibusque gentis Romanorum,other,18461,1183,10,2,5,3,1,0,1,0,2,0,0,0,0,9,13,0,2,4,5,1,16,0,3,0,0,0,1,2,1,0,0,0,5,9,3,0,0,0,49,6,1
+post180,IT-LAT0987,lat_0550_IT-LAT0987.txt,Anthimus,De observatione ciborum,other,4419,201,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+post180,IT-LAT0990,lat_0550_IT-LAT0990.txt,Martinus Bracarensis,"Concilium Bracarense primum octo episcoporum, habitum aera DXCIX, anno tertio Ariamiri regis, die Kalendarum Maiarum.",other,2377,101,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,1,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,0
+post180,IT-LAT0990_1,lat_0550_IT-LAT0990_1.txt,Martinus Bracarensis,"Concilium Bracarense secundum duodecim episcoporum, habitum anno secundo regis Mironis, die Kalendarum Iuniarum, aera DCX.",other,1634,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,1,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,7,1
+post180,IT-LAT0990_2,lat_0550_IT-LAT0990_2.txt,Martinus Bracarensis,De correctione rusticorum,other,3135,127,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,3
+post180,IT-LAT0990_3,lat_0550_IT-LAT0990_3.txt,Martinus Bracarensis,De ira,other,2278,183,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,1,2
+post180,IT-LAT0990_4,lat_0550_IT-LAT0990_4.txt,Martinus Bracarensis,De Pascha,other,1202,100,1,4,8,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1,0,0,0,3,0,0,0,1,0
+post180,IT-LAT0990_5,lat_0550_IT-LAT0990_5.txt,Martinus Bracarensis,De superbia,other,1190,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0
+post180,IT-LAT0990_6,lat_0550_IT-LAT0990_6.txt,Martinus Bracarensis,De Trina Mersione,other,690,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+post180,IT-LAT0990_7,lat_0550_IT-LAT0990_7.txt,Martinus Bracarensis,Exhortatio humilitatis,other,1274,67,0,0,0,0,1,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,4,2
+post180,IT-LAT0990_8,lat_0550_IT-LAT0990_8.txt,Martinus Bracarensis,"Formula vitae honestae, De quattuor virtutibus",other,2162,139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,2,0,0,3,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,1,0
+post180,IT-LAT0990_9,lat_0550_IT-LAT0990_9.txt,Martinus Bracarensis,Capitula ex orientalium patrum synodis,other,3691,166,0,0,0,1,1,0,0,0,0,0,0,0,0,0,6,0,0,0,9,0,2,0,3,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,3,5
+post180,MQDQ-537,lat_0552_MQDQ-537.txt,Verecundus Iuncensis Episcopus,de satisfactione paenitentiae,other,1294,107,0,0,0,0,0,0,0,1,0,0,0,0,0,0,5,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2
+post180,MQDQ-619,lat_0559_MQDQ-619.txt,Columba,hymni,other,1068,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,1,0,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+post180,IT-LAT0482,lat_0562_IT-LAT0482.txt,"Cassiodorus, Flavius Magnus Aurelius",Institutiones divinarum et saecularium litterarum,other,27889,1181,2,2,1,0,4,0,3,1,4,0,0,0,0,0,138,0,0,0,5,0,241,3,8,2,6,3,1,1,0,0,1,0,1,2,1,0,0,0,3,40,7
+post180,MQDQ-209,lat_0579_MQDQ-209.txt,Martinus Bracariensis,uersus in basilica,other,136,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+post180,MQDQ-210,lat_0579_MQDQ-210.txt,Martinus Bracariensis,uersus in refectorio,other,60,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+post180,MQDQ-211,lat_0579_MQDQ-211.txt,Martinus Bracariensis,epitaphium,other,39,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-188,lat_0594_MQDQ-188.txt,Marius Auenticentis Episcopus,epitaphium,other,127,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+post180,MQDQ-523,lat_0601_MQDQ-523.txt,Venantius Fortunatus,uita Martini,other,15039,716,4,0,0,1,3,0,12,3,3,0,0,0,1,3,28,0,0,0,4,2,6,0,2,0,8,0,0,0,0,0,4,0,0,2,0,0,0,0,4,8,0
+post180,MQDQ-524,lat_0601_MQDQ-524.txt,Venantius Fortunatus,carminum libri  1,other,3472,206,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,2,3,0
+post180,MQDQ-525,lat_0601_MQDQ-525.txt,Venantius Fortunatus,carminum libri  2,other,3742,211,1,0,0,1,0,0,0,1,0,0,0,0,0,1,7,0,0,0,0,0,4,1,1,0,2,0,0,0,0,0,1,1,0,1,1,0,0,0,0,3,0
+post180,MQDQ-526,lat_0601_MQDQ-526.txt,Venantius Fortunatus,carminum libri  3,other,4980,294,0,0,0,0,0,0,0,0,0,0,0,0,0,1,13,0,0,0,1,0,2,0,2,0,1,0,2,0,0,0,0,0,0,1,0,0,0,0,2,6,0
+post180,MQDQ-527,lat_0601_MQDQ-527.txt,Venantius Fortunatus,carminum libri  4,other,4307,297,0,0,0,1,0,0,1,0,1,0,0,0,0,2,4,0,0,0,0,0,2,0,0,0,1,0,0,1,0,0,2,0,0,1,0,0,0,0,0,1,1
+post180,MQDQ-528,lat_0601_MQDQ-528.txt,Venantius Fortunatus,carminum libri  5,other,2975,182,1,1,0,0,0,0,5,1,0,0,0,0,0,2,16,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,3,0,0,0,0,0,2,0
+post180,MQDQ-529,lat_0601_MQDQ-529.txt,Venantius Fortunatus,carminum libri  6,other,5862,402,0,0,0,1,0,0,1,2,0,0,0,0,0,3,7,1,0,0,1,1,3,0,1,0,4,0,1,1,0,0,1,0,0,3,1,0,0,0,0,5,0
+post180,MQDQ-530,lat_0601_MQDQ-530.txt,Venantius Fortunatus,carminum libri  7,other,4931,336,1,0,0,2,2,0,1,0,0,0,0,0,0,0,6,0,0,0,1,2,4,1,2,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,7,0
+post180,MQDQ-531,lat_0601_MQDQ-531.txt,Venantius Fortunatus,carminum libri  8,other,4532,294,0,0,0,1,1,1,2,3,0,0,0,0,0,0,13,0,0,0,1,0,5,0,2,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,1,4,0
+post180,MQDQ-532,lat_0601_MQDQ-532.txt,Venantius Fortunatus,carminum libri  9,other,3470,203,0,0,0,0,0,0,3,1,0,0,0,0,0,1,7,1,0,0,1,0,2,0,2,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,2,0
+post180,MQDQ-533,lat_0601_MQDQ-533.txt,Venantius Fortunatus,carminum libri 10,other,3585,193,0,0,0,0,0,0,3,2,0,0,0,0,0,2,23,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,1,0,0,3,0,0,0,0,2,2,0
+post180,MQDQ-534,lat_0601_MQDQ-534.txt,Venantius Fortunatus,carminum libri 11,other,1950,125,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+post180,MQDQ-535,lat_0601_MQDQ-535.txt,Venantius Fortunatus,carminum appendix,other,4587,272,0,0,0,0,0,0,6,0,1,0,0,0,0,2,10,4,0,0,3,3,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,3,0
+post180,MQDQ-536,lat_0601_MQDQ-536.txt,Venantius Fortunatus,spuriorum appendix,other,3253,175,1,0,0,0,2,0,0,0,1,0,0,0,0,1,7,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,2,0,2,0,0,0,0,1,3,4
